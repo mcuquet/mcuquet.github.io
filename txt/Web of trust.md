@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web of Trust
+title: Web of trust
 tags:
 - Informació quàntica
 - Xarxes complexes

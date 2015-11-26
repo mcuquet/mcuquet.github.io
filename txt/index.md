@@ -7,7 +7,7 @@ permalink: /txt/
 <ul>
 {% for page in site.pages %}
 {% if page.collection == "txt" %}
-  <li> [{{page.title}}]({{site.baseurl}}{{page.url}})</li>
+  <li><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
