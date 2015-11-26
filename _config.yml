@@ -1,0 +1,20 @@
+# Site settings
+title: Martí Cuquet
+email: marti.cuquet@gmail.com
+#baseurl: "" # the subpath of your site, e.g. /blog/
+assetsurl: "/assets/"
+imagesurl: "/images/"
+url: "http://mcuquet.github.io" # the base hostname & protocol for your site
+
+# Jekyll settings
+gems:
+  - jekyll-pandoc
+
+# Build settings
+#markdown: kramdown
+markdown: pandoc
+
+# Pandoc options (see https://github.com/mfenner/jekyll-pandoc)
+pandoc:
+  extensions:
+    - smart

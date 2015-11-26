@@ -1,0 +1,199 @@
+/**
+ * body
+ */
+body {
+  position: relative;
+  margin: 0 auto;
+  max-width: 40em;
+  min-height: 100%;
+  padding: 0 0 2.5rem;
+}
+
+/**
+ * nav
+ */
+nav {
+  clear: both;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline;
+  list-style: none;
+}
+
+nav ul li a {
+  display: block;
+  float: left;
+  margin: 0 1.7em 0 0;
+  padding: .3em .3em;
+  text-decoration: none;
+  border-top: 4px solid black;
+}
+
+/**
+ * header
+ */
+header {
+  clear: both;
+  padding: 1.8em 0 0;
+}
+
+header h1 {
+  margin: 0 0 0 -1.5em;
+}
+
+header h1 span.subtitle {
+  display: block;
+  font-size: .8em;
+  font-weight: 300;
+}
+
+header ul.autors-names {
+  font-weight: bold;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header ul.autors-names li,
+header ul.autors-names ul li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+header ul.autors-names li:after,
+header ul.autors-names ul li:after {
+  content: ",";
+}
+
+header ul.autors-names li:last-child:after,
+header ul.autors-names ul li:last-child:after {
+  content: "";
+}
+
+header ul.autors-names ul {
+  display: inline;
+  font-size: $small-font-size;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  vertical-align: super;
+}
+
+header ol.autors-affiliations {
+  font-size: $small-font-size;
+  list-style: none inside;
+  margin: 0;
+  padding: 0;
+}
+
+header ol.autors-affiliations li {
+  display: inline;
+  margin: 0;
+  padding: 0 .5em 0 0;
+}
+
+.affiliation-number {
+  font-weight: bold;
+}
+
+/**
+ * footer
+ */
+
+footer {
+  clear: both;
+  position: absolute;
+  bottom: 0;
+  border-bottom: 4px solid black;
+  font-size: $tiny-font-size;
+  height: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: bottom;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  padding: 0;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+/**
+ * aside
+ */
+
+aside {
+  float: right;
+  width: 240px;
+  margin-top: 20px;
+  border: 1px solid $grey-color;
+  padding: 0 4px 0;
+  background: $grey-color-light;
+  font-size: .9em;
+}
+
+aside h2 {
+  border-bottom: 1px dashed $grey-color;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+aside dt {
+  clear: left;
+  float: left;
+  font-weight: bold;
+  padding-right: .5em;
+//  text-align: right;
+//  width: 7em;
+}
+
+aside dt:after {
+  content: ":";
+}
+
+aside dd {
+//  margin-left: 7.2em;
+}
+
+/**
+ * social-list
+ */
+
+ul.social-list li {
+  list-style: none;
+}
+
+/**
+ * research-ids
+ */
+
+aside.research-ids {
+  width: 180px;
+  text-align: center;
+}
+
+aside.research-ids ul {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+aside.research-ids li {
+  list-style: none;
+}

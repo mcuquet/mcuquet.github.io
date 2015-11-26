@@ -1,0 +1,111 @@
+% qphys.sty - General definitions for quantum physics texts and some formating
+% Copyleft 2008-2013 Marti Cuquet
+% http://sindominio.net/~nilvar/code
+\ProvidesPackage{qphys}
+
+
+%% Math %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Derivatives
+\newcommand{\dif}{\ensuremath{{\rm d}}}       % Roman d, for differentials.
+
+%% Fractions
+\newcommand{\oh}{\ensuremath{\frac{1}{2}}}  % One half, 1/2
+\newcommand{\um}{\oh}                       % Un mig, 1/2 ;) (for compatibility with nilph.sty)
+
+%% Functions
+\newcommand{\tr}{\ensuremath{\mathop{\mathrm{tr}}\nolimits}}  % Trace
+\newcommand{\Tr}[1]{\ensuremath{\tr \left[ #1 \right]}}       % Trace with delimiters
+\newcommand{\ptr}[1]{\tr_{#1}}                                % Partial trace
+\newcommand{\pTr}[2]{\ensuremath{\tr_{#1} \left[ #2 \right]}} % Partial trace with delimiters
+
+\renewcommand{\Re}[1]{\ensuremath{{\rm Re}\left[ #1 \right]}} % Real with delimiters and normal font
+\renewcommand{\Im}[1]{\ensuremath{{\rm Im}\left[ #1 \right]}} % Imaginary with delimiters and normal font
+
+\newcommand{\sgn}{\ensuremath{\mathop{\mathrm{sgn}}}}         % Sign
+
+\newcommand{\diag}{\ensuremath{\mathop{\mathrm{diag}}}}       % Diagonal
+\newcommand{\rank}{\ensuremath{\mathop{\mathrm{rank}}}}       % Rank
+\newcommand{\linspan}{\ensuremath{\mathop{\mathrm{span}}}}    % Span
+
+\newcommand{\e}{\ensuremath{\mathrm{e}}}                      % Exponential (short)
+\newcommand{\cotan}{\ensuremath{\mathop{\mathrm{cotan}}}}     % Cotangent
+
+%% Kets & bras
+% This will probably result in a conflict with package `braket.sty'
+\newcommand{\ket}[1]{\ensuremath{\left|#1\right\rangle}}             % |u>
+\newcommand{\bra}[1]{\ensuremath{\left\langle#1\right|}}             % <v|
+\newcommand{\kett}[1]{\ensuremath{\left.\ket{#1}\right\rangle}}      % |u>>
+\newcommand{\braa}[1]{\ensuremath{\left\langle\bra{#1}\right.}}      % <<v|
+\newcommand{\braket}[2]{\ensuremath{\left.\left\langle#1\vphantom{#2}\right|#2\vphantom{#1}\right\rangle}} % <v|u>
+\newcommand{\Braket}[4][]{\ensuremath{\prescript{}{#1}{\bra{#2\vphantom{#3#4}}}#3\ket{#4\vphantom{#2#3}}_{#1}}} %<v|A|u>, with optional arguments _i<u|A|v>_i
+\newcommand{\ketbra}[3][]{\ensuremath{\ket{#2\vphantom{#3}}_{#1}\!\bra{#3\vphantom{#2}}}} % |u><v|, with optional argument |u>_i<v|
+\newcommand{\ketul}[1]{\ensuremath{\ket{\underline{#1}}}}            % |_u_>
+
+\newcommand{\avg}[1]{\ensuremath{\left\langle#1\right\rangle}}       % <u>
+
+%% Pauli matrices
+\newcommand{\sx}{\ensuremath{\sigma_x}} % s_x
+\newcommand{\sy}{\ensuremath{\sigma_y}} % s_y
+\newcommand{\sz}{\ensuremath{\sigma_z}} % s_z
+\newcommand{\Sx}{\ensuremath{\left(\begin{array}{cc}0&1\\1&0\end{array}\right)}}   % explicit s_x matrice
+\newcommand{\Sy}{\ensuremath{\left(\begin{array}{cc}0&-i\\i&0\end{array}\right)}}  % explicit s_y matrice
+\newcommand{\Sz}{\ensuremath{\left(\begin{array}{cc}1&0\\0&1\end{array}\right)}}   % explicit s_z matrice
+
+%% Prime, two prime
+\newcommand{\pr}{\ensuremath{^{\prime}}}
+\newcommand{\ppr}{\ensuremath{^{\prime\prime}}}
+
+%% Spins
+% \up can have some incompatibilities (e.g. with beamer)
+%\newcommand{\up}{\ensuremath{\uparrow}}           % Spin up
+%\newcommand{\dw}{\ensuremath{\downarrow}}         % Spin down
+\newcommand{\ketu}{\ensuremath{\ket{\uparrow}}}   % Spin up ket
+\newcommand{\ketd}{\ensuremath{\ket{\downarrow}}} % Spin down ket
+\newcommand{\brau}{\ensuremath{\bra{\uparrow}}}   % Spin up bra
+\newcommand{\brad}{\ensuremath{\bra{\downarrow}}} % Spin down bra
+
+%% Other
+\newcommand{\lueq}{\ensuremath{\simeq_{\mathrm{LU}}}} % LU equivalence
+\newcommand{\lpeq}{\ensuremath{\simeq_{\mathrm{LP}}}} % LU equivalence
+\newcommand{\slocceq}{\ensuremath{\simeq_{\mathrm{SLOCC}}}} % SLOCC equivalence
+\newcommand{\sepeq}{\ensuremath{\simeq_{\mathrm{SEP}}}} % SLOCC equivalence
+
+\newcommand{\loccto}{\ensuremath{\xrightarrow{\mathrm{LOCC}}}} % LOCC transformation
+\newcommand{\sloccto}{\ensuremath{\xrightarrow{\mathrm{SLOCC}}}} % SLOCC transformation
+
+\newcommand{\norm}[2][]{\ensuremath{\left\|#2\right\|_{#1}}} % Norm ||u||, with optional argument ||u||_p
+
+\newcommand{\notiff}{\mathrel{{\ooalign{\hidewidth$\not\phantom{``}$\hidewidth\cr$\iff$}}}}
+\newcommand{\notimplies}{\mathrel{{\ooalign{\hidewidth$\not\phantom{``}$\hidewidth\cr$\implies$}}}}
+
+%% Fast miscellaneous symbols
+% Modify at will but use with care, just some shorthands I like to use.
+%\newcommand{\B}{\ensuremath{\mathcal{B}}}       % Map B
+%\newcommand{\C}{\ensuremath{\mathbb{C}}}        % Complex numbers
+%\newcommand{\E}{\ensuremath{\mathcal{E}}}       % Map E
+%\newcommand{\F}{\ensuremath{\mathcal{F}}}       % Fidelity
+%\newcommand{\H}{\ensuremath{\mathcal{H}}}       % Hilbert space
+%\newcommand{\I}{\ensuremath{\openone}}          % Identity matrix. Call package `revsymb.sty' from revtex4 or uncomment the following definition
+%  \DeclareRobustCommand\openone{\leavevmode\hbox{\small1\normalsize\kern-.33em1}} % Identity matrix, from `revsymb.sty' (in revtex4)
+
+
+%% Format %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\clearemptydoublepage}{\newpage{\pagestyle{empty}\cleardoublepage}}       % From the LaTeX Companion
+\newcommand{\lastemptydoublepage}{\newpage{\pagestyle{empty}\mbox{}\cleardoublepage}} % From the LaTeX Companion
+\newcommand{\spar}{\vspace{\baselineskip}\noindent} % Skip one line and no indent
+
+
+%% References %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\Aref}[1]{Appendix~\ref{#1}}
+\newcommand{\Cref}[1]{Chapter~\ref{#1}}
+\newcommand{\Eref}[1]{Eq.~(\ref{#1})}
+\newcommand{\EEref}[2]{Eqs.~(\ref{#1}) and (\ref{#2})}
+\newcommand{\Fref}[1]{Fig.~\ref{#1}}
+\newcommand{\Sref}[1]{Section~\ref{#1}}
+\newcommand{\Tref}[1]{Table~\ref{#1}}
+
+\newcommand{\etal}{\emph{et al.}}
+\newcommand{\ea}{\etal}

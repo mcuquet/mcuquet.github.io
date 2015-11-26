@@ -1,0 +1,109 @@
+"----------------------------------------------------------------------------
+" TABLE OF CONTENTS
+"
+" * Global settings for all files
+"     - General setup
+"     - Encoding
+"     - Indent
+"     - Spelling
+"     - Split
+"
+" * C
+"
+" * Format
+"
+" * Perl
+"
+" * Tags
+"
+" * TVO - The Vim Outliner
+"
+" * Vim-latex
+"
+" * Functions
+"----------------------------------------------------------------------------
+"
+" GLOBAL SETTINGS FOR ALL FILES
+"
+" General setup
+set nocompatible        " use Vim defaults (much better!)
+set bs=2                " allow backspacing over everything in insert mode
+set viminfo='20,\"50    "read/write a .viminfo file, don't store more than 50
+set history=50          " keep 50 lines of command line history
+set ruler               " show the cursor position all the time
+syntax on               " switch syntax on
+"set hlsearch            " highlight the last used search pattern
+set nohls               " don't highlight search
+filetype plugin indent on " Load plugins and indent depending on filetype
+set textwidth=78
+
+" Encoding
+set fileencoding=latin1
+set fileencodings=ucs-bom,utf-8,latin1
+
+" Indent
+set expandtab
+set tabstop=2
+set shiftwidth=2
+:retab
+
+" Spelling
+"set spell
+"setlocal spell spelllang=ca
+"setlocal spell spelllang=en
+"setlocal spell spelllang=es
+"setlocal spell spelllang=it
+
+" Splits
+set wmh=0
+
+"----------------------------------------------------------------------------
+" C
+autocmd FileType c setlocal tabstop=4|setlocal shiftwidth=4
+
+"----------------------------------------------------------------------------
+" FORMAT
+set formatprg=par\ -w78
+
+"----------------------------------------------------------------------------
+" PERL
+autocmd FileType perl setlocal tabstop=4|setlocal shiftwidth=4
+
+"----------------------------------------------------------------------------
+" TAGS
+autocmd FileType tags setlocal noexpandtab|setlocal tabstop=4|setlocal shiftwidth=4
+
+"----------------------------------------------------------------------------
+" TVO - THE VIM OUTLINER
+let otl_map_tabs=1                              " use tabs for promoting/demoting
+" In insert mode, substitute dts and dtl for date and date-time
+autocmd FileType otl iab <expr> dts strftime("%Y-%m-%d %a")
+autocmd FileType otl iab <expr> dtl strftime("%Y-%m-%d %a %H:%M")
+" Change style for folded (default style distracts)
+autocmd FileType otl highlight Folded ctermbg=black ctermfg=white cterm=bold
+" Highlight and enable hyperlinks
+autocmd FileType otl highlight HyperLink ctermbg=black ctermfg=darkcyan cterm=underline
+autocmd FileType otl match HyperLink _[a-z]\+://[^ \>,;:]\+_
+autocmd FileType otl map ,o :call OpenURI()<CR>
+
+"----------------------------------------------------------------------------
+" VIM-LATEX
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor='latex'                        " recognize empty .tex files
+let g:Tex_DefaultTargetFormat='pdf'             " use pdf by default
+let g:Tex_ViewRule_pdf='open -a Preview.app'    " open pdfs with Mac's Preview
+let g:Tex_MultipleCompileFormats='dvi,pdf'      " recompile (if needed) for these formats
+let g:Tex_GotoError=0                           " remain in the original location in case of errors
+
+"----------------------------------------------------------------------------
+" FUNCTIONS
+
+function! OpenURI()
+  let s:uri = matchstr(getline("."), '[a-z]\+://[^ \>,;:]\+')
+  echo s:uri
+  if s:uri != ""
+    exec '!open "' . s:uri . '"'
+  else
+    echo "No URI found in line."
+  endif
+endfunction
