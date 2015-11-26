@@ -64,7 +64,6 @@ de retocar manualment jo mateix:
 També estan disponibles sota la llicència [Creative Commons
 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<div lang="en">
 ## License
 
 You are free to use the content of this site, including the site code and
@@ -100,4 +99,3 @@ manually by myself:
 <svg class="icon icon-wikiloc"><use xlink:href="#icon-wikiloc"></use></svg>.
 They are also available under the [Creative Commons
 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-</div>
