@@ -24,4 +24,4 @@ Les pàgines d'aquí poden variar l'URL quan em decideixi a ordenar-les, si has
 d'enllaçar millor que ho facis amb aquesta pàgina: ``{{site.url}}{{site.baseurl}}{{page.url}}``.
 
 * Algunes [cites]({{site.baseurl}}/Cites).
-* [OpenPGP Web of Trust]({{site.baseurl}}/txt/Web of Trust) network data set.
+* [OpenPGP Web of trust]({{site.baseurl}}/txt/Web of trust) network data set.
