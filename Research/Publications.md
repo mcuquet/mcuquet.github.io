@@ -5,8 +5,7 @@ icon: research
 permalink: /Research/Publications/
 ---
 
-For citation indices, see [Google
-Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
+For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
 - [The source and accessible entanglement of few-body systems](The source and accessible entanglement of few-body systems).  
   David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
