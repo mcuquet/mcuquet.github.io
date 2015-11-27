@@ -2,7 +2,7 @@
 layout: page
 title: Entanglement distribution in quantum complex networks
 icon: research
-permalink: Research/Entanglement distribution in quantum complex networks/index.html
+permalink: Research/Publications/Entanglement distribution in quantum complex networks/
 ---
 
 ## Abstract
@@ -61,6 +61,19 @@ free energy. Applying the three protocols to a one-dimensional network and to
 complex networks, we see that they are all comparable, and in some cases the
 proposed subgraph protocol, which needs only local information of the network,
 performs even better.
+
+## Bibtex
+
+~~~
+@phdthesis{Cuquet2012_entanglement,
+  title = {Entanglement distribution in quantum complex networks},
+  author = {Cuquet, Mart{\'{\i}}},
+  school = {Universitat Aut{\`{o}}noma de Barcelona},
+  year = {2012},
+  type = {PhD thesis},
+  numpages = {141},
+}
+~~~
 
 ## Files
 

@@ -14,6 +14,10 @@ url: "http://mcuquet.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 #markdown: pandoc
 
+# Kramdown options
+kramdown:
+  input: GFM
+
 # Pandoc options (see https://github.com/mfenner/jekyll-pandoc)
 pandoc:
   extensions:
