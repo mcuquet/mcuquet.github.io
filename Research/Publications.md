@@ -9,6 +9,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - [The source and accessible entanglement of few-body systems](The source and accessible entanglement of few-body systems).  
   David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
+  _accepted for publication in Physical Review A_.  
   [ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524) ]
 
 - [Operational multipartite entanglement measures](Operational multipartite entanglement measures).  
