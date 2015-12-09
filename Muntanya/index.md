@@ -4,13 +4,7 @@ title: Muntanya
 category: muntanya
 ---
 
-Això és un recull d'excursions que he fet, amb la intenció sobretot de posar
-ordre a la llista que tinc a
-[wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet).
-Algunes tenen una breu explicació, d'altres són simplement un enllaç a la ruta
-en gps. A la gran majoria es comença i s'arriba a un lloc accessible amb
-transport públic. Si tens qualsevol comentari,
-[escriu-me]({{site.baseurl}}/Contact).
+Això és un recull d'excursions que he fet, amb la intenció sobretot de posar ordre a la llista que tinc a [wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet).  Algunes tenen una breu explicació, d'altres són simplement un enllaç a la ruta en gps. A la gran majoria es comença i s'arriba a un lloc accessible amb transport públic. Si tens qualsevol comentari, [escriu-me]({{site.baseurl}}/Contact).
 
 ## Alps
 
@@ -29,9 +23,7 @@ transport públic. Si tens qualsevol comentari,
 
 ## Almen und Hütten (+ trineu + passejades)
 
-A l'hivern, alguns d'ells es poden baixar en trineu. La web
-[WinterRodeln](http://www.winterrodeln.org/) té els detalls de totes les
-pistes de trineu al Tirol. 
+A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http://www.winterrodeln.org/) té els detalls de totes les pistes de trineu al Tirol.
 
 * **Inntal**
     + [Arzler Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=4071958) (Innsbruck - Hungerburg)

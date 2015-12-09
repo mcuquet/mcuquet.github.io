@@ -5,24 +5,13 @@ permalink: /Muntanya/Salfains/
 category: muntanya
 ---
 
-Des de la parada )
-puja cap a **Kemater Alm**, i després girar a la dreta abans de sortir del
-poble.  Des d'allà es veurà el cartell que indica la pujada a Salfains, que es
-pot fer per una pista ampla de muntanya o per un sender que puja més fort i
-ràpid.  Les dues rutes es creuen diverses vegades i s'acaben unint poc abans
-d'arribar a una cabana.  Des d'allà comença una pujada forta fins al llac de
-**Salfains**, **Salfainsee** (2.000 m).  Passat el llac, la baixada gira a
-l'esquerra, seguint els senyals fins a **Salfainsalm** (tancat quan hi va
-passar) i avall fin s a la pista Grinzens-Kemater Alm, des d'on es pot tornar
-al poble.
+Des de la parada de bus cal pujar cap a **Kemater Alm**, i després girar a la dreta abans de sortir del poble.  Des d'allà es veurà el cartell que indica la pujada a Salfains, que es pot fer per una pista ampla de muntanya o per un sender que puja més fort i ràpid.  Les dues rutes es creuen diverses vegades i s'acaben unint poc abans d'arribar a una cabana.  Des d'allà comença una pujada forta fins al llac de **Salfains**, **Salfainsee** (2.000 m).  Passat el llac, la baixada gira a l'esquerra, seguint els senyals fins a **Salfainsalm** (tancat quan hi va passar) i avall fin s a la pista Grinzens-Kemater Alm, des d'on es pot tornar al poble.
 
-Alternativament, també es pot pujar a Salfains [des del camí que puja a
-**Kemater Alm**]({{site.baseurl}}/muntanya/Schaflegerkogel/).
+Alternativament, també es pot pujar a Salfains [des del camí que puja a **Kemater Alm**]({{site.baseurl}}/muntanya/Schaflegerkogel/).
 
 ## Com arribar-hi
 
-**Des d'Innsbruck:** En cotxe fins a Grinzens. Alternativament, es pot anar en
-el bus 4162 fins a Grinzens (parada Sport Cafe), i pujar caminant des d'allà.
+**Des d'Innsbruck:** En cotxe fins a Grinzens. Alternativament, es pot anar en el bus 4162 fins a Grinzens (parada Sport Cafe), i pujar caminant des d'allà.
 
 ## Fotos
 

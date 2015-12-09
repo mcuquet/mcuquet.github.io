@@ -5,9 +5,8 @@ permalink: /Muntanya/Serles/
 category: muntanya
 ---
 
-El **Serles**, també conegut com a **Waldrastspitze**, **Hochaltar von Tirol** ()
-major del Tirol)
-dels Alps de l'Stubai. Segons la llegenda, el pic principal de Serles és un
+El **Serles**, també conegut com a **Waldrastspitze**, **Hochaltar von Tirol**
+(altar major del Tirol) dels Alps de l'Stubai. Segons la llegenda, el pic principal de Serles és un
 rei petrificat com a càstig, i els dos pics menors són els seus fills, també
 petrificats.
 

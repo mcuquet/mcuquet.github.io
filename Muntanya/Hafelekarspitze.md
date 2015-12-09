@@ -5,24 +5,11 @@ permalink: /Muntanya/Hafelekarspitze/
 category: muntanya
 ---
 
-La manera fàcil de pujar el Hafelekarspitze és amb el telefèric
-(Nordkettebahn), que arriba fins a l'estació de Hafelekar, situada a 200
-metres del pic (65 m de desnivell). Per pujar-hi caminant, començant des de
-**Hungerburg** (868 m), hi ha diverses opcions. La ràpida és tirar pel dret,
-seguint el camí 216 que comença seguint la línia del telefèric, creua tres
-vegades la pista que va d'**Arzler Alm** a **Höttinger Alm**, i segueix fins a
-**Bodenstein Alm**, a uns 1.661 m. La durada fins aquí és de 1 hora 3/4. El camí
-segueix amunt, deixant algunes desviacions a mà dreta (alguna d'elles torna
-avall cap a Arzler Alm) i esquerra (cap a **Seegrube**, on hi ha una parada del
-telefèric) i passant pel costat de les barreres anti-allaus fins arribar a
-l'estació de Hafelekar i, 200 metres més endavant, el pic pròpiament dit. La
-durada de Bodenstein Alm al pic és de 1 hora 1/2 més. La tornada es pot fer
-pel mateix camí.
+La manera fàcil de pujar el Hafelekarspitze és amb el telefèric (Nordkettebahn), que arriba fins a l'estació de Hafelekar, situada a 200 metres del pic (65 m de desnivell). Per pujar-hi caminant, començant des de **Hungerburg** (868 m), hi ha diverses opcions. La ràpida és tirar pel dret, seguint el camí 216 que comença seguint la línia del telefèric, creua tres vegades la pista que va d'**Arzler Alm** a **Höttinger Alm**, i segueix fins a **Bodenstein Alm**, a uns 1.661 m. La durada fins aquí és de 1 hora 3/4. El camí segueix amunt, deixant algunes desviacions a mà dreta (alguna d'elles torna avall cap a Arzler Alm) i esquerra (cap a **Seegrube**, on hi ha una parada del telefèric) i passant pel costat de les barreres anti-allaus fins arribar a l'estació de Hafelekar i, 200 metres més endavant, el pic pròpiament dit. La durada de Bodenstein Alm al pic és de 1 hora 1/2 més. La tornada es pot fer pel mateix camí.
 
 ## Com arribar-hi
 
-**Des d'Innsbruck:** Bus J fins al final (parada "Nordkette"). Es pot agafar a
-Marktplatz. Els horaris es poden consultar a [la web de l'IVB](http://www.ivb.at).
+**Des d'Innsbruck:** Bus J fins al final (parada "Nordkette"). Es pot agafar a Marktplatz. Els horaris es poden consultar a [la web de l'IVB](http://www.ivb.at).
 
 ## Fotos
 
