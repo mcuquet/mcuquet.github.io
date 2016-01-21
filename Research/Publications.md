@@ -7,6 +7,8 @@ permalink: /Research/Publications/
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
+## Journal articles
+
 - [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
   David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
   _[Physical Review A 92, 062340 (2015)](http://dx.doi.org/10.1103/PhysRevA.92.062340)_.  
@@ -21,10 +23,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   Otfried Gühne, **Martí Cuquet**, Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Barbara Kraus, Chiara Macchiavello.  
   _[Journal of Physics A 47, 335303 (2014)](http://dx.doi.org/10.1088/1751-8113/47/33/335303)_.  
   [ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492) ]
-
-- [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
-  **Martí Cuquet**.
-  _Departament de Física, Universitat Autònoma de Barcelona, Bellaterra_. PhD thesis. 2012.
 
 - [Growth of graph states in quantum networks](Growth of graph states in quantum networks).  
   **Martí Cuquet**, John Calsamiglia.  
@@ -44,6 +42,18 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, John Calsamiglia.  
   _[Physical Review Letters 103, 240503 (2009)](http://dx.doi.org/10.1103/PhysRevLett.103.240503)_.  
   [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) ]
+
+## Conference proceedings
+
+- Entanglement properties of locally maximally entangleable states  
+  **Martí Cuquet**, Tatjana Carle, Barbara Kraus.  
+  _[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](http://www.jku.at/conferences/content/e198715/)_.
+
+## Thesis
+
+- [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
+  **Martí Cuquet**.
+  _Departament de Física, Universitat Autònoma de Barcelona, Bellaterra_. PhD thesis. 2012.
 
 - [Broadcasting in spin networks](Broadcasting in spin networks).  
   **Martí Cuquet**  
