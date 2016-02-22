@@ -26,23 +26,16 @@ Això és un recull d'excursions que he fet, amb la intenció sobretot de posar 
 A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http://www.winterrodeln.org/) té els detalls de totes les pistes de trineu al Tirol.
 
 * **Inntal**
+    + [Weidener Hütte (Nafinghütte)](http://ca.wikiloc.com/wikiloc/view.do?id=5986494) (Weerberg)
+
+* **Nördliches Mittelgebirge**
     + [Arzler Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=4071958) (Innsbruck - Hungerburg)
     + [Arzler Alm (Mülhauer Klamm)](http://ca.wikiloc.com/wikiloc/view.do?id=6941407) (Innsbruck - Mülhau)
-    + [Birgitzer Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7652857) (Axams)
-    + [Boscheben (Bergstation Patscherkofelbahn)](http://ca.wikiloc.com/wikiloc/view.do?id=10605919) (Igls)
-    + [Götzner Alm](http://ca.wikiloc.com/wikiloc/view.do?id=4923529) (Götzens)
-    + [Eichhof](http://ca.wikiloc.com/wikiloc/view.do?id=4338594) (Innsbruck - Wilten)
     + [Enzian Hütte](http://ca.wikiloc.com/wikiloc/view.do?id=3936454) (Innsbruck - Mülhau)
     + [Höttinger Alm (Hötting)](http://ca.wikiloc.com/wikiloc/view.do?id=6810635) (Innsbruck - Hötting)
     + [Höttinger Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=7171606) (Innsbruck - Hungerburg)
-    + [Kemater Alm](http://ca.wikiloc.com/wikiloc/view.do?id=4165877) (Grinzens)
-    + [Peter-Anich-Weg](http://ca.wikiloc.com/wikiloc/view.do?id=5425613) (Oberperfuß - Hatting)
-    + [Pleisenhütte](http://ca.wikiloc.com/wikiloc/view.do?id=4215418) + [Pleisenhütte (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4215421) (Axamer Lizum)
     + [Rauschbrunnen](http://ca.wikiloc.com/wikiloc/view.do?id=4426161) (Innsbruck - Hötting)
-    + [Stiglreith](http://ca.wikiloc.com/wikiloc/view.do?id=3886550) + [Stiglreith (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=3886797) (Oberperfuss)
     + Thaurer Alm (Rum/Thaur)
-    + [Weidener Hütte (Nafinghütte)](http://ca.wikiloc.com/wikiloc/view.do?id=5986494) (Weerberg)
-    + [Wilten - Natters](http://ca.wikiloc.com/wikiloc/view.do?id=9826306)
 
 * **Ötztal**
     + [Gampe Alm / Gampe Thaya](http://ca.wikiloc.com/wikiloc/view.do?id=5015386) (Sölden)
@@ -50,18 +43,33 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
 * **Seefeld**
     + [Seefeld in Tirol - Möserer See](http://ca.wikiloc.com/wikiloc/view.do?id=5818670)
 
+* **Südöstliches Mittelgebirge**
+    + [Boscheben (Bergstation Patscherkofelbahn)](http://ca.wikiloc.com/wikiloc/view.do?id=10605919) (Igls)
+    + Patscher Alm (Patsch/Igls)
+
+* **Südwestliches Mittelgebirge**
+    + [Birgitzer Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7652857) (Axams)
+    + [Eichhof](http://ca.wikiloc.com/wikiloc/view.do?id=4338594) (Innsbruck - Wilten)
+    + [Götzner Alm](http://ca.wikiloc.com/wikiloc/view.do?id=4923529) (Götzens)
+    + [Kemater Alm](http://ca.wikiloc.com/wikiloc/view.do?id=4165877) (Grinzens)
+    + [Muttereralm](http://ca.wikiloc.com/wikiloc/view.do?id=6810622) (Mutters)
+    + [Peter-Anich-Weg](http://ca.wikiloc.com/wikiloc/view.do?id=5425613) (Oberperfuß - Hatting)
+    + [Pleisenhütte](http://ca.wikiloc.com/wikiloc/view.do?id=4215418) + [Pleisenhütte (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4215421) (Axamer Lizum)
+    + [Stiglreith](http://ca.wikiloc.com/wikiloc/view.do?id=3886550) + [Stiglreith (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=3886797) (Oberperfuss)
+    + [Wilten - Natters](http://ca.wikiloc.com/wikiloc/view.do?id=9826306)
+
 * **Stubaital**
     + [Elfer](http://ca.wikiloc.com/wikiloc/view.do?id=8803862) (Neustift)
-    + [Maria Waldrast](http://ca.wikiloc.com/wikiloc/view.do?id=4052803) + [Maria Waldrast (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4052804) (Matrei)
-    + [Muttereralm](http://ca.wikiloc.com/wikiloc/view.do?id=6810622) (Mutters)
-    + Patscher Alm (Patsch/Igls)
     + [Sulzenau Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7317679)
+
+* **Wipptal**
+    + [Bergeralm](http://ca.wikiloc.com/wikiloc/view.do?id=12355114) (Steinach am Brenner)
+    + [Maria Waldrast](http://ca.wikiloc.com/wikiloc/view.do?id=4052803) + [Maria Waldrast (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4052804) (Matrei)
 
 * **Zillertal**
     + [Lackenalm](http://ca.wikiloc.com/wikiloc/view.do?id=5015397) (Gerlos)
 
-* **Salzburg**
-    + [Rundwanderweg Gaisberg](http://ca.wikiloc.com/wikiloc/view.do?id=7472106)
+També a* **Salzburg**: [Rundwanderweg Gaisberg](http://ca.wikiloc.com/wikiloc/view.do?id=7472106).
 
 ## Pirineu i Prepirineu
 
