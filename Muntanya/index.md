@@ -69,7 +69,7 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
 * **Zillertal**
     + [Lackenalm](http://ca.wikiloc.com/wikiloc/view.do?id=5015397) (Gerlos)
 
-També a* **Salzburg**: [Rundwanderweg Gaisberg](http://ca.wikiloc.com/wikiloc/view.do?id=7472106).
+També a **Salzburg**: [Rundwanderweg Gaisberg](http://ca.wikiloc.com/wikiloc/view.do?id=7472106).
 
 ## Pirineu i Prepirineu
 
