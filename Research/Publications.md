@@ -49,6 +49,12 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Tatjana Carle, Barbara Kraus.  
   _[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](http://www.jku.at/conferences/content/e198715/)_.
 
+## Project deliverables
+
+- Interim strategy and charter for the big data community.  
+  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
+  D7.1.1 [http://byte-project.eu/](BYTE Project), 1 March 2016.
+
 ## Thesis
 
 - [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
