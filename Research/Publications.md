@@ -55,6 +55,10 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
   D7.1.1 [http://byte-project.eu/](BYTE Project), 1 March 2016.
 
+- Interim sustainability plan for the big data community.  
+  Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, ...  
+  D7.2.1 [http://byte-project.eu/](BYTE Project), 31 March 2016.
+
 ## Thesis
 
 - [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
