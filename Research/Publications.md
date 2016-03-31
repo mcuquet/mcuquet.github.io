@@ -62,8 +62,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 ## Thesis
 
 - [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
-  **Martí Cuquet**.
-  _Departament de Física, Universitat Autònoma de Barcelona, Bellaterra_. PhD thesis. 2012.
+  **Martí Cuquet**.  
+  _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.
 
 - [Broadcasting in spin networks](Broadcasting in spin networks).  
   **Martí Cuquet**  
