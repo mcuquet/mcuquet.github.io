@@ -5,14 +5,15 @@ icon: research
 permalink: Research/Publications/Broadcasting in spin networks/
 ---
 
-We present an implementation of \\(N \to M\\) quantum broadcasting of mixed qubits
-in the equatorial plane in an unmodulated spin network. The broadcasting
-transformation is performed by the time evolution of the network. We focus in
-the _XX_ Hamiltonian because its appropriate symmetry in the _XY_ plane and
-its easy physical implementation. We study two scenarios with different initial
-state of the network: one in a pure state \\(|M/2,m\rangle\\) and the other in the
-tensor product of maximally mixed states. We also focus in the \\(3 \to 4\\)
-scenario, where in principle perfect phase covariant broadcasting is possible.
+We present an implementation of _N_ to _M_ quantum broadcasting of mixed
+qubits in the equatorial plane in an unmodulated spin network. The
+broadcasting transformation is performed by the time evolution of the network.
+We focus in the _XX_ Hamiltonian because its appropriate symmetry in the _XY_
+plane and its easy physical implementation. We study two scenarios with
+different initial state of the network: one in a pure state |M/2,m> and the
+other in the tensor product of maximally mixed states. We also focus in the 3
+to 4 scenario, where in principle perfect phase covariant broadcasting is
+possible.
 
 ~~~
 @mastersthesis{Cuquet2008_broadcasting,
