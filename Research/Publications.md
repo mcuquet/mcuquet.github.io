@@ -56,8 +56,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   D7.1.1 [http://byte-project.eu/](BYTE Project), 1 March 2016.
 
 - Interim sustainability plan for the big data community.  
-  Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, ...  
-  D7.2.1 [http://byte-project.eu/](BYTE Project), 31 March 2016.
+  Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
+  D7.2.1 [http://byte-project.eu/](BYTE Project), 1 April 2016.
 
 ## Thesis
 
