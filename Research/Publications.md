@@ -51,13 +51,13 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Project deliverables
 
-- Interim strategy and charter for the big data community.  
-  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
-  D7.1.1 [http://byte-project.eu/](BYTE Project), 1 March 2016.
-
 - Interim sustainability plan for the big data community.  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
-  D7.2.1 [http://byte-project.eu/](BYTE Project), 1 April 2016.
+  D7.2.1 [BYTE Project](http://byte-project.eu/), 1 April 2016.
+
+- Interim strategy and charter for the big data community.  
+  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
+  7.1.1 [BYTE Project](http://byte-project.eu/), 1 March 2016.
 
 ## Thesis
 
