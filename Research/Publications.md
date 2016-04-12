@@ -57,7 +57,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - Interim strategy and charter for the big data community.  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
-  7.1.1 [BYTE Project](http://byte-project.eu/), 1 March 2016.
+  D7.1.1 [BYTE Project](http://byte-project.eu/), 1 March 2016.
 
 ## Thesis
 
