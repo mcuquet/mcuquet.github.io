@@ -31,6 +31,7 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
 * **Nördliches Mittelgebirge**
     + [Arzler Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=4071958) (Innsbruck - Hungerburg)
     + [Arzler Alm (Mühlauer Klamm)](http://ca.wikiloc.com/wikiloc/view.do?id=6941407) (Innsbruck - Mühlau)
+    + [Arzler Alm (des de Mühlau)](http://ca.wikiloc.com/wikiloc/view.do?id=13005991) (Innsbruck - Mühlau)
     + [Enzian Hütte](http://ca.wikiloc.com/wikiloc/view.do?id=3936454) (Innsbruck - Mühlau)
     + [Höttinger Alm (Hötting)](http://ca.wikiloc.com/wikiloc/view.do?id=6810635) (Innsbruck - Hötting)
     + [Höttinger Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=7171606) (Innsbruck - Hungerburg)
