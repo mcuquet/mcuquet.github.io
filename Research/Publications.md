@@ -66,5 +66,5 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.
 
 - [Broadcasting in spin networks](Broadcasting in spin networks).  
-  **Martí Cuquet**  
+  **Martí Cuquet**.  
   _[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.
