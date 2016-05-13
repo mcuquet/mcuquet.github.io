@@ -37,6 +37,7 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
     + [Höttinger Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=7171606) (Innsbruck - Hungerburg)
     + [Rauschbrunnen](http://ca.wikiloc.com/wikiloc/view.do?id=4426161) (Innsbruck - Hötting)
     + Thaurer Alm (Rum/Thaur)
+    + [Umbrüggler Alm](http://ca.wikiloc.com/wikiloc/view.do?id=13282221) (Innsbruck - Hungerburg)
 
 * **Ötztal**
     + [Gampe Alm / Gampe Thaya](http://ca.wikiloc.com/wikiloc/view.do?id=5015386) (Sölden)
