@@ -7,6 +7,12 @@ permalink: /Research/Publications/
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
+## Edited proceedings
+
+- Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
+  _Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)_,  
+  CEUR Workshop Proceedings, upcoming, 2016.
+
 ## Journal articles
 
 - [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
@@ -51,12 +57,20 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Project deliverables
 
+- A roadmap for big data incorporating both the research roadmap and the policy roadmap.  
+  Aurélien Faravelon, Stéphane Grumbach, **Martí Cuquet**, Anna Fensel.  
+  D6.1 [BYTE Project](http://byte-project.eu/), upcoming.
+
+- Big data for good.  
+  **Martí Cuquet**, Guillermo Vega-Gorgojo, Hanns Lammerant, Rachel Finn, Umair ul Hassan.  
+  D9.5 [BYTE Project](http://byte-project.eu/), upcoming.
+
 - Interim sustainability plan for the big data community.  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
   D7.2.1 [BYTE Project](http://byte-project.eu/), 1 April 2016.
 
 - Interim strategy and charter for the big data community.  
-  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega Gorgojo.  
+  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
   D7.1.1 [BYTE Project](http://byte-project.eu/), 1 March 2016.
 
 ## Thesis
