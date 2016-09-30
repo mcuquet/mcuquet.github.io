@@ -63,7 +63,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - Big data for good.  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hanns Lammerant, Rachel Finn, Umair ul Hassan.  
-  D9.5 [BYTE Project](http://byte-project.eu/), upcoming.
+  D9.5 [BYTE Project](http://byte-project.eu/), 30 September 2016.
 
 - Interim sustainability plan for the big data community.  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
