@@ -10,8 +10,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 ## Edited proceedings
 
 - Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
-  _Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)_,  
-  CEUR Workshop Proceedings, upcoming, 2016.
+  _Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)_, Leipzig, Germany, 12-15 September, 2016.  
+  [CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).
 
 ## Journal articles
 
