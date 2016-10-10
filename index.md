@@ -1,7 +1,7 @@
 ---
 layout: cover
 title: Martí Cuquet
-tagline: 'Physicist. CSO @ <a href="https://fanlens.io>Fanlens</a>. Postdoc @ <a href="http://sti-innsbruck.at/">STI Innsbruck</a>.'
+tagline: 'Physicist. CSO @ <a href="https://fanlens.io">Fanlens</a>. Postdoc @ <a href="http://sti-innsbruck.at/">STI Innsbruck</a>.'
 ---
 
 <ul>
