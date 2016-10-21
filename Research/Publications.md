@@ -9,7 +9,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Preprints
 
-- [Big data impact on society: a research roadmap for Europe](Big data impact on society: a research roadmap for Europe).  
+- [Big data impact on society: a research roadmap for Europe](Big data impact on society a research roadmap for Europe).  
   **Martí Cuquet**, Anna Fensel.
 
 ## Edited proceedings
@@ -45,7 +45,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
   [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
 
-- [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial]({{site.baseurl}}/txt/La crisi com a excusa).  
+- [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
   **Martí Cuquet**, Florencia del Castillo.  
   _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
 
