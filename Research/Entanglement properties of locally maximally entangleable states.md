@@ -5,6 +5,9 @@ icon: research
 permalink: Research/Publications/Entanglement properties of locally maximally entangleable states
 ---
 
+**Martí Cuquet**, Tatjana Carle, Barbara Kraus.
+_[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](http://www.jku.at/conferences/content/e198715/)_.
+
 ## Abstract
 
 Locally maximally entangleable states (LMES) are a class of multipartite
