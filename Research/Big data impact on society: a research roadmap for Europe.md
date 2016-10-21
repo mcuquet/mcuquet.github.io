@@ -2,7 +2,7 @@
 layout: page
 title: "Big data impact on society: a research roadmap for Europe"
 icon: research
-permalink: "Research/Publications/Big data impact on society: a research roadmap for Europe/"
+permalink: "Research/Publications/Big data impact on society a research roadmap for Europe/"
 ---
 
 **Martí Cuquet**, Anna Fensel
@@ -24,7 +24,7 @@ topics.
 @unpublished{Cuquet2016_big,
   title = {Big data impact on society: a research roadmap for Europe},
   author = {Cuquet, Mart{\'{\i}} and Fensel, Anna},
-  numpages = {18},
+  numpages = {17},
   year = {2016},
   month = {oct},
 }
