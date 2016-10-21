@@ -22,3 +22,5 @@ I obtained my PhD at the [Quantum Information Group](http://grupsderecerca.uab.c
 I also had a postdoctoral position at the [Quantum Information Theory group](http://www.uibk.ac.at/th-physik/qig_bk/) of [Barbara Kraus](http://www.uibk.ac.at/th-physik/people/staffdb/354400.xml) in [Innsbruck](http://uibk.ac.at/).
 
 * [Publications](Publications)
+* [QITools-mathematica](https://github.com/mcuquet/QITools-mathematica): A
+  Quantum Information Theory toolkit for Mathematica.
