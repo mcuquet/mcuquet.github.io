@@ -5,7 +5,8 @@ icon: research
 permalink: "Research/Publications/Big data impact on society a research roadmap for Europe/"
 ---
 
-**Martí Cuquet**, Anna Fensel
+**Martí Cuquet**, Anna Fensel.  
+[ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766) ]
 
 With its rapid growth and increasing adoption, big data is producing a growing
 impact in society. Its usage is opening both opportunities such as new
