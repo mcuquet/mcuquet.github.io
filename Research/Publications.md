@@ -71,9 +71,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hanns Lammerant, Rachel Finn, Umair ul Hassan.  
   [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 30 September 2016.
 
-- Interim sustainability plan for the big data community.  
+- [Interim sustainability plan for the big data community](BYTE-D7.2.1).  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
-  [D7.2.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.2.1-Interim-sustainability-plan_v1.2.pdf), 1 April 2016.
+  [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.
 
 - Interim strategy and charter for the big data community.  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
