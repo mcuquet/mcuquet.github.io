@@ -42,7 +42,7 @@ project.
 @techreport{Bigagli2016_interim,
   author = {Bigagli, Lorenzo and Magnusson, Jarl and Cuquet, Martí and Fensel, Anna and Rachel, Finn},
   title = {{Interim sustainability plan for the big data community}},
-  institution = {{BYTE} Project},
+  institution = {BYTE Project},
   month = sep,
   year = 2016,
   number = {D7.2.1},
