@@ -1,5 +1,6 @@
 <script type="application/ld+json">
 {
+  "@context": "http://schema.org",
   "@type": "Person",
   "honorificPrefix": "Dr.",
   "name": "Martí Cuquet Palau",
