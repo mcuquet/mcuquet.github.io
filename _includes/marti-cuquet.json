@@ -1,0 +1,51 @@
+<script type="application/ld+json">
+{
+  "@type": "Person",
+  "honorificPrefix": "Dr.",
+  "name": "Martí Cuquet Palau"
+  "alternateName": "Martí Cuquet",
+  "url": "https://mcuquet.github.io/",
+
+  "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Universität Innsbruck",
+      "url": "http://uibk.ac.at/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Semantic Technology Institute",
+      "url": "http://sti-innsbruck.at/"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Universitat Autònoma de Barcelona",
+      "url": "http://uab.cat/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Universitat Politècnica de Catalunya",
+      "url": "https://www.upc.edu/"
+    }
+  ],
+  "jobTitle": "Postdoctoral Researcher",
+
+  "sameAs": [
+    "https://arxiv.org/a/cuquet_m_1.html",
+    "https://github.com/mcuquet",
+    "https://scholar.google.at/citations?user=540UR0IAAAAJ",
+    "http://www.last.fm/user/nilvar/",
+    "http://cat.librarything.com/profile/mcuquet/",
+    "http://www.linkedin.com/in/mcuquet/",
+    "http://www.mendeley.com/profiles/marti-cuquet/",
+    "http://orcid.org/0000-0003-2251-1250",
+    "https://twitter.com/mcuquet",
+    "http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet",
+
+    "http://www.sti-innsbruck.at/about/team/details/mart%C3%AD-cuquet",
+    "https://lfuonline.uibk.ac.at/public/people.vcard?id=236370&search=1"
+  ]
+}
+</script>

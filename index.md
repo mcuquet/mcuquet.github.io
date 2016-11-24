@@ -4,6 +4,8 @@ title: Martí Cuquet
 tagline: 'Physicist.<br/>CSO @ <a href="https://fanlens.io">Fanlens</a>.<br/>Postdoc @ <a href="http://sti-innsbruck.at/">STI Innsbruck</a>.'
 ---
 
+{% include marti-cuquet.json %}
+
 <ul>
   <li><a href="Research/"><svg class="icon icon-research"><use xlink:href="#icon-research"></use></svg> Research</a></li>
   <li><a href="Code/"><svg class="icon icon-code"><use xlink:href="#icon-code"></use></svg> Code</a></li>
