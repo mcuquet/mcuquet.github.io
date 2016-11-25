@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me
-permalink: /About/
+permalink: /Me/
 language: ca
 iconsets: myicons.svg
 ---
