@@ -6,10 +6,6 @@ language: ca
 iconsets: myicons.svg
 ---
 
-## Webs
-
-{% include social-list.html %}
-
 ## Com està feta aquesta pàgina?
 
 * Text pla formatat amb [Pandoc](http://johnmacfarlane.net/pandoc), un tipus de [Markdown](https://ca.wikipedia.org/wiki/Markdown).

@@ -15,19 +15,20 @@
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "https://mcuquet.github.io/",
-    "author": {
-      "@type": "Person",
-      "name": "Martí Cuquet Palau",
-      "url": "https://mcuquet.github.io/"
-    },
-    "about": {
-      "@type": "Person",
-      "name": "Martí Cuquet Palau",
-      "url": "https://mcuquet.github.io/"
-    },
-    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    "@graph": [
+      {
+        "@id": "https://mcuquet.github.io/",
+        "@type": "WebSite",
+        "url": "https://mcuquet.github.io/",
+        "about": {
+          "@id": "https://mcuquet.github.io/Me",
+          "@type": "Person",
+          "name": "Martí Cuquet Palau",
+          "url": "https://mcuquet.github.io/"
+        },
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      }
+    ]
   }
   </script>
 </head>

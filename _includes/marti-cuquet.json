@@ -2,12 +2,25 @@
 {
   "@context": "http://schema.org",
   "@type": "Person",
+  "@id": "https://mcuquet.github.io/Me",
   "honorificPrefix": "Dr.",
   "name": "Martí Cuquet Palau",
   "alternateName": "Martí Cuquet",
   "url": "https://mcuquet.github.io/",
 
   "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Universität Innsbruck",
+      "url": "http://uibk.ac.at/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Semantic Technology Institute",
+      "url": "http://sti-innsbruck.at/"
+    }
+  ],
+  "worksFor": [
     {
       "@type": "CollegeOrUniversity",
       "name": "Universität Innsbruck",
