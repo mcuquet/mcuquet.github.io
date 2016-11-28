@@ -21,39 +21,41 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Journal articles
 
-- [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
-  David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
-  _[Physical Review A 92, 062340 (2015)](http://dx.doi.org/10.1103/PhysRevA.92.062340)_.  
-  [ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524) ]
+0. [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
+   David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
+   _[Physical Review A 92, 062340 (2015)](http://dx.doi.org/10.1103/PhysRevA.92.062340)_.  
+   [ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524) ]
 
-- [Operational multipartite entanglement measures](Operational multipartite entanglement measures).  
-  Katharina Schwaiger, David Sauerwein, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
-  _[Physical Review Letters 115, 150502 (2015)](http://dx.doi.org/10.1103/PhysRevLett.115.150502)_.  
-  [ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615) ]
+0. [Operational multipartite entanglement measures](Operational multipartite entanglement measures).  
+   Katharina Schwaiger, David Sauerwein, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
+   _[Physical Review Letters 115, 150502 (2015)](http://dx.doi.org/10.1103/PhysRevLett.115.150502)_.  
+   [ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615) ]
 
-- [Entanglement and nonclassical properties of hypergraph states](Entanglement and nonclassical properties of hypergraph states).  
-  Otfried Gühne, **Martí Cuquet**, Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Barbara Kraus, Chiara Macchiavello.  
-  _[Journal of Physics A 47, 335303 (2014)](http://dx.doi.org/10.1088/1751-8113/47/33/335303)_.  
-  [ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492) ]
+0. [Entanglement and nonclassical properties of hypergraph states](Entanglement and nonclassical properties of hypergraph states).  
+   Otfried Gühne, **Martí Cuquet**, Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Barbara Kraus, Chiara Macchiavello.  
+   _[Journal of Physics A 47, 335303 (2014)](http://dx.doi.org/10.1088/1751-8113/47/33/335303)_.  
+   [ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492) ]
 
-- [Growth of graph states in quantum networks](Growth of graph states in quantum networks).  
-  **Martí Cuquet**, John Calsamiglia.  
-  _[Physical Review A 86, 042304 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.042304)_.  
-  [ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710) ]
+0. [Growth of graph states in quantum networks](Growth of graph states in quantum networks).  
+   **Martí Cuquet**, John Calsamiglia.  
+   _[Physical Review A 86, 042304 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.042304)_.  
+   [ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710) ]
 
-- [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
-  **Martí Cuquet**, Florencia del Castillo.  
-  _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
+0. [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
+   **Martí Cuquet**, Florencia del Castillo.  
+   _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
 
-- [Limited-path-length entanglement percolation in quantum complex networks](Limited-path-length entanglement percolation in quantum complex networks).  
-  **Martí Cuquet**, John Calsamiglia.  
-  _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
-  [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
+0. [Limited-path-length entanglement percolation in quantum complex networks](Limited-path-length entanglement percolation in quantum complex networks).  
+   **Martí Cuquet**, John Calsamiglia.  
+   _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
+   [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
 
-- [Entanglement percolation in quantum complex networks](Entanglement percolation in quantum complex networks).  
-  **Martí Cuquet**, John Calsamiglia.  
-  _[Physical Review Letters 103, 240503 (2009)](http://dx.doi.org/10.1103/PhysRevLett.103.240503)_.  
-  [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) ]
+0. [Entanglement percolation in quantum complex networks](Entanglement percolation in quantum complex networks).  
+   **Martí Cuquet**, John Calsamiglia.  
+   _[Physical Review Letters 103, 240503 (2009)](http://dx.doi.org/10.1103/PhysRevLett.103.240503)_.  
+   [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) ]
+
+{: reversed}
 
 ## Conference abstracts
 
