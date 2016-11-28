@@ -64,6 +64,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Project deliverables
 
+_Deliverables that have been reviewed and accepted have a DOI available via
+Zenodo._
+
 - A roadmap for big data incorporating both the research roadmap and the policy roadmap.  
   Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.  
   [D6.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2016/11/D6-1-BYTE-Policy-and-Research-roadmap_FINAL.pdf), 9 November 2016.
