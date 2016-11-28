@@ -55,7 +55,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
    _[Physical Review Letters 103, 240503 (2009)](http://dx.doi.org/10.1103/PhysRevLett.103.240503)_.  
    [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) ]
 
-{: reversed}
+{: reversed="reversed"}
 
 ## Conference abstracts
 
