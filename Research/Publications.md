@@ -41,14 +41,14 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   _[Physical Review A 86, 042304 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.042304)_.  
   [ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710) ]
 
+- [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
+  **Martí Cuquet**, Florencia del Castillo.  
+  _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
+
 - [Limited-path-length entanglement percolation in quantum complex networks](Limited-path-length entanglement percolation in quantum complex networks).  
   **Martí Cuquet**, John Calsamiglia.  
   _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
   [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
-
-- [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
-  **Martí Cuquet**, Florencia del Castillo.  
-  _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
 
 - [Entanglement percolation in quantum complex networks](Entanglement percolation in quantum complex networks).  
   **Martí Cuquet**, John Calsamiglia.  
