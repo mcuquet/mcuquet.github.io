@@ -53,7 +53,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 0. [Entanglement percolation in quantum complex networks](Entanglement percolation in quantum complex networks).  
    **Martí Cuquet**, John Calsamiglia.  
    _[Physical Review Letters 103, 240503 (2009)](http://dx.doi.org/10.1103/PhysRevLett.103.240503)_.  
-   [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) ]
+   [ [arXiv:0906.2977](http://arxiv.org/abs/0906.2977) | (PDF|Entanglement percolation in quantum complex networks/Entanglement percolation in quantum complex networks.pdf) ]
 {: reversed="reversed"}
 
 ## Conference abstracts
