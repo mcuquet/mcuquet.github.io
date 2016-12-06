@@ -2,7 +2,7 @@
 layout: page
 title: Entanglement percolation in quantum complex networks
 icon: research
-permalink: Research/Publications/Entanglement percolation in quantum complex networks/
+permalink: Research/Publications/Entanglement percolation in quantum complex networks/index.html
 ---
 
 **Martí Cuquet**, John Calsamiglia.  
