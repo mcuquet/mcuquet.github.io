@@ -7,7 +7,9 @@ permalink: Research/Publications/SEMPDS-2016/
 
 Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
 Leipzig, Germany, 12-15 September, 2016.  
-[CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).
+[CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).  
+[ [PDF (Preface)](../SEMPDS-2016.pdf)
+| [Bibtex](../SEMPDS-2016.bib) ]
 
 This volume contains the papers of the Posters and Demos Track at the 12th
 International Conference on Semantic Systems (SEMANTiCS 2016) and the 1st

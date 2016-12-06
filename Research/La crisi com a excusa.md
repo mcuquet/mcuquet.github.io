@@ -6,7 +6,9 @@ permalink: Research/Publications/La crisi com a excusa/
 ---
 
 **Martí Cuquet**, Florencia del Castillo.  
-_[Estrat crític: revista d’arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.
+_[Estrat crític: revista d’arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
+[ [PDF](../La crisi com a excusa.pdf)
+| [Bibtex](../La crisi com a excusa.bib) ]
 
 L'últim any s'han pres diverses mesures a nivell universitari, català i
 estatal, que afecten tant el preu de l'educació pública com les condicions

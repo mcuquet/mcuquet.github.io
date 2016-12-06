@@ -7,7 +7,9 @@ permalink: Research/Publications/Growth of graph states in quantum networks/
 
 **Martí Cuquet**, John Calsamiglia.  
 _[Physical Review A 86, 042304 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.042304)_.  
-[ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710) ]
+[ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710)
+| [PDF](../Growth of graph states in quantum networks.pdf)
+| [Bibtex](../Growth of graph states in quantum networks.bib) ]
 
 We propose a scheme to distribute graph states over quantum networks in the
 presence of noise in the channels and in the operations. The protocol can be

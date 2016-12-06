@@ -6,7 +6,9 @@ permalink: Research/Publications/Entanglement distribution in quantum complex ne
 ---
 
 **Martí Cuquet**.  
-_[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.
+_[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.  
+[ [PDF](../Entanglement distribution in quantum complex networks.pdf)
+| [Bibtex](../Entanglement distribution in quantum complex networks.bib) ]
 
 ## Abstract
 

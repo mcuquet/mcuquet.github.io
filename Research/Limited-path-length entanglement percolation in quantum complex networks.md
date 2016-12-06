@@ -7,7 +7,9 @@ permalink: Research/Publications/Limited-path-length entanglement percolation in
 
 **Martí Cuquet**, John Calsamiglia.  
 _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
-[ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
+[ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630)
+| [PDF](../Limited-path-length entanglement percolation in quantum complex networks.pdf)
+| [Bibtex](../Limited-path-length entanglement percolation in quantum complex networks.bib) ]
 
 We study entanglement distribution in quantum complex networks where nodes are
 connected by bipartite entangled states. These networks are characterized by a

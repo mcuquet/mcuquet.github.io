@@ -6,7 +6,9 @@ permalink: Research/Publications/Broadcasting in spin networks/
 ---
 
 **Martí Cuquet**.  
-_[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.
+_[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.  
+[ [PDF](../Broadcasting in spin networks.pdf)
+| [Bibtex](../Broadcasting in spin networks.bib) ]
 
 We present an implementation of _N_ to _M_ quantum broadcasting of mixed
 qubits in the equatorial plane in an unmodulated spin network. The

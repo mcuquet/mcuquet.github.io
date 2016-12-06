@@ -7,7 +7,9 @@ permalink: Research/Publications/Operational multipartite entanglement measures/
 
 Katharina Schwaiger, David Sauerwein, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
 _[Physical Review Letters 115, 150502 (2015)](http://dx.doi.org/10.1103/PhysRevLett.115.150502)_.  
-[ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615) ]
+[ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615)
+| [PDF](../Operational multipartite entanglement measures.pdf)
+| [Bibtex](../Operational multipartite entanglement measures.bib) ]
 
 We introduce two operational entanglement measures that are applicable for
 arbitrary multipartite (pure or mixed) states. One of them characterizes the

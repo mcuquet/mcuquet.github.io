@@ -7,7 +7,9 @@ permalink: Research/Publications/Source and accessible entanglement of few-body 
 
 David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
 _[Physical Review A 92, 062340 (2015)](http://dx.doi.org/10.1103/PhysRevA.92.062340)_.  
-[ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524) ]
+[ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524)
+| [PDF](../Source and accessible entanglement of few-body systems.pdf)
+| [Bibtex](../Source and accessible entanglement of few-body systems.bib) ]
 
 Entanglement is the resource to overcome the natural limitations of spatially
 separated parties restricted to local operations assisted by classical

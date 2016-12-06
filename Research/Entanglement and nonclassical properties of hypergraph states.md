@@ -7,7 +7,8 @@ permalink: Research/Publications/Entanglement and nonclassical properties of hyp
 
 Otfried Gühne, **Martí Cuquet**, Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Barbara Kraus, Chiara Macchiavello.  
 _[Journal of Physics A 47, 335303 (2014)](http://dx.doi.org/10.1088/1751-8113/47/33/335303)_.  
-[ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492) ]
+[ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492)
+| [Bibtex](../Entanglement and nonclassical properties of hypergraph states.bib) ]
 
 Hypergraph states are multi-qubit states that form a subset of the locally
 maximally entangleable states and a generalization of the well-established
