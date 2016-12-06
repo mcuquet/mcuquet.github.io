@@ -17,38 +17,51 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
   _[Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)](SEMPDS-2016)_, Leipzig, Germany, 12-15 September, 2016.  
-  [CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).
+  [CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).  
+  [ [PDF (Preface)](SEMPDS-2016.pdf)
+  | [Bibtex](SEMPDS-2016.bib) ]
 
 ## Journal articles
 
 0. [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
    David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
    _[Physical Review A 92, 062340 (2015)](http://dx.doi.org/10.1103/PhysRevA.92.062340)_.  
-   [ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524) ]
+   [ [arXiv:1508.02524](http://arxiv.org/abs/1508.02524)
+   | [PDF](Source and accessible entanglement of few-body systems.pdf)
+   | [Bibtex](Source and accessible entanglement of few-body systems.bib) ]
 
 0. [Operational multipartite entanglement measures](Operational multipartite entanglement measures).  
    Katharina Schwaiger, David Sauerwein, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
    _[Physical Review Letters 115, 150502 (2015)](http://dx.doi.org/10.1103/PhysRevLett.115.150502)_.  
-   [ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615) ]
+   [ [arXiv:1503.00615](http://arxiv.org/abs/1503.00615)
+   | [PDF](Operational multipartite entanglement measures.pdf)
+   | [Bibtex](Operational multipartite entanglement measures.bib) ]
 
 0. [Entanglement and nonclassical properties of hypergraph states](Entanglement and nonclassical properties of hypergraph states).  
    Otfried Gühne, **Martí Cuquet**, Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Barbara Kraus, Chiara Macchiavello.  
    _[Journal of Physics A 47, 335303 (2014)](http://dx.doi.org/10.1088/1751-8113/47/33/335303)_.  
-   [ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492) ]
+   [ [arXiv:1404.6492](http://arxiv.org/abs/1404.6492)
+   | [Bibtex](Entanglement and nonclassical properties of hypergraph states.bib) ]
 
 0. [Growth of graph states in quantum networks](Growth of graph states in quantum networks).  
    **Martí Cuquet**, John Calsamiglia.  
    _[Physical Review A 86, 042304 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.042304)_.  
-   [ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710) ]
+   [ [arXiv:1208.0710](http://arxiv.org/abs/1208.0710)
+   | [PDF](Growth of graph states in quantum networks.pdf)
+   | [Bibtex](Growth of graph states in quantum networks.bib) ]
 
 0. [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
    **Martí Cuquet**, Florencia del Castillo.  
    _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
+   [ [PDF](La crisi com a excusa.pdf)
+   | [Bibtex](La crisi com a excusa.bib) ]
 
 0. [Limited-path-length entanglement percolation in quantum complex networks](Limited-path-length entanglement percolation in quantum complex networks).  
    **Martí Cuquet**, John Calsamiglia.  
    _[Physical Review A 83, 032319 (2011)](http://dx.doi.org/10.1103/PhysRevA.83.032319)_.  
-   [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630) ]
+   [ [arXiv:1011.5630](http://arxiv.org/abs/1011.5630)
+   | [PDF](Limited-path-length entanglement percolation in quantum complex networks.pdf)
+   | [Bibtex](Limited-path-length entanglement percolation in quantum complex networks.bib) ]
 
 0. [Entanglement percolation in quantum complex networks](Entanglement percolation in quantum complex networks).  
    **Martí Cuquet**, John Calsamiglia.  
@@ -62,7 +75,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - [Entanglement properties of locally maximally entangleable states](Entanglement properties of locally maximally entangleable states).  
   **Martí Cuquet**, Tatjana Carle, Barbara Kraus.  
-  _[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](http://www.jku.at/conferences/content/e198715/)_.
+  _[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](https://inis.iaea.org/search/search.aspx?orig_q=RN:45093114)_.  
+  [ [Bibtex](Entanglement properties of locally maximally entangleable states.bib) ]
 
 ## Project deliverables
 
@@ -79,7 +93,9 @@ Zenodo._
 
 - [Interim sustainability plan for the big data community](BYTE-D7-2-1).  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
-  [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.
+  [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.  
+  [ [PDF](BYTE-D7-2-1.pdf)
+  | [Bibtex](BYTE-D7-2-1.bib) ]
 
 - Interim strategy and charter for the big data community.  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
@@ -90,8 +106,12 @@ Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strate
 
 - [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
   **Martí Cuquet**.  
-  _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.
+  _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.  
+  [ [PDF](Entanglement distribution in quantum complex networks.pdf)
+  | [Bibtex](Entanglement distribution in quantum complex networks.bib) ]
 
 - [Broadcasting in spin networks](Broadcasting in spin networks).  
   **Martí Cuquet**.  
-  _[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.
+  _[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.  
+  [ [PDF](Broadcasting in spin networks.pdf)
+  | [Bibtex](Broadcasting in spin networks.bib) ]

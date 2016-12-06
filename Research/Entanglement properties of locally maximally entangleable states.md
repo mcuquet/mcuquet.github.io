@@ -6,7 +6,7 @@ permalink: Research/Publications/Entanglement properties of locally maximally en
 ---
 
 **Martí Cuquet**, Tatjana Carle, Barbara Kraus.
-_[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](http://www.jku.at/conferences/content/e198715/)_.
+_[Joint Annual Meeting of the Austrian Physical Society and the Swiss Physical Society together with the Austrian and Swiss Societies for Astronomy and Astrophysics (2013)](https://inis.iaea.org/search/search.aspx?orig_q=RN:45093114)_.
 
 ## Abstract
 
