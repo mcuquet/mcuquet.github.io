@@ -5,6 +5,7 @@ email: marti.cuquet@gmail.com
 assetsurl: "/assets/"
 imagesurl: "/images/"
 url: "http://mcuquet.github.io" # the base hostname & protocol for your site
+include: "/Research/*/*.pdf"
 
 # Jekyll settings
 #gems:
