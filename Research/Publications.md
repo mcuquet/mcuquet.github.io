@@ -52,7 +52,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 0. [La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial](La crisi com a excusa).  
    **Martí Cuquet**, Florencia del Castillo.  
-   _[Estrat crític: revista d'arqueologia 6, 109-120 (2011)](http://ddd.uab.cat/record/107241/)_.  
+   _[Estrat crític: revista d'arqueologia 6, 109-120 (2012)](http://ddd.uab.cat/record/107241/)_.  
    [ [PDF](La crisi com a excusa.pdf)
    | [Bibtex](La crisi com a excusa.bib) ]
 
