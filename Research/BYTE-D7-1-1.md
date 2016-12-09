@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Interim sustainability plan for the big data community
+title: Interim strategy and charter for the big data community
 icon: research
-permalink: Research/Publications/BYTE-D7-2-1
+permalink: Research/Publications/BYTE-D7-1-1
 ---
 
-Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
-[D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.  
-[ [PDF](../BYTE-D7-2-1.pdf)
-| [Bibtex](../BYTE-D7-2-1.bib) ]
+Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.
+[D7.1.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
 
 BYTE will culminate in the launch of the BYTE Big Data Community (BBDC), a
 sustainable, cross-disciplinary platform that will implement the roadmap
@@ -22,7 +20,7 @@ data innovations, BYTE is quite unique in examining the economic, legal,
 social, ethical and political externalities associated with the collection,
 linking and sharing of big data. In fact, BYTE is focused on alleviating
 societal concerns and including civil society organisations in the community,
-as well as policy-makers.
+as well as policy- makers.
 
 This document outlines an interim strategy and a value proposition for the
 BBDC, taking as a first-choice working hypothesis that it will channel its
@@ -41,15 +39,13 @@ This interim strategy and charter will be finalised near the end of the
 project.
 
 ~~~
-@techreport{Bigagli2016_sustainability,
-  author = {Bigagli, Lorenzo and Magnusson, Jarl and Cuquet, Martí and Fensel, Anna and Rachel, Finn},
-  title = {Interim sustainability plan for the big data community},
+@techreport{Bigagli2016_strategy,
+  author = {Bigagli, Lorenzo and Finn, Rachel and Cuquet, Martí and Gergely, Laszlo and Curry, Ed and ul Hassan, Umair and Stensrud, Erik and Magnusson, Jarl and Cunningham, Scott and Werker, Claudia and Lammerant, Hans and Vega-Gorgojo, Guillermo},
+  title = {Interim strategy and charter for the big data community},
   institution = {BYTE Project},
   month = sep,
   year = 2016,
-  number = {D7.2.1},
+  number = {D7.1.1},
   type = {Project deliverable},
-  doi = {10.5281/zenodo.166700},
-  url = {https://doi.org/10.5281/zenodo.166700}
 }
 ~~~

@@ -83,11 +83,11 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 _Deliverables that have been reviewed and accepted have a DOI available via
 Zenodo._
 
-- A roadmap for big data incorporating both the research roadmap and the policy roadmap.  
+- [A roadmap for big data incorporating both the research roadmap and the policy roadmap](BYTE-D6-1).  
   Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.  
   [D6.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2016/11/D6-1-BYTE-Policy-and-Research-roadmap_FINAL.pdf), 9 November 2016.
 
-- Interim strategy and charter for the big data community.  
+- [Interim strategy and charter for the big data community](BYTE-D7-1-1).  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
   [D7.1.1 BYTE
 Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
@@ -98,8 +98,8 @@ Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strate
   [ [PDF](BYTE-D7-2-1.pdf)
   | [Bibtex](BYTE-D7-2-1.bib) ]
 
-- Big data for good.  
-  **Martí Cuquet**, Guillermo Vega-Gorgojo, Hanns Lammerant, Rachel Finn, Umair ul Hassan.  
+- [Big data for good](BYTE-D9-5).  
+  **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 30 September 2016.
 
 ## Thesis
