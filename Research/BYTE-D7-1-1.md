@@ -5,7 +5,7 @@ icon: research
 permalink: Research/Publications/BYTE-D7-1-1
 ---
 
-Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.
+Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
 [D7.1.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
 
 BYTE will culminate in the launch of the BYTE Big Data Community (BBDC), a

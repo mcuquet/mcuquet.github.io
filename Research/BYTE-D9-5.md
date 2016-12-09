@@ -5,7 +5,7 @@ icon: research
 permalink: Research/Publications/BYTE-D9-5
 ---
 
-**Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.
+**Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
 [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 30 September 2016.
 
 The following document contains a summary of the externalities found in the

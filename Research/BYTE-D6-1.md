@@ -5,7 +5,7 @@ icon: research
 permalink: Research/Publications/BYTE-D6-1
 ---
 
-Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.
+Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.  
 [D6.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2016/11/D6-1-BYTE-Policy-and-Research-roadmap_FINAL.pdf), 9 November 2016.
 
 This document presents the BYTE big data roadmap to capture the economic,
