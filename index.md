@@ -1,7 +1,7 @@
 ---
 layout: cover
 title: Martí Cuquet
-tagline: 'Physicist.<br/>CSO @ <a href="https://fanlens.io">Fanlens</a>.<br/>Postdoc @ <a href="http://sti-innsbruck.at/">STI Innsbruck</a>.'
+tagline: 'Physicist.<br/>CSO @ <a href="https://fanlens.io">Fanlens</a>.'
 ---
 
 {% include marti-cuquet.json %}
