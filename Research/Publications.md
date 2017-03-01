@@ -89,14 +89,29 @@ Zenodo._
 
 - [Interim strategy and charter for the big data community](BYTE-D7-1-1).  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
-  [D7.1.1 BYTE
-Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
+  [D7.1.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
+
+- [Final strategy and charter for the big data community](BYTE-D7-1-2).  
+  Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Edward Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  
+  [D7.1.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
 
 - [Interim sustainability plan for the big data community](BYTE-D7-2-1).  
   Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
   [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.  
   [ [PDF](BYTE-D7-2-1.pdf)
   | [Bibtex](BYTE-D7-2-1.bib) ]
+
+- [Final sustainability plan for the big data community](BYTE-D7-2-2).  
+  Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  
+  [D7.2.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
+
+- [BYTE Showcase video](BYTE-D9-3).  
+  Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  
+  [D9.3 BYTE Project](http://byte-project.eu/research), 28 February 2017.
+
+- [Dissemination report](BYTE-D9-4).  
+  Csilla Gödri, **Martí Cuquet**.  
+  [D9.4 BYTE Project](http://byte-project.eu/research), 28 February 2017.
 
 - [Big data for good](BYTE-D9-5).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
