@@ -6,7 +6,7 @@ permalink: Research/Publications/BYTE-D9-5
 ---
 
 **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
-[D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 30 September 2016.
+[D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 28 February 2017.
 
 The following document contains a summary of the externalities found in the
 BYTE case studies, the risks and opportunities of big data from a legal
@@ -86,8 +86,8 @@ engineers and generally data-savvy professionals and citizens.
   author = {Cuquet, Martí and Vega-Gorgojo, Guillermo and Lammerant, Hans and Finn, Rachel and ul Hassan, Umair},
   title = {Big data for good},
   institution = {BYTE Project},
-  month = sep,
-  year = 2016,
+  month = feb,
+  year = 2017,
   number = {D9.5},
   type = {Project deliverable},
 }

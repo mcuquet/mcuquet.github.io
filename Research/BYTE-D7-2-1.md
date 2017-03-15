@@ -5,10 +5,10 @@ icon: research
 permalink: Research/Publications/BYTE-D7-2-1
 ---
 
-Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
+Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  
 [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.  
-[ [PDF](../BYTE-D7-2-1.pdf)
-| [Bibtex](../BYTE-D7-2-1.bib) ]
+[ [PDF](BYTE-D7-2-1.pdf)
+| [Bibtex](BYTE-D7-2-1.bib) ]
 
 BYTE will culminate in the launch of the BYTE Big Data Community (BBDC), a
 sustainable, cross-disciplinary platform that will implement the roadmap

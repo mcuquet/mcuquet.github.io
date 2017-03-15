@@ -13,6 +13,12 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Anna Fensel.  
   [ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766) ]
 
+- Societal impacts of big data: challenges and opportunities in Europe.  
+  **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.
+
+- Societal impact of big data on environment: a European roadmap.  
+  **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.
+
 ## Edited proceedings
 
 - Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
@@ -96,7 +102,7 @@ Zenodo._
   [D7.1.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
 
 - [Interim sustainability plan for the big data community](BYTE-D7-2-1).  
-  Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
+  Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  
   [D7.2.1 BYTE Project](https://doi.org/10.5281/zenodo.166700), 30 September 2016.  
   [ [PDF](BYTE-D7-2-1.pdf)
   | [Bibtex](BYTE-D7-2-1.bib) ]
@@ -109,9 +115,13 @@ Zenodo._
   Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  
   [D9.3 BYTE Project](http://byte-project.eu/research), 28 February 2017.
 
+- [Dissemination report](BYTE-D9-4).  
+  Csilla Godri, Adrienn Nagy, **Martí Cuquet**.  
+  [D9.4 BYTE Project](http://byte-project.eu/research), 13 March 2017.
+
 - [Big data for good](BYTE-D9-5).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
-  [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 30 September 2016.
+  [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 28 February 2017.
 
 ## Thesis
 
