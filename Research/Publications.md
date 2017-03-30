@@ -16,7 +16,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 - Societal impacts of big data: challenges and opportunities in Europe.  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.
 
-- Societal impact of big data on environment: a European roadmap.  
+- A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.  
   **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.
 
 ## Edited proceedings
