@@ -5,8 +5,8 @@ icon: research
 permalink: Research/Publications/BYTE-D9-4
 ---
 
-Csilla Gödri, Adrienn Nagy, **Martí Cuquet**.  
-[D9.4 BYTE Project](http://byte-project.eu/research), 13 March 2017.
+Csilla Gödri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  
+[D9.4 BYTE Project](http://byte-project.eu/research), 21 March 2017.
 
 As part of the final dissemination work for BYTE, the project produced a
 Showcase video for the project and the European Commission to use to publicise
@@ -25,7 +25,7 @@ further activities after the close of the project.
 
 ~~~
 @techreport{Godri2017_dissemination,
-  author = {Gödri, Csilla and Nagy, Adrienn and Cuquet, Martí},
+  author = {Gödri, Csilla and Nagy, Adrienn and Cuquet, Martí and Hatzakis, Tally and Finn, Rachel and Wadhwa, Kush},
   title = {Dissemination report},
   institution = {BYTE Project},
   month = mar,

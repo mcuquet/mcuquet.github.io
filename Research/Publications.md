@@ -116,8 +116,8 @@ Zenodo._
   [D9.3 BYTE Project](http://byte-project.eu/research), 28 February 2017.
 
 - [Dissemination report](BYTE-D9-4).  
-  Csilla Godri, Adrienn Nagy, **Martí Cuquet**.  
-  [D9.4 BYTE Project](http://byte-project.eu/research), 13 March 2017.
+  Csilla Godri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  
+  [D9.4 BYTE Project](http://byte-project.eu/research), 21 March 2017.
 
 - [Big data for good](BYTE-D9-5).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
