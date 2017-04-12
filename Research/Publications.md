@@ -13,8 +13,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Anna Fensel.  
   [ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766) ]
 
-- Societal impacts of big data: challenges and opportunities in Europe.  
+- [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.
+  [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
 
 - A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.  
   **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.
