@@ -20,6 +20,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 - A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.  
   **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.
 
+- The network structure of visited locations according to geotagged social media photos.  
+  Christian Junker, Zaenal Akbar, **Martí Cuquet**.
+
 ## Edited proceedings
 
 - Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
