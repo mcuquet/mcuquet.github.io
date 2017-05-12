@@ -18,7 +18,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
 
 - A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.  
-  **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.
+  **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.  
+  _Accepted. To be presented at
+[GIoTS Workshop on Energy Efficient Solutions based on IoT](https://sites.grenadine.co/sites/iot/en/iot-week-2017/schedule/852/GIoTS+Workshop+on+Energy+Efficient+Solutions+based+on+IoT+-+EESIoT+2017+III)_
 
 - [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
   Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
