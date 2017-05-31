@@ -24,7 +24,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 - [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
   Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
-  [ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739) ]
+  [ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739) ]  
+  _Accepted. To be presented at [PRO-VE 2017](http://pro-ve.org/)_
 
 ## Edited proceedings
 
