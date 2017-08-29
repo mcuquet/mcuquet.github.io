@@ -17,11 +17,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
 
-- A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.  
-  **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.  
-  _Accepted. To be presented at
-[GIoTS Workshop on Energy Efficient Solutions based on IoT](https://sites.grenadine.co/sites/iot/en/iot-week-2017/schedule/852/GIoTS+Workshop+on+Energy+Efficient+Solutions+based+on+IoT+-+EESIoT+2017+III)_
-
 - [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
   Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
   [ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739) ]  
@@ -85,6 +80,15 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
    | [Bibtex](Entanglement percolation in quantum complex networks.bib) ]
 {: reversed="reversed"}
 
+## Conference proceedings
+
+- [A European research roadmap for optimizing societal impact of big data on environment and energy efficiency](A European research roadmap for optimizing societal impact of big data on environment and energy efficiency).  
+  **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.  
+  _[IEEE Global Internet of Things Summit (GIoTS), Geneva, Switzerland, 6-9 June, 2017, pp. 379-384](https://doi.org/10.1109/GIOTS.2017.8016274)_.  
+  [_[arXiv:](https://arxiv.org/abs/1708.07871)
+  | [PDF](A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.pdf)
+  | [Bibtex](A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.bib) ]
+
 ## Conference abstracts
 
 - [Entanglement properties of locally maximally entangleable states](Entanglement properties of locally maximally entangleable states).  
@@ -133,14 +137,14 @@ Zenodo._
 
 ## Thesis
 
-- [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
-  **Martí Cuquet**.  
-  _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.  
-  [ [PDF](Entanglement distribution in quantum complex networks.pdf)
-  | [Bibtex](Entanglement distribution in quantum complex networks.bib) ]
-
 - [Broadcasting in spin networks](Broadcasting in spin networks).  
   **Martí Cuquet**.  
   _[Universitat Politècnica de Catalunya, Barcelona](http://upcommons.upc.edu/handle/2099.1/6010)_. MSc thesis. 2008.  
   [ [PDF](Broadcasting in spin networks.pdf)
   | [Bibtex](Broadcasting in spin networks.bib) ]
+
+- [Entanglement distribution in quantum complex networks](Entanglement distribution in quantum complex networks).  
+  **Martí Cuquet**.  
+  _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.  
+  [ [PDF](Entanglement distribution in quantum complex networks.pdf)
+  | [Bibtex](Entanglement distribution in quantum complex networks.bib) ]
