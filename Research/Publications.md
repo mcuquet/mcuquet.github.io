@@ -17,11 +17,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
 
-- [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
-  Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
-  [ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739) ]  
-  _Accepted. To be presented at [PRO-VE 2017](http://pro-ve.org/)_
-
 ## Edited proceedings
 
 - Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
@@ -81,6 +76,12 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 {: reversed="reversed"}
 
 ## Conference papers
+
+0. [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
+   Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
+   In: Camarinha-Matos L., Afsarmanesh H., Fornasiero R. (eds) [_Collaboration in a Data-Rich World, PRO-VE 2017_, pp. 276-283](https://doi.org/10.1007/978-3-319-65151-4_26). IFIP Advances in Information and Communication Technology, vol 506. Springer, Cham.  
+   [ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739)  
+   | [Bibtex](The network structure of visited locations according to geotagged social media photos.bib) ]
 
 0. [A European research roadmap for optimizing societal impact of big data on environment and energy efficiency](A European research roadmap for optimizing societal impact of big data on environment and energy efficiency).  
    **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.  
