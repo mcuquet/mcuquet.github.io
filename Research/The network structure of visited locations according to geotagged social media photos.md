@@ -6,7 +6,9 @@ permalink: "Research/Publications/The network structure of visited locations acc
 ---
 
 Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
-[ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739) ]
+In: Camarinha-Matos L., Afsarmanesh H., Fornasiero R. (eds) [_Collaboration in a Data-Rich World, PRO-VE 2017_, pp.  276-283](https://doi.org/10.1007/978-3-319-65151-4_26). IFIP Advances in Information and Communication Technology, vol 506. Springer, Cham.  
+[ [arXiv:1704.04739](http://arxiv.org/abs/1704.04739)  
+| [Bibtex](The network structure of visited locations according to geotagged social media photos.bib) ]
 
 Businesses, tourism attractions, public transportation hubs and other points
 of interest are not isolated but part of a collaborative system. Making such
@@ -24,13 +26,19 @@ edges. An analysis of the resulting network properties reveals its complex
 structure.
 
 ~~~
-@unpublished{Junker2017_network,
+@inproceedings{Junker2017_network,
   title = {The network structure of visited locations according to geotagged
 social media photos},
   author = {Junker, Christian and Akbar, Zaenal and Cuquet, Mart{\'{\i}}},
+  booktitle = {Collaboration in a Data-Rich World, PRO-VE 2017},
+  series = {IFIP Advances in Information and Communication Technology},
+  volume = {506},
+  publisher = {Springer},
+  address = {Cham},
+  pages = {276--283},
   numpages = {8},
   year = {2017},
-  month = {apr},
   arxivId = {1704.04739},
+  doi = {10.1007/978-3-319-65151-4_26},
 }
 ~~~
