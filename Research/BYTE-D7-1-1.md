@@ -5,8 +5,10 @@ icon: research
 permalink: Research/Publications/BYTE-D7-1-1
 ---
 
-Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  
-[D7.1.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D7.1.1-Interim-strategy-and-charter_v1.1.pdf), 30 September 2016.
+Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  
+[D7.1.1 BYTE Project](https://doi.org/10.5281/zenodo.1195873), 30 September 2016.  
+[ [PDF](BYTE-D7-1-1.pdf)
+| [Bibtex](BYTE-D7-1-1.bib)]
 
 BYTE will culminate in the launch of the BYTE Big Data Community (BBDC), a
 sustainable, cross-disciplinary platform that will implement the roadmap
@@ -40,12 +42,14 @@ project.
 
 ~~~
 @techreport{Bigagli2016_strategy,
-  author = {Bigagli, Lorenzo and Finn, Rachel and Cuquet, Martí and Gergely, Laszlo and Curry, Ed and ul Hassan, Umair and Stensrud, Erik and Magnusson, Jarl and Cunningham, Scott and Werker, Claudia and Lammerant, Hans and Vega-Gorgojo, Guillermo},
+  author = {Bigagli, Lorenzo and Finn, Rachel and Cuquet, Martí and Gergely, Laszlo and Curry, Ed and ul Hassan, Umair and Stensrud, Erik and Magnusson, Jarl and Cunningham, Scott and Werker, Claudia and Lammerant, Hans},
   title = {Interim strategy and charter for the big data community},
   institution = {BYTE Project},
   month = sep,
   year = 2016,
   number = {D7.1.1},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1195873},
+  url = {https://doi.org/10.5281/zenodo.1195873},
 }
 ~~~
