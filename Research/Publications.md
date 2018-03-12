@@ -103,9 +103,11 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 _Deliverables that have been reviewed and accepted have a DOI available via
 Zenodo._
 
-- [A roadmap for big data incorporating both the research roadmap and the policy roadmap](BYTE-D6-1).  
-  Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.  
-  [D6.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2016/11/D6-1-BYTE-Policy-and-Research-roadmap_FINAL.pdf), 9 November 2016.
+- [A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap](BYTE-D6-1).  
+  Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel, Scott Cunningham, Rachel Finn.  
+  [D6.1 BYTE Project](https://doi.org/10.5281/zenodo.1195745), 22 August 2017.  
+  [_[PDF](BYTE-D6-1.pdf)
+  | [Bibtex](BYTE-D6-1.bib) ]
 
 - [Interim strategy and charter for the big data community](BYTE-D7-1-1).  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant, Guillermo Vega-Gorgojo.  

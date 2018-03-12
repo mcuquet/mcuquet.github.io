@@ -1,12 +1,14 @@
 ---
 layout: page
-title: A roadmap for big data incorporating both the research roadmap and the policy roadmap
+title: A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap
 icon: research
 permalink: Research/Publications/BYTE-D6-1
 ---
 
-Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel.  
-[D6.1 BYTE Project](http://byte-project.eu/wp-content/uploads/2016/11/D6-1-BYTE-Policy-and-Research-roadmap_FINAL.pdf), 9 November 2016.
+Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fenseli, Scott Cunningham, Rachel Finn. 
+[D6.1 BYTE Project](https://doi.org/10.5281/zenodo.1195745), 22 August 2017.  
+[_[PDF](BYTE-D6-1.pdf)
+| [Bibtex](BYTE-D6-1.bib) ]
 
 This document presents the BYTE big data roadmap to capture the economic,
 social and ethical, legal and political benefits associated with the use of
@@ -57,13 +59,15 @@ initial analysis of the specific policy and research needs is provided for the
 environment, healthcare and smart city sectors selected for the first year.
 
 ~~~
-@techreport{Grumbach2016_roadmap,
-  author = {Grumbach, Stéphane and Faravelon, Aurélien and Cuquet, Martí and Fensel, Anna},
-  title = {A roadmap for big data incorporating both the research roadmap and the policy roadmap},
+@techreport{Grumbach2017_roadmap,
+  author = {Grumbach, Stéphane and Faravelon, Aurélien and Cuquet, Martí and Fensel, Anna and Cunningham, Scott and Finn, Rachel},
+  title = {A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap},
   institution = {BYTE Project},
-  month = nov,
-  year = 2016,
+  month = aug,
+  year = 2017,
   number = {D6.1},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1195745},
+  url = {https://doi.org/10.5281/zenodo.1195745},
 }
 ~~~
