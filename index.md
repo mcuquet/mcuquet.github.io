@@ -1,7 +1,7 @@
 ---
 layout: cover
 title: Martí Cuquet
-tagline: 'Physicist.<br/>CSO @ <a href="https://fanlens.io">Fanlens</a>.'
+tagline: 'Physicist.'
 ---
 
 {% include marti-cuquet.json %}
