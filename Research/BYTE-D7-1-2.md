@@ -6,7 +6,9 @@ permalink: Research/Publications/BYTE-D7-1-2
 ---
 
 Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Edward Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  
-[D7.1.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
+[D7.1.2 BYTE Project](https://doi.org/10.5281/zenodo.1196836), 31 January 2017.  
+[ [PDF](BYTE-D7-1-2.pdf)
+| [Bibtex](BYTE-D7-1-2.pdf) ]
 
 BYTE has culminated in the launch of the BYTE Big Data Community (BBDC), a
 sustainable, cross-disciplinary platform set to implement the roadmap
@@ -43,5 +45,7 @@ milestones, during the course of the project and beyond.
   year = 2017,
   number = {D7.1.2},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1196836},
+  url = {https://doi.org/10.5281/zenodo.1196836},
 }
 ~~~

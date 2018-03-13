@@ -117,7 +117,9 @@ Zenodo._
 
 - [Final strategy and charter for the big data community](BYTE-D7-1-2).  
   Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Edward Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  
-  [D7.1.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
+  [D7.1.2 BYTE Project](https://doi.org/10.5281/zenodo.1196836), 31 January 2017.  
+  [ [PDF](BYTE-D7-1-2.pdf)
+  | [Bibtex](BYTE-D7-1-2.pdf) ]
 
 - [Interim sustainability plan for the big data community](BYTE-D7-2-1).  
   Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  
