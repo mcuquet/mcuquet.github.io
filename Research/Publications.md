@@ -127,7 +127,9 @@ Zenodo._
 
 - [Final sustainability plan for the big data community](BYTE-D7-2-2).  
   Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  
-  [D7.2.2 BYTE Project](http://byte-project.eu/research), 31 January 2017.
+  [D7.2.2 BYTE Project](https://doi.org/10.5281/zenodo.1196794), 26 July 2017.  
+  [ [PDF](BYTE-D7-2-2.pdf)
+  | [Bibtex](BYTE-D7-2-2.bib) ]
 
 - [BYTE Showcase video](BYTE-D9-3).  
   Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  

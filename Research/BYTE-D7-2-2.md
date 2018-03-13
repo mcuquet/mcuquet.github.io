@@ -6,7 +6,9 @@ permalink: Research/Publications/BYTE-D7-2-2
 ---
 
 Lorenzo Bigagli, **Martí Cuquet**, Anna Fensel, Jarl Magnusson.  
-[D7.2.1 BYTE Project](http://byte-project.eu/research), 31 January 2017.  
+[D7.2.2 BYTE Project](https://doi.org/10.5281/zenodo.1196794), 26 July 2017.  
+[ [PDF](BYTE-D7-2-2.pdf)
+| [Bibtex](BYTE-D7-2-2.bib) ]
 
 BYTE has culminated in the launch of the BYTE Big Data Community (BBDC), a
 sustainable, cross-disciplinary platform that will implement the roadmap
@@ -28,12 +30,14 @@ and effectiveness.
 
 ~~~
 @techreport{Bigagli2017_sustainability,
-  author = {Bigagli, Lorenzo and Magnusson, Jarl and Cuquet, Martí and Fensel, Anna and Rachel, Finn},
+  author = {Bigagli, Lorenzo and Magnusson, Jarl and Cuquet, Martí and Fensel, Anna},
   title = {Final sustainability plan for the big data community},
   institution = {BYTE Project},
-  month = jan,
+  month = jul,
   year = 2017,
   number = {D7.2.2},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1196794},
+  url = {https://doi.org/10.5281/zenodo.1196794},
 }
 ~~~
