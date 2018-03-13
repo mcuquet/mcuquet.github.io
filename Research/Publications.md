@@ -100,9 +100,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Project deliverables
 
-_Deliverables that have been reviewed and accepted have a DOI available via
-Zenodo._
-
 - [A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap](BYTE-D6-1).  
   Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fensel, Scott Cunningham, Rachel Finn.  
   [D6.1 BYTE Project](https://doi.org/10.5281/zenodo.1195745), 22 August 2017.  
@@ -147,7 +144,9 @@ Zenodo._
 
 - [Big data for good](BYTE-D9-5).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
-  [D9.5 BYTE Project](http://byte-project.eu/wp-content/uploads/2014/02/D9.5-Big-data-for-good-final.pdf), 28 February 2017.
+  [D9.5 BYTE Project](https://doi.org/10.5281/zenodo.1196862), 28 February 2017.  
+  [ [PDF](BYTE-D9-5.pdf)
+  | [Bibtex](BYTE-D9-5.bib) ]
 
 ## Thesis
 
