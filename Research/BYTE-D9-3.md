@@ -6,7 +6,9 @@ permalink: Research/Publications/BYTE-D9-3
 ---
 
 Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  
-[D9.3 BYTE Project](http://byte-project.eu/research), 28 February 2017.
+[D9.3 BYTE Project](https://doi.org/10.5281/zenodo.1196850), 28 February 2017.  
+[ [PDF](BYTE-D9-3.pdf)
+| [Bibtex](BYTE-D9-3.bib) ]
 
 As part of the final dissemination work for BYTE, the project produced a
 Showcase video for the project and the European Commission to use to publicise
@@ -32,5 +34,7 @@ further activities after the close of the project.
   year = 2017,
   number = {D9.3},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1196850},
+  url = {https://doi.org/10.5281/zenodo.1196850},
 }
 ~~~

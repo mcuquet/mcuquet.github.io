@@ -135,7 +135,9 @@ Zenodo._
 
 - [BYTE Showcase video](BYTE-D9-3).  
   Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  
-  [D9.3 BYTE Project](http://byte-project.eu/research), 28 February 2017.
+  [D9.3 BYTE Project](https://doi.org/10.5281/zenodo.1196850), 28 February 2017.  
+  [ [PDF](BYTE-D9-3.pdf)
+  | [Bibtex](BYTE-D9-3.bib) ]
 
 - [Dissemination report](BYTE-D9-4).  
   Csilla Godri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  
