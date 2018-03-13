@@ -141,7 +141,9 @@ Zenodo._
 
 - [Dissemination report](BYTE-D9-4).  
   Csilla Godri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  
-  [D9.4 BYTE Project](http://byte-project.eu/research), 21 March 2017.
+  [D9.4 BYTE Project](https://doi.org/10.5281/zenodo.1196856), 21 March 2017.  
+  [ [PDF](BYTE-D9-4.pdf)
+  | [Bibtex](BYTE-D9-4.bib) ]
 
 - [Big data for good](BYTE-D9-5).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  

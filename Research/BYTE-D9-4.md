@@ -6,7 +6,9 @@ permalink: Research/Publications/BYTE-D9-4
 ---
 
 Csilla Gödri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  
-[D9.4 BYTE Project](http://byte-project.eu/research), 21 March 2017.
+[D9.4 BYTE Project](https://doi.org/10.5281/zenodo.1196856), 21 March 2017.  
+[ [PDF](BYTE-D9-4.pdf)
+| [Bibtex](BYTE-D9-4.bib) ]
 
 As part of the final dissemination work for BYTE, the project produced a
 Showcase video for the project and the European Commission to use to publicise
@@ -32,5 +34,7 @@ further activities after the close of the project.
   year = 2017,
   number = {D9.4},
   type = {Project deliverable},
+  doi = {10.5281/zenodo.1196856},
+  url = {https://doi.org/10.5281/zenodo.1196856},
 }
 ~~~
