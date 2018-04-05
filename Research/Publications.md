@@ -1,4 +1,4 @@
----
+
 layout: page
 title: Publications
 icon: research
@@ -8,10 +8,6 @@ permalink: /Research/Publications/
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
 ## Preprints
-
-- [Big data impact on society: a research roadmap for Europe](Big data impact on society a research roadmap for Europe).  
-  **Martí Cuquet**, Anna Fensel.  
-  [ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766) ]
 
 - [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
@@ -26,6 +22,13 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   | [Bibtex](SEMPDS-2016.bib) ]
 
 ## Journal articles
+
+0. [The societal impact of big data: A research roadmap for Europe](The societal impact of big data A research roadmap for Europe).  
+   **Martí Cuquet**, Anna Fensel.  
+   _[Technology in Society, In Press (2018)](https://doi.org/10.1016/j.techsoc.2018.03.005)_.  
+   [ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766)
+   | [PDF](The societal impact of big data A research roadmap for Europe.pdf)
+   | [Bibtex](The societal impact of big data A research roadmap for Europe.bib) ]
 
 0. [Source and accessible entanglement of few-body systems](Source and accessible entanglement of few-body systems).  
    David Sauerwein, Katharina Schwaiger, **Martí Cuquet**, Julio I. de Vicente, Barbara Kraus.  
