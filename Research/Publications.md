@@ -9,6 +9,9 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Preprints
 
+- Percepciones y uso de la Wikipedia en alumnos de educación secundaria [Perceptions and usage of Wikipedia among secondary education students].  
+  **Martí Cuquet**, María José García San Pedro.
+
 - [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
@@ -164,3 +167,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
   _[Departament de Física, Universitat Autònoma de Barcelona, Bellaterra](http://tdx.cat/handle/10803/107850)_. PhD thesis. 2012.  
   [ [PDF](Entanglement distribution in quantum complex networks.pdf)
   | [Bibtex](Entanglement distribution in quantum complex networks.bib) ]
+
+- [Geometría en la Wikipeida: La competencia digital en las matemáticas de Bachillerato] (Geometría en la Wikipeida: La competencia digital en las matemáticas de Bachillerato).  
+  **Martí Cuquet**.  
+  _Facultad de Educación, Universidad Internacional de La Rioja_. MA thesis.  2018.  
+  [ [Bibtex](Geometría en la Wikipeida.bib) ]
