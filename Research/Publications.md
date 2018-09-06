@@ -28,7 +28,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 0. [The societal impact of big data: A research roadmap for Europe](The societal impact of big data A research roadmap for Europe).  
    **Martí Cuquet**, Anna Fensel.  
-   _[Technology in Society, In Press (2018)](https://doi.org/10.1016/j.techsoc.2018.03.005)_.  
+   _[Technology in Society 54, 74-86 (2018)](https://doi.org/10.1016/j.techsoc.2018.03.005)_.  
    [ [arXiv:1610.06766](http://arxiv.org/abs/1610.06766)
    | [PDF](The societal impact of big data A research roadmap for Europe.pdf)
    | [Bibtex](The societal impact of big data A research roadmap for Europe.bib) ]
