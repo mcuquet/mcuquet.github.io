@@ -2,7 +2,7 @@
 layout: page
 title: "The societal impact of big data: A research roadmap for Europe"
 icon: research
-permalink: "Research/Publications/The societal impact of big data A research roadmap for Europe"
+permalink: "Research/Publications/The societal impact of big data A research roadmap for Europe/"
 ---
 
 **Martí Cuquet**, Anna Fensel. 
