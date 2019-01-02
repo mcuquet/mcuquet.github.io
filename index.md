@@ -1,7 +1,7 @@
 ---
 layout: cover
 title: Martí Cuquet
-tagline: 'Physicist.'
+tagline: 'Physicist. Maths teacher.'
 ---
 
 {% include marti-cuquet.json %}
