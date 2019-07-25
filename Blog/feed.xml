@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martí Cuquet</title>
+    <description>Pàgina personal d'en Martí Cuquet</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Jul 2019 14:32:29 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jul 2019 14:32:29 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Percepció i ús de la Viquipèdia entre els alumnes de secundària</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;El maig passat&lt;/span&gt;  va sortir publicat un article basat en part
+del meu treball de fi del màster de formació del professorat, coescrit amb la
+meva directora. L’article presenta els resultats d’una enquesta sobre les
+percepcions que 143 alumnes de 4t d’ESO i 2n de Batxillerat tenen de la
+Viquipèdia i els usos que en fan en el context escolar, amb resultats similars
+a altres estudis: els alumnes valoren la Viquipèdia per la seva rapidesa,
+facilitat d’ús i àmplia cobertura, i tot que en perceben una baixa fiabilitat
+n’accepten el compromís en favor dels beneficis que proporciona&lt;/p&gt;
+
+&lt;p&gt;A diferència d’altres estudis utilitzats com a referència, també vam voler
+observar l’ús segons la disciplina, i vam veure que és mínim pel que fa a les
+matemàtiques. També van obtenir respostes sobre l’ús que els alumnes fan de les
+diferents versions lingüístiques.&lt;/p&gt;
+
+&lt;p&gt;Cuquet, M., García San Pedro, M. J. (2019), «Percepciones y uso de la
+Wikipedia en alumnos de educación secundaria», &lt;a href=&quot;http://revistas.usal.es/index.php/eks/article/view/eks20192008&quot;&gt;&lt;em&gt;Education in the Knowledge
+Society 20&lt;/em&gt;,
+8&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+        <link>/Blog/2019/07/16/Percepci%C3%B3-i-%C3%BAs-de-la-Viquip%C3%A8dia-entre-els-alumnes-de-secund%C3%A0ria</link>
+        <guid isPermaLink="true">/Blog/2019/07/16/Percepci%C3%B3-i-%C3%BAs-de-la-Viquip%C3%A8dia-entre-els-alumnes-de-secund%C3%A0ria</guid>
+        
+        
+        <category>publicacions</category>
+        
+      </item>
+    
+  </channel>
+</rss>
