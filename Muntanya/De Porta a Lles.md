@@ -1,5 +1,5 @@
 ---
-layout: excursio
+layout: page
 title: De Porta a Lles
 category: muntanya
 permalink: /Muntanya/De Porta a Lles/
