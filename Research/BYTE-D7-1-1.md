@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Interim strategy and charter for the big data community
-icon: research
-permalink: Research/Publications/BYTE-D7-1-1
+section: Research
+permalink: Research/Publications/BYTE-D7-1-1/
 ---
 
 Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Ed Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  

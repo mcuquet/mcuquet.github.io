@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Reither Spitze (2.374 m)
+section: Muntanya
 permalink: /Muntanya/Reither Spitze/
-category: muntanya
 ---
 
 Seefelder (2.221 m) i Reither Spizte (2.374 m) són dues muntanyes de les **Karwendel**, just a l'est de Seefeld. A l'hivern, la seva cara oest s'utilitza de pista d'esquí alpí. A l'estiu, es pot aprofitar el telecabina per a pujar fins a la **Rosshütte** (1.571 m), o inclús fins al **Seefelder Joch** (2.060 m), ben a prop del **Seefelder Spitze**, des d'on hi ha molt bones vistes a oest, nord i est. La banda sud, de cara a la Inntal, queda tapada pel **Reither Spitze**, més alt, des d'on sí que hi ha una bona vista en totes direccions.
@@ -15,4 +15,5 @@ L'excursió es pot començar des de Seefeld, des de la Rosshütte o des del mate
 
 ## Vegeu també
 
-* [Seefelder Spitze (2.220 m) + Reither Spitze (2.374 m)]({{site.baseurl}}/{{page.category}}/Seefelder Spitze + Reither Spitze)
+* [Seefelder Spitze (2.220 m) + Reither Spitze (2.374 m)](Seefelder Spitze + Reither Spitze)
+{: .full-width }

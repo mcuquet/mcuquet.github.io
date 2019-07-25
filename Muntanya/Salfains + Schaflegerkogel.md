@@ -1,13 +1,13 @@
 ---
-layout: excursio
+layout: page
 title: Salfains (2.000 m) + Schaflegerkogel (2.450 m)
+section: Muntanya
 permalink: /Muntanya/Salfains + Schaflegerkogel/
-category: muntanya
 ---
 
 Des del pàrquing (1.435 m) a mig camí entre **Grinzens** i **Kemater Alm**, cal agafar el camí a mà dreta (cap a l'oest) en direcció **Salfainsalm** (tancat quan hi vam passar) i **Salfainsee** (2.000 m), en una pujada plena de Blaubeeren (mirtils). Des del llac, el camí segueix cap a sud, carenajant i passant successivament pels cims **Grieskogel** (2.158 m), **Breitschwemmkogel** (2.264 m), **Angerbergkopf** (2.399 m) i **Schaflegerkogel** (2.405 m). Des d'aquest últim es baixa ràpidament de nou cap a la vall en direcció Kemater Alm (1.646 m), obert tot l'any, i d'allà de nou fins al pàrking per la pista (per on poden passar els cotxes).
 
-Alternativament, també es pot pujar a Salfains [directament des de **Grinzens**]({{site.baseurl}}/muntanya/Salfains/).
+Alternativament, també es pot pujar a Salfains [directament des de **Grinzens**](Salfains/).
 
 ## Com arribar-hi
 
@@ -16,3 +16,4 @@ Alternativament, també es pot pujar a Salfains [directament des de **Grinzens**
 ## Vegeu també
 
 * [Salfains (2.000 m)]({{site.baseurl}}/muntanya/Salfains/)
+{: .full-width }

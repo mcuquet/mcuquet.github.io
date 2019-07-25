@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Final strategy and charter for the big data community
-icon: research
-permalink: Research/Publications/BYTE-D7-1-2
+section: Research
+permalink: Research/Publications/BYTE-D7-1-2/
 ---
 
 Lorenzo Bigagli, Rachel Finn, **Martí Cuquet**, Laszlo Gergely, Edward Curry, Umair ul Hassan, Erik Stensrud, Jarl Magnusson, Scott Cunningham, Claudia Werker, Hans Lammerant.  

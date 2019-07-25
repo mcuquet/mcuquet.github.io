@@ -1,13 +1,13 @@
 ---
 layout: page
 title: A European research roadmap for optimizing societal impact of big data on environment and energy efficiency
-icon: research
+section: Research
 permalink: Research/Publications/A European research roadmap for optimizing societal impact of big data on environment and energy efficiency/
 ---
 
 **Martí Cuquet**, Anna Fensel, Lorenzo Bigagli.  
 _[IEEE Global Internet of Things Summit (GIoTS), Geneva, Switzerland, 6-9 June, 2017, pp. 379-384](https://doi.org/10.1109/GIOTS.2017.8016274)_  
-[ [arXiv:](https://arxiv.org/abs/1708.07871)
+[ [arXiv:1708.07871](https://arxiv.org/abs/1708.07871)
 | [PDF](../A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.pdf)
 | [Bibtex](../A European research roadmap for optimizing societal impact of big data on environment and energy efficiency.bib) ]
 

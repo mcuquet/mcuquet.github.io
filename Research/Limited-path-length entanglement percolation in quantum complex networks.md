@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Limited-path-length entanglement percolation in quantum complex networks
-icon: research
+section: Research
 permalink: Research/Publications/Limited-path-length entanglement percolation in quantum complex networks/
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: "Cascades d'Ardonés"
+section: Muntanya
 permalink: "/Muntanya/Cascades d Ardones/"
-category: muntanya
 ---
 
 Una ruta senzilla prop de Benasc, passant per tres cascades, l'última d'elles força espectacular. Es pot sortir directament de Cerler, o pujar-hi des de Benasc per un dels camins.
@@ -12,4 +12,3 @@ L'excursió comença des de **Benasc** (1.140 m), pel camí que puja per dins de
 ## Com arribar-hi
 
 Sortida i arribada des del mateix Benasc.
-

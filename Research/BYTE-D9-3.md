@@ -1,8 +1,8 @@
 ---
 layout: page
 title: BYTE Showcase video
-icon: research
-permalink: Research/Publications/BYTE-D9-3
+section: Research
+permalink: Research/Publications/BYTE-D9-3/
 ---
 
 Adam Majoros, Csilla Gödri, Adrienn Nagy, Rachel Finn, **Martí Cuquet**, Lorenzo Bigagli.  

@@ -1,9 +1,9 @@
 ---
-layout: excursio
+layout: page
 title: Ibons de Batisielles
 subtitle: Benasc - Ref. Ángel Orús - Batisielles - Benasc
+section: Muntanya
 permalink: /Muntanya/Ibons de Batisielles/
-category: muntanya
 ---
 
 Una bona excursió de dos dies (dormint al refugi [Ángel Orús](http://www.refugioangelorus.com/)), o un si s'apreta la marxa. Una de les alternatives és el primer dia aprofitar per pujar el Pocets (per escurçar la ruta, que en aquest cas tindria un desnivell de més de 2.000 m, es pot anar en taxi fins al pàrquing del refugi Ángel Orús).

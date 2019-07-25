@@ -1,38 +1,13 @@
-<header{% if page.icon %} class="header-icon-{{ page.icon }}"{% endif %}>
-{% if page.title %}
-<h1>
-  {{ page.title }}
-{% if page.subtitle %}
-  <span class="subtitle">{{ page.subtitle }}</span>
-{% endif %}
-</h1>
-{% endif %}
-
-{% if page.authors %}
-<div class="autors">
-  <ul class="autors-names">
-    {% for author in page.authors %}
-    <li>
-      {{ author.name }}
-      <ul class="autor-affiliations-refs">
-      {% for aff in author.affiliation %}{% for affdetails in page.affiliations %}
-        {% if affdetails.key == aff.ref %}<li>{{ forloop.index }}</li>{% endif %}
-      {% endfor %}{% endfor %}
-      </ul>
-    </li>
-    {% endfor %}
-  </ul>
-  <ol class="autors-affiliations">
-  {% for aff in page.affiliations %}
-  <li><span class="affiliation-number">{{ forloop.index }}</span> {%if aff.url%}<a href="{{aff.url}}">{%endif%}{{ aff.name }}{%if aff.url%}</a>{%endif%}</li>
-  {% endfor %}
-  </ol>
-</div>
-{% endif %}
-
-{% if page.abstract %}
-<div class=abstract>
-  {{ page.abstract | markdownify }}
-</div>
-{% endif %}
+<!--- Header and nav template site-wide -->
+<header>
+  <nav class="group">
+<!--	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/badge_1.png" alt="CH"></a> -->
+    {% for entry in site.data.sections %}
+      {% if page.section == entry.section %}
+		    <a class="active" href="{{entry.url | prepend: site.baseurl}}" class="active">{{entry.section}}</a>
+		  {% else %}
+		    <a href="{{entry.url | prepend: site.baseurl}}">{{entry.section}}</a>
+		  {% endif %}
+  	{% endfor %}
+  </nav>
 </header>

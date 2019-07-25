@@ -1,77 +1,53 @@
 ---
 layout: page
 title: About
+section: About
 permalink: /About/
-language: ca
-iconsets: myicons.svg
 ---
 
-## Com està feta aquesta pàgina?
+Sóc físic. Ensenyo matemàtiques.{% sidenote "feina" "Actualment a l'INS Antoni Cumella." %}
 
-* Text pla formatat amb [Pandoc](http://johnmacfarlane.net/pandoc), un tipus de [Markdown](https://ca.wikipedia.org/wiki/Markdown).
-* [jekyll](http://jekyllrb.com) per generar un web estàtic a partir de Markdown.
-* [jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) per a interpretar el format Pandoc.
+{% marginfigure 'lungarno' 'images/pisa0902.jpg' %}
+{% marginfigure 'bcn-vlc-plm' 'images/bcn-vlc-plm2.jpg' %}
+{% marginfigure 'kemateralm' 'images/kemateralm2.jpg' %}
+De Granollers, per Pisa, Barcelona, Innsbruck i de nou a Granollers. O com
+diria l'Estellés, _ací em pariren i ací estic_.
 
-Des de la migració del sistema antic a l'actual utilitzant markdown i jekyll, algunes pàgines han desaparegut i d'altres han canviat l'URL. Si has detactat algun enllaç mort des d'una altra pàgina, siusplau [fes-m'ho saber]({{site.baseurl}}/Contact) i miraré d'arreglar-ho. A partir d'ara intentaré mantenir les URL estables...
+## La pàgina
 
-El codi de la pàgina està disponible a [github](https://github.com/mcuquet/mcuquet.github.io).
+Aquesta pàgina serveix de punt central de la meva presència a la xarxa.
 
-## Llicència
+Aquesta és si fa o no fa la vuitena iteració de la meva pàgina personal, que
+ha anat evolucionant amb mi en els últims 18(!) anys. He deixat ja de pensar
+que n'és l'última. En un sol lloc o dispersa en diverses facetes, ha anat
+recollint materials de la llicenciatura en física, textos que he anat
+escrivint, projectes en els que he participat, [articles de
+recerca](/Research/Publicacions), [petits
+programes i scripts](/Code/), algun o altre _dataset_, aficions vàries i punters cap a
+altres fragments de la meva presència a la web:
+[arXiv](http://arxiv.org/a/cuquet_m_1),
+[GitHub](https://github.com/mcuquet),
+[Last.fm](http://www.last.fm/user/nilvar/),
+[LibraryThing](http://cat.librarything.com/profile/mcuquet/),
+[LinkedIn](http://www.linkedin.com/in/mcuquet/),
+[Mendeley](http://www.mendeley.com/profiles/marti-cuquet/),
+[Twitter](https://twitter.com/mcuquet),
+[Wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet)
+i també a la Viquipèdia.
+Acull ara part de tot això _e non solo_, i també la tercera tongada de
+pensaments recollits en forma de blog. Tampoc crec que en sigui l'última.
 
-Pots utilitzar el contingut d'aquesta pàgina, inclòs el seu codi font i disseny, si segueixes la llicència [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Miro de mantenir les URIs estables. No me'n surto gaire. Amb els canvis,
+algunes pàgines han desaparegut i d'altres han canviat l'adreça. Si no trobes
+el que busques, [fes-m'ho saber]({{site.baseurl}}/Contact) i miraré
+d'arreglar-ho.
 
-Les icones provenen de la [IcoMoon App](https://icomoon.io/app), i inclouen icones de les següents col·leccions:
+Pots utilitzar el contingut d'aquesta pàgina, excepte quan s'indica el
+contrari, si segueixes la llicència [Creative Commons
+BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-* [Ico Moon](https://icomoon.io/):
-  <svg class="icon icon-me"><use xlink:href="#icon-me"></use></svg>
-  <svg class="icon icon-textos"><use xlink:href="#icon-textos"></use></svg>
-  <svg class="icon icon-code"><use xlink:href="#icon-code"></use></svg>
-  <svg class="icon icon-muntanya"><use xlink:href="#icon-muntanya"></use></svg>
-  <svg class="icon icon-research"><use xlink:href="#icon-research"></use></svg>
-  <svg class="icon icon-contact"><use xlink:href="#icon-contact"></use></svg>
-  <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-  <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>
-  <svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg>
-  <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-* [Entypo](http://www.entypo.com/):
-  <svg class="icon icon-creative-commons"><use xlink:href="#icon-creative-commons"></use></svg>
-  <svg class="icon icon-creative-commons-attribution"><use xlink:href="#icon-creative-commons-attribution"></use></svg>
-  <svg class="icon icon-creative-commons-noncommercial-eu"><use xlink:href="#icon-creative-commons-noncommercial-eu"></use></svg>
-  <svg class="icon icon-creative-commons-sharealike"><use xlink:href="#icon-creative-commons-sharealike"></use></svg>
-
-Les següents icones les vaig convertir al format svg utilitzant l'[online image converter](http://image.online-convert.com/convert-to-svg) i les vaig acabar de retocar manualment jo mateix:
-<svg class="icon icon-arxiv"><use xlink:href="#icon-arxiv"></use></svg>
-<svg class="icon icon-librarything"><use xlink:href="#icon-librarything"></use></svg>
-<svg class="icon icon-mendeley"><use xlink:href="#icon-mendeley"></use></svg>
-<svg class="icon icon-wikiloc"><use xlink:href="#icon-wikiloc"></use></svg>.
-També estan disponibles sota la llicència [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-## License
-
-You are free to use the content of this site, including the site code and design itself, provided you follow the [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-
-The icons used come from the [IcoMoon App](https://icomoon.io/app), including icons from the following sets:
-
-* [Ico Moon](https://icomoon.io/):
-  <svg class="icon icon-me"><use xlink:href="#icon-me"></use></svg>
-  <svg class="icon icon-textos"><use xlink:href="#icon-textos"></use></svg>
-  <svg class="icon icon-code"><use xlink:href="#icon-code"></use></svg>
-  <svg class="icon icon-muntanya"><use xlink:href="#icon-muntanya"></use></svg>
-  <svg class="icon icon-research"><use xlink:href="#icon-research"></use></svg>
-  <svg class="icon icon-contact"><use xlink:href="#icon-contact"></use></svg>
-  <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-  <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>
-  <svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg>
-  <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-* [Entypo](http://www.entypo.com/):
-  <svg class="icon icon-creative-commons"><use xlink:href="#icon-creative-commons"></use></svg>
-  <svg class="icon icon-creative-commons-attribution"><use xlink:href="#icon-creative-commons-attribution"></use></svg>
-  <svg class="icon icon-creative-commons-noncommercial-eu"><use xlink:href="#icon-creative-commons-noncommercial-eu"></use></svg>
-  <svg class="icon icon-creative-commons-sharealike"><use xlink:href="#icon-creative-commons-sharealike"></use></svg>
-
-The following icons were converted into svg using the [online image converter](http://image.online-convert.com/convert-to-svg) and finished manually by myself:
-<svg class="icon icon-arxiv"><use xlink:href="#icon-arxiv"></use></svg>
-<svg class="icon icon-librarything"><use xlink:href="#icon-librarything"></use></svg>
-<svg class="icon icon-mendeley"><use xlink:href="#icon-mendeley"></use></svg>
-<svg class="icon icon-wikiloc"><use xlink:href="#icon-wikiloc"></use></svg>.
-They are also available under the [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+_Brought to you_ gràcies a [Markdown](https://ca.wikipedia.org/wiki/Markdown),
+[Jekyll](http://jekyllrb.com),
+[Tufte-Jekyll](https://github.com/clayh53/tufte-jekyll){% sidenote "tufte-jekyll" "Amb alguna modificació. Trobo que seguir a ulls clucs les recomanacions de Tufte ha fet que el creador de Tufte-Jekyll evités l'ús de llistes en l'estructura, i en canvi caldria que ho hagués fet només en la presentació. Hi ha informació que _semànticament_ és una llista, per molt que _visualment_ sigui més agradable en forma de, per exemple, paràgraf. Un bon exemple és la llista de navegació." %} i Github pages.
+El codi font de la pàgina sencera, a
+[GitHub](https://github.com/mcuquet/mcuquet.github.io).

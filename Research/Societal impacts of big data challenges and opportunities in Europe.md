@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Societal impacts of big data challenges and opportunities in Europe"
-icon: research
+section: Research
 permalink: "Research/Publications/Societal impacts of big data challenges and opportunities in Europe/"
 ---
 

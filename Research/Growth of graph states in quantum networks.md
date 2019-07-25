@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Growth of graph states in quantum networks
-icon: research
+section: Research
 permalink: Research/Publications/Growth of graph states in quantum networks/
 ---
 

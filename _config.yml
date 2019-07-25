@@ -1,26 +1,27 @@
-# Site settings
-title: Martí Cuquet
-email: marti.cuquet@gmail.com
-#baseurl: "" # the subpath of your site, e.g. /blog/
-assetsurl: "/assets/"
-imagesurl: "/images/"
-url: "http://mcuquet.github.io" # the base hostname & protocol for your site
-include: "/Research/Publications/*.pdf"
-include: "/Research/Publications/*.bib"
-
-# Jekyll settings
-#gems:
-#  - jekyll-pandoc
-
-# Build settings
+baseurl:
+title: "Martí Cuquet"
+subtitle: "Físic. Professor de matemàtiques."
+author: "Martí Cuquet"
+simple_search: http://google.com/search
+description: "Pàgina personal d'en Martí Cuquet"
+name: tufte
 markdown: kramdown
-#markdown: pandoc
-
-# Kramdown options
-kramdown:
-  input: GFM
-
-# Pandoc options (see https://github.com/mfenner/jekyll-pandoc)
-pandoc:
-  extensions:
-    - smart
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /Blog/:year/:month/:day/:title
+timezone: Europe/Barcelona
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/clayh53.github.com/

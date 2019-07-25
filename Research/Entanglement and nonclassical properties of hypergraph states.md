@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entanglement and nonclassical properties of hypergraph states
-icon: research
+section: Research
 permalink: Research/Publications/Entanglement and nonclassical properties of hypergraph states/
 ---
 

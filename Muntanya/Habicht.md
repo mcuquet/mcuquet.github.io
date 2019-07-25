@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Habicht (3.277 m) 
+section: Muntanya
 permalink: /Muntanya/Habicht/
-category: muntanya
 ---
 
 El **Habicht** (literalment Falcó), també conegut popularment com a Hager o Hoger (d'on sembla que va evolucionar el nom), és una muntanya dels **Stubaier Alpen**, entre les valls de Stubai i de Gschnitz. Durant temps es va pensar que era la muntanya més alta del Tirol (ara se sap que és el Großglockner, amb 3.798 m).  La raó d'això és que està a 2.000 m d'alçada per sobre de les dues valls que li fan costat, donant-li una aparença imponent. La manera habitual és fer el cim en dos dies, parant a fer nit a la Innsbrucker Hütte (2.369 m). Aquí pots trobar una descripció d'aquesta ruta, començant a Neustift im Stubaital (993 m) i acabant a Neder (1.017 m).
@@ -21,38 +21,38 @@ En aquesta ocasió vam anar en cotxe fins al punt de partida (Gschnitz).
 
 ## Fotos
 
-![Pujant des de Gschnitz, amb les Tribulaune al sud. D'esquerra a dreta: Obernberger Tribulaun (2.780 m), Gschnitzer Tribulaun (2.946 m) i Pflerscher Tribulaun (3.097 m).]({{site.baseurl}}/images/habicht_tribulaune1.jpg)
+{% maincolumn "images/habicht_tribulaune1.jpg" "Pujant des de Gschnitz, amb les Tribulaune al sud. D'esquerra a dreta: Obernberger Tribulaun (2.780 m), Gschnitzer Tribulaun (2.946 m) i Pflerscher Tribulaun (3.097 m)." %}
 
-![Arribant al refugi, la Kalkwand (2.564 m).]({{site.baseurl}}/images/habicht_kalkwand1.jpg)
+{% maincolumn "images/habicht_kalkwand1.jpg" "Arribant al refugi, la Kalkwand (2.564 m)." %}
 
-![L'Innsbrucker Hütte, just al coll Pinnisjoch.]({{site.baseurl}}/images/habicht_innsbrucker1.jpg)
+{% maincolumn "images/habicht_innsbrucker1.jpg" "L'Innsbrucker Hütte, just al coll Pinnisjoch." %}
 
-![De nou la Kalkwand. Es veu durant bona part del recorregut.]({{site.baseurl}}/images/habicht_kalkwand2.jpg)
+{% maincolumn "images/habicht_kalkwand2.jpg" "De nou la Kalkwand. Es veu durant bona part del recorregut." %}
 
-![El refugi, Innsbrucker Hütte.]({{site.baseurl}}/images/habicht_innsbrucker2.jpg)
+{% maincolumn "images/habicht_innsbrucker2.jpg" "El refugi, Innsbrucker Hütte." %}
 
-![La Kalkwand.]({{site.baseurl}}/images/habicht_kalkwand3.jpg)
+{% maincolumn "images/habicht_kalkwand3.jpg" "La Kalkwand." %}
 
-![Alfair See, poc després d'haver passat la Innsbrucker Hütte.]({{site.baseurl}}/images/habicht_alfairsee.jpg)
+{% maincolumn "images/habicht_alfairsee.jpg" "Alfair See, poc després d'haver passat la Innsbrucker Hütte." %}
 
-![Sí, es puja per aquí (i cal grimpar).]({{site.baseurl}}/images/habicht_grimpada1.jpg)
+{% maincolumn "images/habicht_grimpada1.jpg" "Sí, es puja per aquí (i cal grimpar)." %}
 
-![La Pinnistal, a l'altra banda del coll Pinnisjoch.]({{site.baseurl}}/images/habicht_pinnistal.jpg)
+{% maincolumn "images/habicht_pinnistal.jpg" "La Pinnistal, a l'altra banda del coll Pinnisjoch." %}
 
-![Segueix la grimpada. No cal equipament, però cal anar amb compte. Hi ha cables per ajudar-se.]({{site.baseurl}}/images/habicht_grimpada2.jpg)
+{% maincolumn "images/habicht_grimpada2.jpg" "Segueix la grimpada. No cal equipament, però cal anar amb compte. Hi ha cables per ajudar-se." %}
 
-![Passant un breu tros de neu.]({{site.baseurl}}/images/habicht_neu.jpg)
+{% maincolumn "images/habicht_neu.jpg" "Passant un breu tros de neu." %}
 
-![El cim, abans de l'última pujada.]({{site.baseurl}}/images/habicht_cim.jpg)
+{% maincolumn "images/habicht_cim.jpg" "El cim, abans de l'última pujada." %}
 
-![Ja des del cim, hi ha molt bones vistes en totes direccions. El <a href="../serles">Serles (2.717 m)</a> al centre-dreta, el Schaufelspitzl (2.833 m) en primer pla, i la Nordkette al fons.]({{site.baseurl}}/images/habicht_serles.jpg)
+{% maincolumn "images/habicht_serles.jpg" "Ja des del cim, hi ha molt bones vistes en totes direccions. El Serles (2.717 m) al centre-dreta, el Schaufelspitzl (2.833 m) en primer pla, i la Nordkette al fons." %}
 
-![Cap al sud-oest.]({{site.baseurl}}/images/habicht_sudoest.jpg)
+{% maincolumn "images/habicht_sudoest.jpg" "Cap al sud-oest." %}
 
-![Cap al sud.]({{site.baseurl}}/images/habicht_sud.jpg)
+{% maincolumn "images/habicht_sud.jpg" "Cap al sud." %}
 
-![De nou les Tribulaune.]({{site.baseurl}}/images/habicht_tribulaune2.jpg)
+{% maincolumn "images/habicht_tribulaune2.jpg" "De nou les Tribulaune." %}
 
-![Les Kalkkögl.]({{site.baseurl}}/images/habicht_kalkkoegl.jpg)
+{% maincolumn "images/habicht_kalkkoegl.jpg" "Les Kalkkögl." %}
 
-![La baixada.]({{site.baseurl}}/images/habicht_baixada.jpg)
+{% maincolumn "images/habicht_baixada.jpg" "La baixada." %}

@@ -1,13 +1,13 @@
 ---
-layout: excursio
+layout: page
 title: Seefelder Spitze (2.220 m) + Reither Spitze (2.374 m)
+section: Muntanya
 permalink: /Muntanya/Seefelder Spitze + Reither Spitze/
-category: muntanya
 ---
 
 Seefelder (2.221 m) i Reither Spizte (2.374 m) són dues muntanyes de les **Karwendel**, just a l'est de Seefeld. A l'hivern, la seva cara oest s'utilitza de pista d'esquí alpí. A l'estiu, es pot aprofitar el telecabina per a pujar fins a la **Rosshütte** (1.571 m), o inclús fins al **Seefelder Joch** (2.060 m), ben a prop del **Seefelder Spitze**, des d'on hi ha molt bones vistes a oest, nord i est. La banda sud, de cara a la Inntal, queda tapada pel **Reither Spitze**, més alt, des d'on sí que hi ha una bona vista en totes direccions.
 
-L'excursió es pot començar des de [Seefeld]({{site.baseurl}}/{{page.category}}/Reither Spitze), des de la Rosshütte o des del mateix Seefelder Joch. Des d'aquest últim coll, el camí porta ràpidament (en cosa de mitja hora) fins al primer cim, Seefelder Spitze. D'allà, es baixa fins a un creuement de senders: a mà dreta es pot seguir baixant de tornada cap a Seefeld, mentre que a mà esquerra el camí travessa una tartera sota el Reither Spitze. Quan s'acaba la tartera, comença l'ascenció final al cim, que inclou haver d'utilitzar una escala metàl·lica (ja instal·lada) i ajudar-se d'alguns cables, també instal·lats, però sense gran dificultat. La baixada es fa per la cara sud, arribant de seguida a la Nördlinger Hütte (2.238 m) i seguint els cartells cap a Reith, en un descens sostingut.
+L'excursió es pot començar des de [Seefeld](Reither Spitze), des de la Rosshütte o des del mateix Seefelder Joch. Des d'aquest últim coll, el camí porta ràpidament (en cosa de mitja hora) fins al primer cim, Seefelder Spitze. D'allà, es baixa fins a un creuement de senders: a mà dreta es pot seguir baixant de tornada cap a Seefeld, mentre que a mà esquerra el camí travessa una tartera sota el Reither Spitze. Quan s'acaba la tartera, comença l'ascenció final al cim, que inclou haver d'utilitzar una escala metàl·lica (ja instal·lada) i ajudar-se d'alguns cables, també instal·lats, però sense gran dificultat. La baixada es fa per la cara sud, arribant de seguida a la Nördlinger Hütte (2.238 m) i seguint els cartells cap a Reith, en un descens sostingut.
 
 ## Com arribar-hi
 
@@ -17,26 +17,27 @@ L'excursió es pot començar des de [Seefeld]({{site.baseurl}}/{{page.category}}
 
 ## Fotos
 
-![Seefelder Spitze (2.221 m), vist des del Seefelder Joch (2.060 m).]({{site.baseurl}}/images/reither_spitze_seefelder_spitze.jpg "Seefelder Spitze")
+{% maincolumn "images/reither_spitze_seefelder_spitze.jpg" "Seefelder Spitze (2.221 m), vist des del Seefelder Joch (2.060 m)." %}
 
-![Reither Spitze (2.374 m), des del Seefelder Spitze.]({{site.baseurl}}/images/reither_spitze_reither_spitze_seefelder.jpg "Reither Spitze")
+{% maincolumn "images/reither_spitze_reither_spitze_seefelder.jpg" "Reither Spitze (2.374 m), des del Seefelder Spitze." %}
 
-![El Reither Kar (cercle glacial), amb el camí que connecta els dos cims.]({{site.baseurl}}/images/reither_spitze_reither_kar.jpg "Reither Kar")
+{% maincolumn "images/reither_spitze_reither_kar.jpg" "El Reither Kar (cercle glacial), amb el camí que connecta els dos cims." %}
 
-![El Reither Kar (cercle glacial), amb el camí que connecta els dos cims.]({{site.baseurl}}/images/reither_spitze_reither_kar_2.jpg "Reither Kar")
+{% maincolumn "images/reither_spitze_reither_kar_2.jpg" "El Reither Kar (cercle glacial), amb el camí que connecta els dos cims." %}
 
-![El Reither Kar (cercle glacial), amb el camí que connecta els dos cims.]({{site.baseurl}}/images/reither_spitze_reither_kar_3.jpg "Reither Kar")
+{% maincolumn "images/reither_spitze_reither_kar_3.jpg" "El Reither Kar (cercle glacial), amb el camí que connecta els dos cims." %}
 
-![El Reither Kar (cercle glacial), amb el camí que connecta els dos cims.]({{site.baseurl}}/images/reither_spitze_reither_kar_4.jpg "Reither Kar")
+{% maincolumn "images/reither_spitze_reither_kar_4.jpg" "El Reither Kar (cercle glacial), amb el camí que connecta els dos cims." %}
 
-![L'escala.]({{site.baseurl}}/images/reither_spitze_escala.jpg "L'escala")
+{% maincolumn "images/reither_spitze_escala.jpg" "L'escala." %}
 
-![I l'últim tram de cables abans del cim.]({{site.baseurl}}/images/reither_spitze_cables.jpg "Cables")
+{% maincolumn "images/reither_spitze_cables.jpg" "I l'últim tram de cables abans del cim." %}
 
-![Vistes de les Karwendel des del cim.]({{site.baseurl}}/images/reither_spitze_karwendel.jpg "Karwendel")
+{% maincolumn "images/reither_spitze_karwendel.jpg" "Vistes de les Karwendel des del cim." %}
 
-![Com sempre, els corbs arriben abans que nosaltres.]({{site.baseurl}}/images/reither_spitze_corbs.jpg "Corbs")
+{% maincolumn "images/reither_spitze_corbs.jpg" "Com sempre, els corbs arriben abans que nosaltres." %}
 
 ## Vegeu també
 
-* [Reither Spitze (2.374 m)]({{site.baseurl}}/{{page.category}}/Reither Spitze)
+* [Reither Spitze (2.374 m)](Reither Spitze)
+{: .full-width }

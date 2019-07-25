@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Broadcasting in spin networks
-icon: research
+section: Research
 permalink: Research/Publications/Broadcasting in spin networks/
 ---
 

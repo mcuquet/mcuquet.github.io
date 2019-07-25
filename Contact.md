@@ -1,32 +1,16 @@
 ---
 layout: page
-title: Contact
+title: Contacte
 permalink: /Contact/
 ---
 
 ## Email
 
-Email: [nilvar@sindominio.net](mailto:nilvar@sindominio.net)
-Secondary email: [marti.cuquet@gmail.com](mailto:marti.cuquet@gmail.com)
-Academic: [marti.cuquet@sti2.at](mailto:marti.cuquet@sti2.at)
-Secondary academic: [marti.cuquet-palau@uibk.ac.at](mailto:marti.cuquet-palau@uibk.ac.at)
-
-Please, mail only one address---I'll still get the message.  
-_Escriu-me només a una d'elles, el missatge m'arribarà igualment._
-
-Note that marti.cuquet@uab.cat, and cuquet@ifae.es
-are not active any more.  
-_Les adreces marti.cuquet@uab.cat i cuquet@ifae.es
-ja no estan actives._
-
-To send a secure email, please use the following GPG key:
+- Personal: marti.cuquet a gmail com
+- Professional: mcuquet2 a xtec cat
+- PGP:
 [0x49116823](http://pgp.mit.edu/pks/lookup?op=get&search=0xFE1DB22D49116823)
-([mirror](nilvar-gpg.asc)). I strongly recommend you use it.  
-_Per a enviar-me un correu segur, utilitza la meva clau GPG:
-[0x49116823](http://pgp.mit.edu/pks/lookup?op=get&search=0xFE1DB22D49116823)
-([mirall](nilvar-gpg.asc)). Et recomano que l'utilizis._
-
-### GPG key
+([mirror](nilvar-gpg.asc)).
 
 ~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----

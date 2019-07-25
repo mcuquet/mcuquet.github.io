@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entanglement distribution in quantum complex networks
-icon: research
+section: Research
 permalink: Research/Publications/Entanglement distribution in quantum complex networks/
 ---
 

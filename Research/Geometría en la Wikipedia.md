@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Geometría en la Wikipedia: La competencia digital en las matemáticas de Bachillerato"
-icon: research
+section: Research
 permalink: Research/Publications/Geometría en la Wikipedia/
 ---
 
-**Martí Cuquet**.
-_Universidad Internacional de La Rioja_. MA thesis. 2018.
+**Martí Cuquet**.  
+_Universidad Internacional de La Rioja_. MA thesis. 2018.  
 [ [Bibtex](../Geometría en la Wikipedia.bib) ]
 
 ~~~

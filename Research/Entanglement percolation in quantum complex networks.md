@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entanglement percolation in quantum complex networks
-icon: research
+section: Research
 permalink: Research/Publications/Entanglement percolation in quantum complex networks/
 ---
 

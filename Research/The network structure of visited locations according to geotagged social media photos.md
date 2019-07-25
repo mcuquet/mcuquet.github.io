@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The network structure of visited locations according to geotagged social media photos"
-icon: research
+section: Research
 permalink: "Research/Publications/The network structure of visited locations according to geotagged social media photos/"
 ---
 

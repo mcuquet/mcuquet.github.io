@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Source and accessible entanglement of few-body systems
-icon: research
+section: Research
 permalink: Research/Publications/Source and accessible entanglement of few-body systems/
 ---
 

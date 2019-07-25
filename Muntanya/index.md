@@ -1,10 +1,29 @@
 ---
 layout: page
 title: Muntanya
-category: muntanya
+section: Muntanya
 ---
 
-Això és un recull d'excursions que he fet, amb la intenció sobretot de posar ordre a la llista que tinc a [wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet).  Algunes tenen una breu explicació, d'altres són simplement un enllaç a la ruta en gps. A la gran majoria es comença i s'arriba a un lloc accessible amb transport públic. Si tens qualsevol comentari, [escriu-me]({{site.baseurl}}/Contact).
+Això és un recull d'excursions que he fet, amb la intenció sobretot de posar ordre a la llista que tinc a [wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet).  Algunes tenen una breu explicació, d'altres són simplement un enllaç a la ruta en gps. Moltes de les noves són caminades curtes de 5 km per fer amb canalla. Si tens qualsevol comentari, [escriu-me]({{site.baseurl}}/Contact).
+
+## Montseny
+
+* [El Salt de la Dona d'Aigua](https://ca.wikiloc.com/rutes-senderisme/salt-de-la-dona-daigua-37681328) (Arbúcies)
+* [Tagamanent](https://ca.wikiloc.com/rutes-senderisme/tagamanent-33216275)
+{: .full-width-bullet }
+
+## Pirineu i Prepirineu
+
+* [Tossa Plana de Lles (2.916 m)](Tossa Plana de Lles)
+* [Ibons de Batisielles](Ibons de Batisielles) (Benasc - Ref. Ángel Orús - Batisielles - Benasc)
+* [Cascades d'Ardonés](Cascades d Ardones)
+* [Volta al Montsec](Volta al Montsec)
+{: .full-width-bullet }
+
+## País Valencià
+
+* [Los Calderones](http://ca.wikiloc.com/wikiloc/view.do?id=5916396) (Chulilla)
+{: .full-width-bullet }
 
 ## Alps
 
@@ -20,6 +39,7 @@ Això és un recull d'excursions que he fet, amb la intenció sobretot de posar 
     + [Serles (2.717 m)](Serles)
 * **Tuxer Alpen**
     + [Viggarspitze (2.306 m)](Viggarspitze)
+{: .full-width-bullet }
 
 ## Almen und Hütten (+ trineu + passejades)
 
@@ -27,7 +47,6 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
 
 * **Inntal**
     + [Weidener Hütte (Nafinghütte)](http://ca.wikiloc.com/wikiloc/view.do?id=5986494) (Weerberg)
-
 * **Nördliches Mittelgebirge**
     + [Arzler Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=4071958) (Innsbruck - Hungerburg)
     + [Arzler Alm (Mühlauer Klamm)](http://ca.wikiloc.com/wikiloc/view.do?id=6941407) (Innsbruck - Mühlau)
@@ -38,17 +57,13 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
     + [Rauschbrunnen](http://ca.wikiloc.com/wikiloc/view.do?id=4426161) (Innsbruck - Hötting)
     + Thaurer Alm (Rum/Thaur)
     + [Umbrüggler Alm](http://ca.wikiloc.com/wikiloc/view.do?id=13282221) (Innsbruck - Hungerburg)
-
 * **Ötztal**
     + [Gampe Alm / Gampe Thaya](http://ca.wikiloc.com/wikiloc/view.do?id=5015386) (Sölden)
-
 * **Seefeld**
     + [Seefeld in Tirol - Möserer See](http://ca.wikiloc.com/wikiloc/view.do?id=5818670)
-
 * **Südöstliches Mittelgebirge**
     + [Boscheben (Bergstation Patscherkofelbahn)](http://ca.wikiloc.com/wikiloc/view.do?id=10605919) (Igls)
     + Patscher Alm (Patsch/Igls)
-
 * **Südwestliches Mittelgebirge**
     + [Birgitzer Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7652857) (Axams)
     + [Eichhof](http://ca.wikiloc.com/wikiloc/view.do?id=4338594) (Innsbruck - Wilten)
@@ -59,27 +74,14 @@ A l'hivern, alguns d'ells es poden baixar en trineu. La web [WinterRodeln](http:
     + [Pleisenhütte](http://ca.wikiloc.com/wikiloc/view.do?id=4215418) + [Pleisenhütte (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4215421) (Axamer Lizum)
     + [Stiglreith](http://ca.wikiloc.com/wikiloc/view.do?id=3886550) + [Stiglreith (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=3886797) (Oberperfuss)
     + [Wilten - Natters](http://ca.wikiloc.com/wikiloc/view.do?id=9826306)
-
 * **Stubaital**
     + [Elfer](http://ca.wikiloc.com/wikiloc/view.do?id=8803862) (Neustift)
     + [Sulzenau Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7317679)
-
 * **Wipptal**
     + [Bergeralm](http://ca.wikiloc.com/wikiloc/view.do?id=12355114) (Steinach am Brenner)
     + [Maria Waldrast](http://ca.wikiloc.com/wikiloc/view.do?id=4052803) + [Maria Waldrast (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=4052804) (Matrei)
-
 * **Zillertal**
     + [Lackenalm](http://ca.wikiloc.com/wikiloc/view.do?id=5015397) (Gerlos)
+{: .full-width-bullet }
 
 També a **Salzburg**: [Rundwanderweg Gaisberg](http://ca.wikiloc.com/wikiloc/view.do?id=7472106).
-
-## Pirineu i Prepirineu
-
-* [Tossa Plana de Lles (2.916 m)](Tossa Plana de Lles)
-* [Ibons de Batisielles](Ibons de Batisielles) (Benasc - Ref. Ángel Orús - Batisielles - Benasc)
-* [Cascades d'Ardonés](Cascades d Ardones)
-* [Volta al Montsec](Volta al Montsec)
-
-## País Valencià
-
-* [Los Calderones](http://ca.wikiloc.com/wikiloc/view.do?id=5916396) (Chulilla)

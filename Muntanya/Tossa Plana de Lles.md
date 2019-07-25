@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Tossa Plana de Lles (2.916 m)
+section: Muntanya
 permalink: /Muntanya/Tossa Plana de Lles/
-category: muntanya
 ---
 
 La **Tossa Plana de Lles** és el segon cim més alt del Pirineu oriental, per darrera del Carlit (2.921 m), a l'Alta Cerdanya. El nom li deu venir de les seves formes suaus. També es coneix com a **Pic de la Portelleta**, sobretot a Andorra.

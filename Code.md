@@ -2,7 +2,6 @@
 layout: page
 title: Code
 permalink: /Code/
-category: code
 ---
 
 Check also [my github account](https://github.com/mcuquet).
@@ -15,12 +14,11 @@ while learning Perl.
 ## [genea-tools](https://github.com/mcuquet/genea-tools)
 
 Right now just a script to parse an Ahnentafel txt file in Spanish and produce
-a Gramps XML file, but I'll be adding more stuff soon.
+a Gramps XML file. I might add more stuff soon, time permitting.
 
 ## [QITools-mathematica](https://github.com/mcuquet/QITools-mathematica)
 
-A Quantum Information Theory toolkit for Mathematica. I still have some
-functions waiting to be included, mainly those related to Graph Theory.
+A Quantum Information Theory toolkit for Mathematica.
 
 ## Miscellanea
 

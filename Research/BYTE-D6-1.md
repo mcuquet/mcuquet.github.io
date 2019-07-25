@@ -1,13 +1,13 @@
 ---
 layout: page
-title: A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap
-icon: research
-permalink: Research/Publications/BYTE-D6-1
+title: "A roadmap for big data incorporating both the research roadmap and the policy roadmap: BYTE Policy and Research Roadmap"
+section: Research
+permalink: Research/Publications/BYTE-D6-1/
 ---
 
-Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fenseli, Scott Cunningham, Rachel Finn. 
+Stéphane Grumbach, Aurélien Faravelon, **Martí Cuquet**, Anna Fenseli, Scott Cunningham, Rachel Finn.  
 [D6.1 BYTE Project](https://doi.org/10.5281/zenodo.1195745), 22 August 2017.  
-[_[PDF](BYTE-D6-1.pdf)
+[ [PDF](BYTE-D6-1.pdf)
 | [Bibtex](BYTE-D6-1.bib) ]
 
 This document presents the BYTE big data roadmap to capture the economic,

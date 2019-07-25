@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Big data for good
-icon: research
-permalink: Research/Publications/BYTE-D9-5
+section: Research
+permalink: Research/Publications/BYTE-D9-5/
 ---
 
 **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  

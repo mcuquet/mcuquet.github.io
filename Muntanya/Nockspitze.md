@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Nockspitze (2.404 m)
+section: Muntanya
 permalink: /Muntanya/Nockspitze/
-category: muntanya
 ---
 
 El **Nockspitze**, també anomenat **Saile**, es veu, tot i que no li he sentit dir-ho a ningú per aquí, queda al sud d'Innsbruck. Situada a l'oest de la **Stubaital**, entre **Mutters** i l'**Axamer Lizum**, el Nockspitze forma l'extrem nord-est del **Kalkkögel** (també anomenat les Dolomites del Nord per la seva composició rocosa) i, per tant, dels Alps del Stubai. La cara nord i est (la que es veu des d'Innsbruck) és la més escarpada, però en canvi la banda sud és força més suau.
@@ -19,24 +19,24 @@ La tornada, per la cara oest, és més suau i menys exposada. Baixa fins a **Bir
 
 ## Fotos
 
-![La primera vista del Spitzmandl, amb el primer sol]({{site.baseurl}}/images/nockspitze_spitzmandl1.jpg)
+{% maincolumn "images/nockspitze_spitzmandl1.jpg" "La primera vista del Spitzmandl, amb el primer sol." %}
 
-![El Patscherkofel, a l'altra banda de la Stubaital]({{site.baseurl}}/images/nockspitze_patscherkofel.jpg)
+{% maincolumn "images/nockspitze_patscherkofel.jpg" "El Patscherkofel, a l'altra banda de la Stubaital." %}
 
-![El Spitzmandl, ja més a prop]({{site.baseurl}}/images/nockspitze_spitzmandl2.jpg)
+{% maincolumn "images/nockspitze_spitzmandl2.jpg" "El Spitzmandl, ja més a prop." %}
 
-![Les vistes durant la pujada]({{site.baseurl}}/images/nockspitze_pujada1.jpg)
+{% maincolumn "images/nockspitze_pujada1.jpg" "Les vistes durant la pujada." %}
 
-![Les vistes durant la pujada]({{site.baseurl}}/images/nockspitze_pujada2.jpg)
+{% maincolumn "images/nockspitze_pujada2.jpg" "Les vistes durant la pujada." %}
 
-![El Spitzmandl de nou]({{site.baseurl}}/images/nockspitze_spitzmandl3.jpg)
+{% maincolumn "images/nockspitze_spitzmandl3.jpg" "El Spitzmandl de nou." %}
 
-![Birgitzköpfl, que espera a l'altra banda]({{site.baseurl}}/images/nockspitze_birgitzkoepfl.jpg)
+{% maincolumn "images/nockspitze_birgitzkoepfl.jpg" "Birgitzköpfl, que espera a l'altra banda." %}
 
-![El Spitzmandl, ara ja des de la carena]({{site.baseurl}}/images/nockspitze_spitzmandl4.jpg)
+{% maincolumn "images/nockspitze_spitzmandl4.jpg" "El Spitzmandl, ara ja des de la carena." %}
 
-![El cim del Nockspitze]({{site.baseurl}}/images/nockspitze_cim2.jpg)
+{% maincolumn "images/nockspitze_cim2.jpg" "El cim del Nockspitze." %}
 
-![Ja des del cim, la Nordkette a l'altra banda de la Inntal]({{site.baseurl}}/images/nockspitze_nordkette.jpg)
+{% maincolumn "images/nockspitze_nordkette.jpg" "Ja des del cim, la Nordkette a l'altra banda de la Inntal." %}
 
-![La baixada per l'oest]({{site.baseurl}}/images/nockspitze_baixada1.jpg)
+{% maincolumn "images/nockspitze_baixada1.jpg" "La baixada per l'oest." %}

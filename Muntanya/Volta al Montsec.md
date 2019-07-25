@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Volta al Montsec
+section: Muntanya
 permalink: /Muntanya/Volta al Montsec/
-category: muntanya
 ---
 
 Aquesta Setmana Santa en Tadeo m'ha enredat per anar a caminar pel Montsec, amb els berga. He acabat rebentat: era la primera vegada, si més no des de fa molt temps, que feia una caminada de quatre dies, però ha valgut la pena. No coneixia gens aquesta zona, i la veritat és que és preciosa.

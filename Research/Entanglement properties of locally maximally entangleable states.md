@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Entanglement properties of locally maximally entangleable states
-icon: research
-permalink: Research/Publications/Entanglement properties of locally maximally entangleable states
+section: Research
+permalink: Research/Publications/Entanglement properties of locally maximally entangleable states/
 ---
 
 **Martí Cuquet**, Tatjana Carle, Barbara Kraus.

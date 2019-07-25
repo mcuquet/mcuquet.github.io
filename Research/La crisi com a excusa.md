@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "La crisi com a excusa: les retallades a la universitat i la situació dels investigadors en fase inicial"
-icon: research
+section: Research
 permalink: Research/Publications/La crisi com a excusa/
 ---
 

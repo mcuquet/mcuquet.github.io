@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dissemination report
-icon: research
-permalink: Research/Publications/BYTE-D9-4
+section: Research
+permalink: Research/Publications/BYTE-D9-4/
 ---
 
 Csilla Gödri, Adrienn Nagy, **Martí Cuquet**, Tally Hatzakis, Rachel Finn, Kush Wadhwa.  

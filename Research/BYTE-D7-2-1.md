@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Interim sustainability plan for the big data community
-icon: research
-permalink: Research/Publications/BYTE-D7-2-1
+section: Research
+permalink: Research/Publications/BYTE-D7-2-1/
 ---
 
 Lorenzo Bigagli, Jarl Magnusson, **Martí Cuquet**, Anna Fensel.  

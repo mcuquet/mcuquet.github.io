@@ -1,15 +1,20 @@
 ---
-layout: cover
+layout: page
 title: Martí Cuquet
-tagline: 'Physicist. Maths teacher.'
 ---
 
-{% include marti-cuquet.json %}
+{% marginnote 'mn1' 'Com que aquest blog es produeix en una instal·lació on es
+processen matemàtiques, els articles poden contenir traces de matemàtiques.' %}
 
-<ul>
-  <li><a href="Research/"><svg class="icon icon-research"><use xlink:href="#icon-research"></use></svg> Research</a></li>
-  <li><a href="Code/"><svg class="icon icon-code"><use xlink:href="#icon-code"></use></svg> Code</a></li>
-  <li><a href="Muntanya/"><svg class="icon icon-muntanya"><use xlink:href="#icon-muntanya"></use></svg> Muntanya</a></li>
-  <li><a href="Contact"><svg class="icon icon-contact"><use xlink:href="#icon-contact"></use></svg> Contact</a></li>
-  <li><a href="Miscellanea/"><svg class="icon icon-misc"><use xlink:href="#icon-misc"></use></svg> Miscellanea</a></li>
+Sense cap particular al qual referir-se des d'aquí, l'autor saluda
+afectuosament el(s) seu(s) lector(s). —[P. C.](Cites)
+
+<h1 class="content-listing-header sans">Articles</h1>
+<ul class="blog-listing ">
+  {% for post in site.posts %}      
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>,
+      <span class="smaller">{{ post.date | date: "%-d/%-m/%Y" }}</span>
+    </li>
+  {% endfor %}
 </ul>

@@ -1,11 +1,14 @@
 <footer>
-<p>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Attribution-NonCommercial-ShareAlike 4.0 International">
-<svg class="icon icon-creative-commons"><use xlink:href="#icon-creative-commons"></use></svg>
-<svg class="icon icon-creative-commons-attribution"><use xlink:href="#icon-creative-commons-attribution"></use></svg>
-<svg class="icon icon-creative-commons-noncommercial-eu"><use xlink:href="#icon-creative-commons-noncommercial-eu"></use></svg>
-<svg class="icon icon-creative-commons-sharealike"><use xlink:href="#icon-creative-commons-sharealike"></use></svg>
-<span class="cc-years">2002-2018</span> <span class="cc-name">Martí Cuquet</span>
-</a>
-</p>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="{{site.baseurl}}/Contact"><span class="icon-mail"></span></a></li>    
+    {% for entry in site.data.social %}
+      <li>
+        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+      </li>
+    {% endfor %}  
+  </ul>
+<div class="credits">
+<span>&copy; 2001–{{ site.time | date: '%Y' }} {{site.author }}</span></br> <br>
+</div>  
 </footer>

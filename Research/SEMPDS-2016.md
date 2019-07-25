@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)"
-icon: research
+section: Research
 permalink: Research/Publications/SEMPDS-2016/
 ---
 

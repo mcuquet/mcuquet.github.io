@@ -1,8 +1,8 @@
 ---
-layout: excursio
+layout: page
 title: Serles (2.717 m)
+section: Muntanya
 permalink: /Muntanya/Serles/
-category: muntanya
 ---
 
 El **Serles**, també conegut com a **Waldrastspitze**, **Hochaltar von Tirol**
@@ -30,18 +30,18 @@ ST), que porta a Innsbruck. EL viatge dura uns 45 minuts.
 
 ## Fotos
 
-![Pujant.]({{site.baseurl}}/images/serles_pujada.jpg)
+{% maincolumn "images/serles_pujada.jpg" "Pujant." %}
 
-![Arribant al coll, Serlesjöchl.]({{site.baseurl}}/images/serles_serlesjoechl1.jpg)
+{% maincolumn "images/serles_serlesjoechl1.jpg" "Arribant al coll, Serlesjöchl." %}
 
-![El coll des de dalt.]({{site.baseurl}}/images/serles_serlesjoechl2.jpg)
+{% maincolumn "images/serles_serlesjoechl2.jpg" "El coll des de dalt." %}
 
-![Cables durant l'última pujada.]({{site.baseurl}}/images/serles_cables.jpg)
+{% maincolumn "images/serles_cables.jpg" "Cables durant l'última pujada." %}
 
-![Des del cim, vistes cap al nord, amb la serra Nordkette.]({{site.baseurl}}/images/serles_nordkette.jpg)
+{% maincolumn "images/serles_nordkette.jpg" "Des del cim, vistes cap al nord, amb la serra Nordkette." %}
 
-![Cap a l'est, amb els Alps del Tux.]({{site.baseurl}}/images/serles_est.jpg)
+{% maincolumn "images/serles_est.jpg" "Cap a l'est, amb els Alps del Tux." %}
 
-![Cap al nord, amb el [Habicht]({{site.baseurl}}/muntanya/Habicht/) amagat.]({{site.baseurl}}/images/serles_nord.jpg)
+{% maincolumn "images/serles_nord.jpg" "Cap al nord, amb el Habicht amagat." %}
 
-![I cap a l'oest, la vall de l'Stubai.]({{site.baseurl}}/images/serles_stubaital.jpg)
+{% maincolumn "images/serles_stubaital.jpg" "I cap a l'oest, la vall de l'Stubai." %}
