@@ -10,7 +10,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /Blog/:year/:month/:day/:title
 timezone: Europe/Barcelona
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
-#exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
 post:
   template: _post.txt
   extension: md
@@ -20,3 +20,8 @@ page:
 editor: gvim
 git:
   branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/clayh53.github.com/
