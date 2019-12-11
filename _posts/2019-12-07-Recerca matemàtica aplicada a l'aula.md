@@ -17,10 +17,10 @@ del grup de treball de Recerca matemàtica aplicada a l'aula, recolzat pel
 
 El funcionament és senzill. Cada sessió, un dels membres del grup ens acull al
 seu institut i s'encarrega de llegir i presentar breument les idees clau
-d'algun article, per a que el poguem discutir entre tots. Després escollim una
+d'algun article, que després discutim entre tots. Després escollim una
 activitat ja preparada (o que algú hagi si més no esbossat mínimament), la
 treballem conjuntament i l'enriquim amb les conclusions que hem extret de
-l'article. Els materials queden preparats durant la sessió, per a que abans de
+l'article. Els materials queden preparats durant la sessió, per tal que abans de
 la següent tinguem temps de dur-la a l'aula. La següent sessió, abans de
 començar amb el nou tema, arrenca amb una presentació breu de les produccions
 dels alumnes i dels diferents nivells d'assoliment de les competències que ens
