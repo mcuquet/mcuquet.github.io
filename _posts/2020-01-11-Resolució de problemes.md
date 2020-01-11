@@ -6,7 +6,7 @@ date: 2020-01-11
 categories: "recerca matemàtica aplicada a l'aula"
 ---
 
-{% newthought La primera de les sessions %} del grup de treball de
+{% newthought 'La primera de les sessions' %} del grup de treball de
 «[Recerca matemàtica aplicada a l'aula](/Blog/2019/12/07/Recerca-matemàtica-aplicada-a-l'aula)»,
 presentada per l'[Arnau](https://twitter.com/arnauriera), es va centrar en la
 resolució de problemes a partir de la secció corresponent dels _Principles and
@@ -86,16 +86,15 @@ les estratègies que desenvolupen els alumnes:
 > algun altre mètode?
 
 
-# Referències
+## Referències
 
-Hmelo-Silver, C.E., Duncan, D.G. i Chinn, C.A. (2007). [Scaffolding and
+- Hmelo-Silver, C.E., Duncan, D.G. i Chinn, C.A. (2007). [Scaffolding and
 achievement in problem-based and inquiry learning: A response to Kirschner,
 Sweller, and Clark (2006)](https://doi.org/10.1080/00461520701263368).
 _Educational Psychologist, 42_(2), 99–107.
+- National Council of Teachers of Mathematics (Ed.) (2000). _Principles and Standards for School Mathematics_. National Council of Teachers of Mathematics.
 
-National Council of Teachers of Mathematics (Ed.) (2000). _Principles and Standards for School Mathematics_. National Council of Teachers of Mathematics.
-
-# Recursos
+## Recursos
 
 - [Materials de la sessió](https://drive.google.com/open?id=1CmJAQRii5OLxHvxe0r5ZS9j0ifylMHXaKjqtF2SsU8E).
 - Lluís Mora, _[Resolució de problemes](https://docs.google.com/presentation/d/1ezhMAVR7hfVQDe4OkM6iJV0Vt7C2PgE7RuAAbiW7iXo/edit#slide=id.p)_.
