@@ -5,18 +5,16 @@ section: Research
 permalink: /Research/Publications/
 ---
 
-Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](http://grupsderecerca.uab.cat/giq/people/john-calsamiglia), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.uibk.ac.at/th-physik/qig_bk/), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, Julio I. de Vicente, Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan, [Anna Fensel](http://anna.fensel.com/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, and María José García San Pedro, plus collaborators in the [BYTE project](http://byte-project.eu/)." %}
+Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](http://grupsderecerca.uab.cat/giq/people/john-calsamiglia), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.uibk.ac.at/th-physik/qig_bk/), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, Julio I. de Vicente, Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan, [Anna Fensel](http://anna.fensel.com/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, and María José García San Pedro, Agnes Schlüter, plus collaborators in the [BYTE project](http://byte-project.eu/)." %}
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
-## Edited proceedings
+## Preprints
 
-- Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
-  _[Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)](SEMPDS-2016)_, Leipzig, Germany, 12-15 September, 2016.  
-  [CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).  
-  [ [PDF (Preface)](SEMPDS-2016.pdf)
-  | [Bibtex](SEMPDS-2016.bib) ]
-{: .full-width-bullet}
+- **Martí Cuquet**, Agnes Schlüter.  
+  Editar la Viquipèdia: punt de trobada de competències matemàtiques,
+  lingüístiques i socials.  
+  _Noubiaix_
 
 ## Journal articles
 
@@ -100,6 +98,15 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 - [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
+{: .full-width-bullet}
+
+## Edited proceedings
+
+- Michael Martin, **Martí Cuquet**, Erwin Folmer (Eds.).  
+  _[Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16)](SEMPDS-2016)_, Leipzig, Germany, 12-15 September, 2016.  
+  [CEUR Workshop Proceedings Vol. 1695](http://ceur-ws.org/Vol-1695/), [urn:nbn:de:0074-1695-3](http://nbn-resolving.de/urn:nbn:de:0074-1695-3).  
+  [ [PDF (Preface)](SEMPDS-2016.pdf)
+  | [Bibtex](SEMPDS-2016.bib) ]
 {: .full-width-bullet}
 
 ## Project deliverables
