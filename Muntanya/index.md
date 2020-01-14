@@ -6,9 +6,14 @@ section: Muntanya
 
 Això és un recull d'excursions que he fet, amb la intenció sobretot de posar ordre a la llista que tinc a [wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet).  Algunes tenen una breu explicació, d'altres són simplement un enllaç a la ruta en gps. Moltes de les noves són caminades curtes de 5 km per fer amb canalla. Si tens qualsevol comentari, [escriu-me]({{site.baseurl}}/Contact).
 
-## Montseny
+## Amb nens
 
+* [Església de Santa Magdalena des del càmping de Rupit](https://ca.wikiloc.com/rutes-a-peu/esglesia-de-santa-magdalena-des-del-camping-de-rupit-37943447)
+* [Estanys d'Almenara](https://ca.wikiloc.com/rutes-a-peu/estanys-dalmenara-44940346) (Almenara)
+* [Hortsavinyà - Les alzines de can Portell](https://ca.wikiloc.com/rutes-senderisme/hortsavinya-les-alzines-de-can-portell-44480961) (Tordera)
+* [Passejada per Gallecs](https://ca.wikiloc.com/rutes-a-peu/passejada-per-gallecs-40979321) (Mollet)
 * [El Salt de la Dona d'Aigua](https://ca.wikiloc.com/rutes-senderisme/salt-de-la-dona-daigua-37681328) (Arbúcies)
+* [Sant Feliuet de Savassona](https://ca.wikiloc.com/rutes-senderisme/sant-feliuet-de-savassona-42903010) (Tavèrnoles)
 * [Tagamanent](https://ca.wikiloc.com/rutes-senderisme/tagamanent-33216275)
 {: .full-width-bullet }
 

@@ -55,6 +55,7 @@ amb la dimensió de resolució de problemes:
 -	Arribar a resultats diferents, cosa que al seu torn propicia una posada en
   comú final, amb la corresponent explicació del mètode de resolució de cada
   grup i debat en grup-classe.
+{: .full-width-bullet }
 
 Com es pot veure, tots els processos involucrats en aquesta resolució es
 corresponen directament amb les dimensions de l'àmbit matemàtic. D'aquesta
@@ -77,6 +78,7 @@ resolució, com les recollides per Pólya:
 - Reformular el problema en un altre d'equivalent.
 - Simplificar el problema.
 - Raonar cap enrere.
+{: .full-width-bullet }
 
 Un dels objectius és aprendre a reconèixer l'estratègia més adient en cada
 cas. Per a fer-ho, com a docents podem ajudar a «donar nom» i sistematitzar
@@ -93,6 +95,7 @@ achievement in problem-based and inquiry learning: A response to Kirschner,
 Sweller, and Clark (2006)](https://doi.org/10.1080/00461520701263368).
 _Educational Psychologist, 42_(2), 99–107.
 - National Council of Teachers of Mathematics (Ed.) (2000). _Principles and Standards for School Mathematics_. National Council of Teachers of Mathematics.
+- Viella, X. (2010). Enriquiment competencial de tasques pobres. _Biaix 28–29_, 18–31.
 
 ## Recursos
 
@@ -104,3 +107,4 @@ _Educational Psychologist, 42_(2), 99–107.
 - [ARC](http://apliense.xtec.cat/arc/)
 - [Fem matemàtiques](http://fm.feemcat.org/)
 - [NRICH](https://nrich.maths.org/)
+{: .full-width-bullet }

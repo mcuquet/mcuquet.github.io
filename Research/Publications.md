@@ -12,9 +12,8 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 ## Preprints
 
 - **Martí Cuquet**, Agnes Schlüter.  
-  Editar la Viquipèdia: punt de trobada de competències matemàtiques,
-  lingüístiques i socials.  
-  _Noubiaix_
+  Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i socials.  
+  _Noubiaix 45_, 44 (2020).
 
 ## Journal articles
 
