@@ -60,27 +60,21 @@ Ara sí: quin és l'efecte d'aquests agrupaments?
    compte el rendiment acadèmic." %} tendeix a reproduir desigualtats
    socioeconòmiques. El mateix sembla que passa si l'agrupament per nivells és
    a totes les matèries (_tracking_).
-
    En canvi, endarrerir el moment en que es produeix aquest agrupament per
    nivell fins que els alumnes són més grans pot tenir efectes positius en
    l'assoliment de les matemàtiques. Almenys durant l'educació primària,
    ensenyar matemàtiques en grups heterogenis té un benefici clar.
-
 2. Agrupar els alumnes per nivell, tant en totes les matèries (_tracking_) com
    només en algunes (_setting_), té efectes negatius en la motivació i
    l'autoestima en tots els nivells. A més, els alumnes dels nivells alts
    sovint sovint demanen baixar de nivell per poder seguir el currículum de
    matemàtiques més a poc a poc però a és profunditat.
-
 3. Hi ha més problemes conductuals en agrupaments heterogenis.
-
 4. Els agrupaments heterogenis requereixen més temps de planificació per part
    dels professors.
-
 5. Els alumnes que s'agrupen heterogèniament mostren més actituds positives
    cap a les matemàtiques i l'escola en general i tenen més igualtat
    d'oportunitats.
-
 6. L'evidència pel que fa al rendiment acadèmic no és clara, però en general
    suggereix que no hi ha pràcticament diferència de rendiment entre _setting_
    i grups heterogenis.
