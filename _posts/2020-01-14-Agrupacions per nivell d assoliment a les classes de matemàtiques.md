@@ -53,12 +53,12 @@ socioeconòmiques.
 Ara sí: quin és l'efecte d'aquests agrupaments?
 
 1. Agrupar els alumnes per nivell a classe de matemàtiques (_setting_) o
-   repetir curs{% sidenote 'Els alumnes amb desavantatges socioeconòmics tenen
-   moltes més probabilitats de repetir curs si estan en un agrupament per
-   nivell de l'estil _setting_, fins i tot si es té en compte el rendiment
-   acadèmic.' %} tendeix a reproduir desigualtats socioeconòmiques. El mateix
-   sembla que passa si l'agrupament per nivells és a totes les matèries
-   (_tracking_).
+   repetir curs{% sidenote "repeticio" "Els alumnes amb desavantatges
+   socioeconòmics tenen moltes més probabilitats de repetir curs si estan en
+   un agrupament per nivell de l'estil _setting_, fins i tot si es té en
+   compte el rendiment acadèmic." %} tendeix a reproduir desigualtats
+   socioeconòmiques. El mateix sembla que passa si l'agrupament per nivells és
+   a totes les matèries (_tracking_).
 
    En canvi, endarrerir el moment en que es produeix aquest agrupament per
    nivell fins que els alumnes són més grans pot tenir efectes positius en
