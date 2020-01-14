@@ -13,7 +13,7 @@ la va presentar la [Mamen](https://twitter.com/navio_mamen) a partir del
 {% sidenote 'Els [Cambridge Espresso](https://www.cambridgemaths.org/espresso/)
 són un tast curt però intens de què diu la recerca en educació matemàtica sobre
 un tema concret. Estan especialment dirigits a professors de matemàtiques i
-donen quatre idees o guies per tenir en compte a l'aula i punters cap a
+donen quatre idees o guies per tenir en compte a l\'aula i punters cap a
 lectures que permetin aprofundir-hi.' %}
 Què diu la recerca sobre l'efecte de l'agrupament d'alumnes segons el
 seu nivell?
