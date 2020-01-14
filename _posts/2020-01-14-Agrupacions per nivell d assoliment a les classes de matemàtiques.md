@@ -10,11 +10,11 @@ categories: "recerca matemàtica aplicada a l'aula"
 «[Recerca matemàtica aplicada a l'aula](http://mcuquet.github.io/Blog/2019/12/07/Recerca-matem%C3%A0tica-aplicada-a-l'aula)»
 la va presentar la [Mamen](https://twitter.com/navio_mamen) a partir del
 [Cambridge Espresso #5: Attainment grouping in mathematics learning](https://www.cambridgemaths.org/espresso/view/attainment-grouping-in-mathematics-learning/):
-{% sidenote 'Els [Cambridge Espresso](https://www.cambridgemaths.org/espresso/)
+{% sidenote "espressos" "Els [Cambridge Espresso](https://www.cambridgemaths.org/espresso/)
 són un tast curt però intens de què diu la recerca en educació matemàtica sobre
 un tema concret. Estan especialment dirigits a professors de matemàtiques i
-donen quatre idees o guies per tenir en compte a l\'aula i punters cap a
-lectures que permetin aprofundir-hi.' %}
+donen quatre idees o guies per tenir en compte a l'aula i punters cap a
+lectures que permetin aprofundir-hi." %}
 Què diu la recerca sobre l'efecte de l'agrupament d'alumnes segons el
 seu nivell?
 
