@@ -43,6 +43,7 @@ terminologia anglesa amb una breu explicació:
 - **Within-class**. Agrupa els alumnes de manera homogènia o heterogènia
   segons el nivell d'assoliment _dins de la classe_, però pel que fa a classes
   en conjunt són totes heterogènies.
+{: .full-width-bullet }
 
 L'agrupament per nivell es pot fer, doncs, a nivell de sistema, centre, any o
 classe. A més, també s'utilitza la repetició de nivell, tot i que el seu ús
@@ -91,6 +92,8 @@ Ara sí: quin és l'efecte d'aquests agrupaments?
      matemàtiques).
    - Els avantatges de _setting_ són limitats i efecten només els alumnes amb
      un assoliment més alt.
+   {: .full-width-bullet }
+{: .full-width-bullet }
 
 La conclusió final a la qual sembla arribar l'espresso és que els efectes
 d'agrupar alumnes per nivells són altament complexos, però que en qualsevol
