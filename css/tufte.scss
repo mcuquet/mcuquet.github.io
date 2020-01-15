@@ -219,6 +219,10 @@ ol.full-width-bullet { width: 55%;
   list-style-type: decimal;
   margin-left: 1em;
 }
+ol.full-width-bullet ul { width: 100%;
+  list-style-type: square;
+  margin-left: 1em;
+}
 ul.full-width-bullet { width: 55%;
   list-style-type: square;
   margin-left: 1em;

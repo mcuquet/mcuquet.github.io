@@ -9,14 +9,14 @@ categories: "recerca matemàtica aplicada a l'aula"
 {% newthought 'La segona sessió del grup de treball' %} de
 «[Recerca matemàtica aplicada a l'aula](http://mcuquet.github.io/Blog/2019/12/07/Recerca-matem%C3%A0tica-aplicada-a-l'aula)»
 la va presentar la [Mamen](https://twitter.com/navio_mamen) a partir del
-[Cambridge Espresso #5: Attainment grouping in mathematics learning](https://www.cambridgemaths.org/espresso/view/attainment-grouping-in-mathematics-learning/):
-{% sidenote "espressos" "Els [Cambridge Espresso](https://www.cambridgemaths.org/espresso/)
-són un tast curt però intens de què diu la recerca en educació matemàtica sobre
-un tema concret. Estan especialment dirigits a professors de matemàtiques i
-donen quatre idees o guies per tenir en compte a l'aula i punters cap a
-lectures que permetin aprofundir-hi." %}
-Què diu la recerca sobre l'efecte de l'agrupament d'alumnes segons el
-seu nivell?
+[Cambridge Espresso #5: Attainment grouping in mathematics learning](https://www.cambridgemaths.org/espresso/view/attainment-grouping-in-mathematics-learning/),{% sidenote "espressos" "Els
+[Cambridge Espresso](https://www.cambridgemaths.org/espresso/) són un tast
+curt però intens de què diu la recerca en educació matemàtica sobre un tema
+concret. Estan especialment dirigits a professors de matemàtiques i donen
+quatre idees o guies per tenir en compte a l'aula i punters cap a lectures que
+permetin aprofundir-hi." %} amb la pregunta:
+
+> Què diu la recerca sobre l'efecte de l'agrupament d'alumnes segons el seu nivell?
 
 Abans de començar, el primer que diu la recerca és que és difícil definir què
 és l'_habilitat matemàtica_, que la creença en una _habilitat matemàtica
@@ -86,7 +86,6 @@ Ara sí: quin és l'efecte d'aquests agrupaments?
      matemàtiques).
    - Els avantatges de _setting_ són limitats i efecten només els alumnes amb
      un assoliment més alt.
-   {: .full-width-bullet }
 {: .full-width-bullet }
 
 La conclusió final a la qual sembla arribar l'espresso és que els efectes
