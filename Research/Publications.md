@@ -14,6 +14,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 - **Martí Cuquet**, Agnes Schlüter.  
   Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i socials.  
   _Noubiaix 45_, 44 (2020).
+{: .full-width-bullet}
 
 ## Journal articles
 
