@@ -14,3 +14,4 @@ Innsbruck i he dirigit algun treball de fi de màster a la Universidad
 Internacional de La Rioja.
 
 - [Activitats i recursos](Activitats/)
+- [Viquipèdia a secundària](Viquipèdia/)
