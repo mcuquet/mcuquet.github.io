@@ -5,7 +5,7 @@ section: Research
 permalink: /Research/Publications/
 ---
 
-Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](http://grupsderecerca.uab.cat/giq/people/john-calsamiglia), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.uibk.ac.at/th-physik/qig_bk/), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, Julio I. de Vicente, Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan, [Anna Fensel](http://anna.fensel.com/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, and María José García San Pedro, Agnes Schlüter, plus collaborators in the [BYTE project](http://byte-project.eu/)." %}
+Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](http://grupsderecerca.uab.cat/giq/people/john-calsamiglia), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.uibk.ac.at/th-physik/qig_bk/), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, Julio I. de Vicente, Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the [BYTE project](http://byte-project.eu/), [Anna Fensel](http://anna.fensel.com/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter." %}
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
