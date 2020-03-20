@@ -16,7 +16,7 @@ concret. Estan especialment dirigits a professors de matemàtiques i donen
 quatre idees o guies per tenir en compte a l'aula i punters cap a lectures que
 permetin aprofundir-hi." %}
 
-{% marginfigure 'hansfreudenthal' 'images/HansFreudenthal.jpg' 'Hans Freudenthal'. Font: [«Hans Freudenthal», _Viquipèdia_](https://en.wikipedia.org/wiki/File:Hansfreudenthal.jpg).' %}
+{% marginfigure 'hansfreudenthal' 'images/HansFreudenthal.jpg' 'Hans Freudenthal. Font: [«Hans Freudenthal», _Viquipèdia_](https://en.wikipedia.org/wiki/File:Hansfreudenthal.jpg).' %}
 En aquesta ocasió, el tema era l'enfocament de Freudenthal —o de l'escola
 holandesa— sobre l'ús de contextos en el plantejament d'activitats matemàtiques
 a l'aula, i que se sintentitza amb aquesta visió:
