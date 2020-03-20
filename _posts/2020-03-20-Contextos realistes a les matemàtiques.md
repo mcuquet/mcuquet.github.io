@@ -6,7 +6,7 @@ date: 2020-03-20
 categories: "recerca matemàtica aplicada a l'aula"
 ---
 
-{% newthougt 'En aquesta tercera sessió del grup' %} de
+{% newthought 'En aquesta tercera sessió del grup' %} de
 «[Recerca matemàtica aplicada a l'aula](http://mcuquet.github.io/Blog/2019/12/07/Recerca-matem%C3%A0tica-aplicada-a-l'aula)»
 en [Sergi](https://twitter.com/sergidelacruz) va presentar el 
 [Cambridge Espresso #18: Using realistic contexts in mathematics](https://www.cambridgemaths.org/espresso/view/using-realistic-contexts-in-mathematics/).{% sidenote "espressos" "Els
