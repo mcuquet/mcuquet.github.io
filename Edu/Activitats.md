@@ -17,7 +17,9 @@ l'aula de matemàtiques.
 activitats per a 1r o 2n d'ESO.
 - [Idees d'aula](http://www.sergidelmoral.net/patchwork-curricular/)
   recollides per en [Sergi del Moral](http://www.sergidelmoral.net/).
-- [PuntMat](https://puntmat.blogspot.com/)
-- [Calaix2](https://calaix2.blogspot.com/)
-- [ARC](http://apliense.xtec.cat/arc/)
+- [PuntMat](https://puntmat.blogspot.com/).
+- [Calaix2](https://calaix2.blogspot.com/).
+- [ARC](http://apliense.xtec.cat/arc/).
+- [Matemàtiques marines](http://matematiquesmarines.blogspot.com/) a l'INS
+  Baix a mar.
 {: .full-width-bullet }
