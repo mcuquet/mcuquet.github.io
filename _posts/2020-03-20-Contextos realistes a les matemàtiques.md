@@ -36,7 +36,7 @@ D'aquesta manera, es produeixen dos processos de **matematització**:
 - **Matematització vertical** dins del mateix pensament simbòlic.
 
 {% maincolumn 'images/mathematising.png' 'El procés de matematització
-horitzontal i vertical. Font: [Cambridge Espresso #18: Using realistic contexts in mathematics](https://www.cambridgemaths.org/espresso/view/using-realistic-contexts-in-mathematics/)' %}
+horitzontal i vertical. Font: Cambridge Espresso #18.' %}
 
 Què ens aporta utilitzar aquest enfocament? Segons la recerca —sobretot
 centrada als Països Baixos, però també a altres llocs—, l'enfocament de
