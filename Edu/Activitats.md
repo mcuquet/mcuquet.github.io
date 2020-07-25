@@ -22,4 +22,5 @@ activitats per a 1r o 2n d'ESO.
 - [ARC](http://apliense.xtec.cat/arc/).
 - [Matemàtiques marines](http://matematiquesmarines.blogspot.com/) a l'INS
   Baix a mar.
+- [Grup Zero](https://www.grupzero.cat/).
 {: .full-width-bullet }

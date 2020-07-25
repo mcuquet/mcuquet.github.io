@@ -21,7 +21,7 @@ En aquesta ocasió, el tema era l'enfocament de Freudenthal —o de l'escola
 holandesa— sobre l'ús de contextos en el plantejament d'activitats matemàtiques
 a l'aula, i que se sintentitza amb aquesta visió:
 
-> L'aprenentatge de les matemàtiques hauria d'estar conectat amb l'experència
+> L'aprenentatge de les matemàtiques hauria d'estar connectat amb l'experència
 > real dels alumnes.
 
 Segons aquest enfocament, cal construir la comprensió de les situacions en les

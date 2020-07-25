@@ -9,16 +9,11 @@ Here you can find a list of my scientific publications.{% sidenote "coauthors" "
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
-## Preprints
-
-- **Martí Cuquet**, Agnes Schlüter.  
-  Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i socials.  
-  _Noubiaix 45_, 44 (2019).  
-  [ [PDF](Editar la Viquipèdia punt de trobada de competències matemàtiques lingüístiques i socials.pdf) ]
-{: .full-width-bullet}
-
 ## Journal articles
 
+0. [Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals](Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals).  
+   **Martí Cuquet**, Agnes Schlüter.  
+   [_Noubiaix: revista de la FEEMCAT i la SCM 45_, 44-55](https://www.raco.cat/index.php/Noubiaix/article/view/371593)
 0. [Percepciones y uso de la Wikipedia en alumnos de educación secundaria](Percepciones y uso de la Wikipedia en alumnos de educación secundaria).  
    **Martí Cuquet**, María José García San Pedro.  
    _[Education in the Knowledge Society 20, 8 (2019)](http://revistas.usal.es/index.php/eks/article/view/eks20192008)_.  
