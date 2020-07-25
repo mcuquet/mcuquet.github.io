@@ -21,5 +21,5 @@ parets de l'institut.
 - Cuquet, M. (2018). _[Geometría en la Wikipedia: La competencia digital en las matemáticas de Bachillerato](../Research/Publications/Geometría en la Wikipedia/)_. Treball de fi de màster. Facultad de Educación, Universidad Internacional de La Rioja.
 - Cuquet, M., García, M. J. (2019). [Percepciones y uso de la Wikipedia en
   alumnos de educación secundaria](../Research/Publications/Percepciones y uso de la Wikipedia en alumnos de educación secundaria/), [_Education in the Knowledge Society 20_, 8](http://revistas.usal.es/index.php/eks/article/view/eks20192008).
-- Cuquet, M., Schlüter, A. (2020). Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i socials. _Noubiaix 45_, 44.
+- Cuquet, M., Schlüter, A. (2019). [Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals](../Research/Publications/Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals/). [_Noubiaix 45_, 44-55](https://www.raco.cat/index.php/Noubiaix/article/view/371593).
 {: .full-width-bullet}

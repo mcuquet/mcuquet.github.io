@@ -9,6 +9,7 @@ Això és un recull d'excursions que he fet, amb la intenció sobretot de posar 
 ## Amb nens
 
 * [Església de Santa Magdalena des del càmping de Rupit](https://ca.wikiloc.com/rutes-a-peu/esglesia-de-santa-magdalena-des-del-camping-de-rupit-37943447)
+* [Estany de l'Orri](https://ca.wikiloc.com/wikiloc/spatialArtifacts.do?event=setCurrentSpatialArtifact&id=52528773) (Lles de Cerdanya)
 * [Estanys d'Almenara](https://ca.wikiloc.com/rutes-a-peu/estanys-dalmenara-44940346) (Almenara)
 * [Hortsavinyà - Les alzines de can Portell](https://ca.wikiloc.com/rutes-senderisme/hortsavinya-les-alzines-de-can-portell-44480961) (Tordera)
 * [Passejada per Gallecs](https://ca.wikiloc.com/rutes-a-peu/passejada-per-gallecs-40979321) (Mollet)
