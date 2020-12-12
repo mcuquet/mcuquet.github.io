@@ -164,5 +164,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 - [Geometría en la Wikipedia: La competencia digital en las matemáticas de Bachillerato](Geometría en la Wikipedia).  
   **Martí Cuquet**.  
   _Facultad de Educación, Universidad Internacional de La Rioja_. MA thesis.  2018.  
-  [ [Bibtex](Geometría en la Wikipeida.bib) ]
+  [ [PDF](Geometría en la Wikipedia.pdf)
+  | [Bibtex](Geometría en la Wikipedia.bib) ]
 {: .full-width-bullet}

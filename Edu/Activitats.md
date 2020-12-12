@@ -8,6 +8,15 @@ permalink: /Edu/Activitats/
 Aquí recullo un llistat d'algunes activitats o idees que m'agraden per dur a
 l'aula de matemàtiques.
 
+## 1r d'ESO
+
+### Numeració i càlcul
+
+- **Pastors del neolític**. Per introduir la necessitat dels nombres A Calvo i
+  altres (2016).{% sidenote 'calvo2016px' 'Calvo, C., Deulofeu, J., Jareño,
+  J., Morera, L. (2016). Aprender a enseñar matemáticas en la educación
+  secundaria obligatoria. Editorial Síntesis. Pàg x.' %}
+
 ## Enllaços a més reculls d'activitats i recursos
 
 - [Marro de Nou](https://lluismora.blogspot.com/), el blog d'en [Lluís
