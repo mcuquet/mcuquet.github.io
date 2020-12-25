@@ -17,7 +17,7 @@ l'aula de matemàtiques.
   J., Morera, L. (2016). Aprender a enseñar matemáticas en la educación
   secundaria obligatoria. Editorial Síntesis. Pàg x.' %}
 
-- **[Igualtats bessones](https://drive.google.com/file/d/1d_1P4nj70SVmhz2TdPBjST6zMy55yJkM/view?usp=sharing)**. Per treballar les operacions combinades amb naturals.{% sidenote 'igbessones' 'No en conec la font, si la saps [diga'm-ho](/Contact/) i l'afegeixo aquí!' '%}
+- **[Igualtats bessones](https://drive.google.com/file/d/1d_1P4nj70SVmhz2TdPBjST6zMy55yJkM/view?usp=sharing)**. Per treballar les operacions combinades amb naturals.{% sidenote 'igbessones' 'No en conec la font, si la saps [diga'm-ho](/Contact/) i l'afegeixo aquí!' %}
 
 - **El tangram: el trencaclosques de set peces**. Connexions entre fraccions,
   decimals, percentatges i geometria. Activitat d'en Lluís Mora a «[Investigar
