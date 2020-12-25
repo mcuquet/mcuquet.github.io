@@ -12,10 +12,16 @@ l'aula de matemàtiques.
 
 ### Numeració i càlcul
 
-- **Pastors del neolític**. Per introduir la necessitat dels nombres A Calvo i
+- **Pastors del neolític**. Per introduir la necessitat dels nombres. A Calvo i
   altres (2016).{% sidenote 'calvo2016px' 'Calvo, C., Deulofeu, J., Jareño,
   J., Morera, L. (2016). Aprender a enseñar matemáticas en la educación
   secundaria obligatoria. Editorial Síntesis. Pàg x.' %}
+
+- **[Igualtats bessones](https://drive.google.com/file/d/1d_1P4nj70SVmhz2TdPBjST6zMy55yJkM/view?usp=sharing)**. Per treballar les operacions combinades amb naturals.{% sidenote 'igbessones' No en conec la font, si la saps [diga'm-ho](/Contact/) i l'afegeixo aquí!%}
+
+- **El tangram: el trencaclosques de set peces**. Connexions entre fraccions,
+  decimals, percentatges i geometria. Activitat d'en Lluís Mora a «[Investigar
+  les matemàtiques: Unitat 4](https://docs.google.com/document/d/1g3z6GU2HKXiXSaiH5iIgXUW6zbXCb7ba1tCBzCbOAHs/edit)».
 
 ## Enllaços a més reculls d'activitats i recursos
 
@@ -32,4 +38,5 @@ activitats per a 1r o 2n d'ESO.
 - [Matemàtiques marines](http://matematiquesmarines.blogspot.com/) a l'INS
   Baix a mar.
 - [Grup Zero](https://www.grupzero.cat/).
+- Matemàtiques de batxillerat científic ([1r](http://mdosil.github.io/mates1batcientific/) i [2n](http://mdosil.github.io/mates2batcientific/)) de la [Mireia Dosil](http://www.mdosil.cat/).
 {: .full-width-bullet }
