@@ -15,7 +15,7 @@ l'aula de matemàtiques.
 - **Pastors del neolític**. Per introduir la necessitat dels nombres. A Calvo i
   altres (2016).{% sidenote 'calvo2016px' 'Calvo, C., Deulofeu, J., Jareño,
   J., Morera, L. (2016). Aprender a enseñar matemáticas en la educación
-  secundaria obligatoria. Editorial Síntesis. Pàg x.' %}
+  secundaria obligatoria. Editorial Síntesis. Activitat 2.1, pàg 28.' %}
 - **[Igualtats bessones](https://drive.google.com/file/d/1d_1P4nj70SVmhz2TdPBjST6zMy55yJkM/view?usp=sharing)**. Per treballar les operacions combinades amb naturals.{% sidenote 'igbessones' "No en sé l'autor, si el saps [diga'm-ho](/Contact/)!" %}
 - **[El tangram: el trencaclosques de set peces](https://docs.google.com/document/d/1g3z6GU2HKXiXSaiH5iIgXUW6zbXCb7ba1tCBzCbOAHs/edit)**. Connexions entre fraccions, decimals, percentatges i geometria.{% sidenote 'tangram' "Activitat d'en Lluís Mora a «[Investigar
   les matemàtiques](https://lluismora.blogspot.com/p/investigar-les-matematiques.html)»." %}
