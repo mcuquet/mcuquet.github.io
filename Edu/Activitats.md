@@ -19,6 +19,7 @@ l'aula de matemàtiques.
 - **[Igualtats bessones](https://drive.google.com/file/d/1d_1P4nj70SVmhz2TdPBjST6zMy55yJkM/view?usp=sharing)**. Per treballar les operacions combinades amb naturals.{% sidenote 'igbessones' "No en sé l'autor, si el saps [diga'm-ho](/Contact/)!" %}
 - **[El tangram: el trencaclosques de set peces](https://docs.google.com/document/d/1g3z6GU2HKXiXSaiH5iIgXUW6zbXCb7ba1tCBzCbOAHs/edit)**. Connexions entre fraccions, decimals, percentatges i geometria.{% sidenote 'tangram' "Activitat d'en Lluís Mora a «[Investigar
   les matemàtiques](https://lluismora.blogspot.com/p/investigar-les-matematiques.html)»." %}
+- **[Arrodoneix els daus](https://docs.google.com/document/d/1H0ao8bLSlon_gKJP3qxH1okrUXASrjV6anbpGVL-ogU/edit?usp=sharing)**. Per treballar l'arrodoniment de decimals, a partir de l'activitat d'[Nrich](https://nrich.maths.org/10428) i l'adaptació de la [Cecilia Calvo](https://twitter.com/CcBcnMvd/status/1234045870594809856).
 {: .full-width-bullet }
 
 ## Enllaços a més reculls d'activitats i recursos
