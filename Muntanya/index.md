@@ -16,6 +16,7 @@ Això és un recull d'excursions que he fet, amb la intenció sobretot de posar 
 * [El Salt de la Dona d'Aigua](https://ca.wikiloc.com/rutes-senderisme/salt-de-la-dona-daigua-37681328) (Arbúcies)
 * [Sant Feliuet de Savassona](https://ca.wikiloc.com/rutes-senderisme/sant-feliuet-de-savassona-42903010) (Tavèrnoles)
 * [Tagamanent](https://ca.wikiloc.com/rutes-senderisme/tagamanent-33216275)
+* [Les Tres Termes](https://ca.wikiloc.com/rutes-senderisme/les-tres-termes-sant-pere-de-vilamajor-66289172) (Sant Pere de Vilamajor)
 {: .full-width-bullet }
 
 ## Pirineu i Prepirineu
