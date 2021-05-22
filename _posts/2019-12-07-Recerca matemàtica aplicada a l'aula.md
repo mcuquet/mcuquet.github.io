@@ -6,7 +6,7 @@ date: 2019-12-07
 categories: "recerca matemàtica aplicada a l'aula"
 ---
 
-{% newthought 'Aquest curs' %} hem endegat un grup de treball entre uns quants
+{% newthought 'Aquest curs' %} hem endegat un [grup de treball](https://grup-rema.github.io/) entre uns quants
 professors de matemàtiques. A l'estiu, tot compartint enllaços dels
 [Espresso](https://www.cambridgemaths.org/espresso/) de [Cambridge
 Mathematics](https://www.cambridgemaths.org), va sorgir interès en llegir
