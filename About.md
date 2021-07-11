@@ -35,7 +35,7 @@ web:
 [Mendeley](http://www.mendeley.com/profiles/marti-cuquet/),
 [Twitter](https://twitter.com/mcuquet),
 [Wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet)
-i també a la Viquipèdia.
+i també a la [Viquipèdia](https://ca.wikipedia.org/wiki/Usuari:Habicht).
 Acull ara part de tot això _e non solo_, i també la tercera tongada de
 pensaments recollits en forma de blog. Tampoc crec que en sigui l'última.
 

@@ -17,5 +17,5 @@ Innsbruck i he dirigit algun treball de fi de màster a la Universidad
 Internacional de La Rioja.
 
 - [Activitats i recursos](Activitats/)
-- [Recerca matemàtica aplicada a l'aula](../Blog/2019/12/07/Recerca-matem%C3%A0tica-aplicada-a-l'aula)
+- [Grup ReMA: Recerca matemàtica aplicada a l'aula](https://grup-rema.github.io/)
 - [Viquipèdia a secundària](Viquipèdia/)
