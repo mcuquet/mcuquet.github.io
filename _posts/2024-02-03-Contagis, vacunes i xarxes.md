@@ -13,5 +13,4 @@ contextos realistes per establir connexions internes dins de les matemàtiques, 
 matèries i amb el nostre entorn.
 
 Cuquet, M. (2024). «[Contagis, vacunes i xarxes. Models matemàtics per entendre la
-propagació de malalties](/assets/Contagis, vacunes i xarxes. Models matemàtics per
-entendre la propagació de malalties. Lleimat 2024.pdf)», _XXI Jornada Lleimat_, 3 de febrer de 2024.
+propagació de malalties](/assets/Contagis, vacunes i xarxes. Models matemàtics per entendre la propagació de malalties. Lleimat 2024.pdf)», _XXI Jornada Lleimat_, 3 de febrer de 2024.
