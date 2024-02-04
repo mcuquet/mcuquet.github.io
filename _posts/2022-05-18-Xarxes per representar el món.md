@@ -16,5 +16,4 @@ A la primera sessió he presentat una breu introducció a les xarxes complexes:
 - Tres propietats de les xarxes: mons petits, _hubs_ i transitivitat.
 - I una aplicació: la percolació.
 
-La presentació està disponible [aquí](/assets/Xarxes per representar el
-món.pdf).
+La presentació està disponible [aquí](/assets/Xarxes per representar el món.pdf).
