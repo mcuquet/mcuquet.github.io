@@ -6,7 +6,7 @@ date: 2023-10-04
 categories: "lectures"
 ---
 
-{% newthought 'Emmarcat en el nou programa **Recercaula**,' %} a l’[Institut Antoni Cumella](https://agora.xtec.cat/iesacumella/projecte-educatiu/pla-de-formacio-dels-professionals-del-centre/) hem endegat un petit grup de recerca de 6 docents amb l’objectiu de millorar l’ús del *feedback* durant les activitats d’aprenentatge al centre. Una de les activitats del grup és la creació d’un seminari de literatura similar al que hem estat fent al grup de Recerca matemàtica aplicada a l’aula: una vegada al mes —o quan podem!— un de nosaltres llegeix un article de recerca i el presenta als companys. Aquest article és un resum del primer seminari.
+{% newthought 'Emmarcat en el nou' %} programa **Recercaula**, a l’[Institut Antoni Cumella](https://agora.xtec.cat/iesacumella/projecte-educatiu/pla-de-formacio-dels-professionals-del-centre/) hem endegat un petit grup de recerca de 6 docents amb l’objectiu de millorar l’ús del *feedback* durant les activitats d’aprenentatge al centre. Una de les activitats del grup és la creació d’un seminari de literatura similar al que hem estat fent al grup de Recerca matemàtica aplicada a l’aula: una vegada al mes —o quan podem!— un de nosaltres llegeix un article de recerca i el presenta als companys. Aquest article és un resum del primer seminari.
 
 En aquest primer seminari no hem presentat un article pròpiament dit, sinó un [Cambridge Espresso](https://www.cambridgemaths.org/for-teachers-and-practitioners/espresso/): un resum sobre la recerca en didàctica de les matemàtiques sobre un tema concret.
 
