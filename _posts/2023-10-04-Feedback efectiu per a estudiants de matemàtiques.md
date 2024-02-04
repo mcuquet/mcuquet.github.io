@@ -20,7 +20,7 @@ L’Espresso aborda a continuació què s’entén exactament per *feedback*, qu
 
 ## Què és el *feedback*
 
-Per *feedback* s’entén aquella informació que algú proporciona (ja sigui el docent, un familiar, el llibre, un company o un mateix) sobre el rendiment o la comprensió i que pretén apropar **què s’entén** amb **què es pretén que s’entengui**. {% sidenote "hattie" "[Hattie, Timperley (2007). The power of feedback. Review of educational research 77, 81.](https://journals.sagepub.com/doi/abs/10.3102/003465430298487)" %}
+Per *feedback* s’entén aquella informació que algú proporciona (ja sigui el docent, un familiar, el llibre, un company o un mateix) sobre el rendiment o la comprensió i que pretén apropar **què s’entén** amb **què es pretén que s’entengui**.{% sidenote "hattie" "[Hattie, Timperley (2007). The power of feedback. Review of educational research 77, 81.](https://journals.sagepub.com/doi/abs/10.3102/003465430298487)" %}
 
 És un element clau de l’avaluació formativa i pot tenir tant un efecte positiu com un de negatiu. Algun exemple d’efecte negatiu que es menciona és el del *feedback* que es percep com a crític o controlador i que pot obstruir la millora.
 
@@ -34,7 +34,7 @@ El *feedback* opera a través de tres processos diferents:{% sidenote
 3.  Metcognitiu: canvia l’autoregulació.
 
 
-En qualsevol cas, el coneixement profund de la matèria és un ingredient necessari per comprendre la feina dels alumnes i donar un bon feedback.{% sidenote "hodgen" "Hodgen i Wiliam (2006) Mathematics inside the black box: assessment for learning in the mathematics classroom, GL Assessment: London"}
+En qualsevol cas, el coneixement profund de la matèria és un ingredient necessari per comprendre la feina dels alumnes i donar un bon feedback.{% sidenote "hodgen" "Hodgen i Wiliam (2006) Mathematics inside the black box: assessment for learning in the mathematics classroom, GL Assessment: London" %}
 
 ## *Feedback* escrit
 
