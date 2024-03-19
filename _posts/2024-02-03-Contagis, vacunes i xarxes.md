@@ -6,7 +6,8 @@ date: 2024-02-03
 categories: "xerrades"
 ---
 
-{% newthought 'En aquest taller' %} presentat a la XXI Jornada Lleimat 2024
+{% newthought 'En aquest taller' %} presentat a la [XXI Jornada Lleimat
+2024](http://associaciolleimat.blogspot.com/2024/01/xxi-jornada-lleimat.html)
 explorem una seqüència de models matemàtics que es poden treballar a
 secundària per comprendre la propagació de malalties. L'objectiu és mostrar com podem utilitzar
 contextos realistes per establir connexions internes dins de les matemàtiques, amb altres
