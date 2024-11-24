@@ -6,7 +6,7 @@ date: 2024-11-16
 categories: "xerrades"
 ---
 
-{% newthought 'La jornada de matemàtiques d'APaMMs' %} del curs 2024--2025 va
+{% newthought "La jornada de matemàtiques d'APaMMs" %} del curs 2024--2025 va
 estar centrada en la geometria. A la conferència inaugural vam poder veure
 algunes idees i processos rellevants en l'aprenentatge de la geometria tot
 caminant per quatre activitats, d'Educació Infantil a Batxillerat, connectant
