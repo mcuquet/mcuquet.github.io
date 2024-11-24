@@ -12,5 +12,4 @@ algunes idees i processos rellevants en l'aprenentatge de la geometria tot
 caminant per quatre activitats, d'Educació Infantil a Batxillerat, connectant
 la geometria amb els altres sentits dins i fora de l'àrea de matemàtiques.
 
-Cuquet, M. (2024). «[Connectant la geometria](/assets/Connectant la geometria.
-APaMMs 2024-2025.pdf)», _XXII Jornada APaMMs, 16 de novembre de 2024._
+Cuquet, M. (2024). «[Connectant la geometria](/assets/Connectant la geometria. APaMMs 2024-2025.pdf)», _XXII Jornada APaMMs, 16 de novembre de 2024._
