@@ -16,6 +16,5 @@ de Barcelona (2007–2010), un seminari d'Smart Data a la Universität
 Innsbruck i he dirigit algun treball de fi de màster a la Universidad
 Internacional de La Rioja.
 
-- [Activitats i recursos](Activitats/)
 - [Grup ReMA: Recerca matemàtica aplicada a l'aula](https://grup-rema.github.io/)
 - [Viquipèdia a secundària](Viquipèdia/)
