@@ -68,6 +68,10 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Conference papers
 
+0. [L'estudi de classes al laboratori de matemàtiques com a model d'autoformació](L'estudi de classes al laboratori de matemàtiques com a model d'autoformació).  
+   Mariona Areny, **Martí Cuquet**, Marta Palomo, Roger Santmiquel.  
+   In: [Congrés Català d'Educació Matemàtica 2025, Lleida, 7-9 July, 2025](https://drive.google.com/file/d/1SIgdmjM5QUUpzU6JULmzaJojUD0oaHJY/view).  
+   [ PDF | Bibtex ]
 0. [The network structure of visited locations according to geotagged social media photos](The network structure of visited locations according to geotagged social media photos).  
    Christian Junker, Zaenal Akbar, **Martí Cuquet**.  
    In: Camarinha-Matos L., Afsarmanesh H., Fornasiero R. (eds) [_Collaboration in a Data-Rich World, PRO-VE 2017_, pp. 276-283](https://doi.org/10.1007/978-3-319-65151-4_26). IFIP Advances in Information and Communication Technology, vol 506. Springer, Cham.  
