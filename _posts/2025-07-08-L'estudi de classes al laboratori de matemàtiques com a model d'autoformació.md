@@ -25,6 +25,6 @@ posa en pràctica l'enfocament de les Thinking Classrooms de Liljedahl.
 
 Areny, M., Cuquet, M., Palomo, M., Santmiquel, R. (2025). «[L'estudi de
 classes al laboratori de matemàtiques com a model
-d'autoformació](/Publications/L'estudi de classes al laboratori de matemàtiques
+d'autoformació](/Research/Publications/L'estudi de classes al laboratori de matemàtiques
 com a model d'autoformació/)». _Congrés Català d'Educació Matemàtica_, 7--9 de
 juliol de 2025, Lleida.
