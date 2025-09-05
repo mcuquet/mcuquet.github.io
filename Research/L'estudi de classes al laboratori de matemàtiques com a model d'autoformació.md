@@ -7,7 +7,8 @@ permalink: "Research/Publications/L'estudi de classes al laboratori de matemàti
 
 Mariona Areny, **Martí Cuquet**, Marta Palomo, Roger Santmiquel.  
 In: [Congrés Català d'Educació Matemàtica 2025, Lleida, 7-9 July, 2025](https://drive.google.com/file/d/1SIgdmjM5QUUpzU6JULmzaJojUD0oaHJY/view).  
-[ PDF | Bibtex ]
+[ [PDF](L'estudi de classes al laboratori de matemàtiques com a model d'autoformació.pdf)
+| [Bibtex](L'estudi de classes al laboratori de matemàtiques com a model d'autoformació.bib) ]
 
 L'estudi de classes, o _lesson study_, és un model de desenvolupament
 professional dels docents centrat en el treball a l'aula. Les classes que
