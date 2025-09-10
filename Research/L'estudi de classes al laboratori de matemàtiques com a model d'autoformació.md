@@ -30,5 +30,6 @@ posa en pràctica l'enfocament de les Thinking Classrooms de Liljedahl.
   address = {Lleida},
   numpages = {8},
   year = {2025},
+  isbn = {978-84-09-73994-3},
 }
 ~~~
