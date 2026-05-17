@@ -2,9 +2,7 @@ baseurl:
 title: "Martí Cuquet"
 subtitle: "Físic. Professor de matemàtiques."
 author: "Martí Cuquet"
-simple_search: http://google.com/search
 description: "Pàgina personal d'en Martí Cuquet"
-name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /Blog/:year/:month/:day/:title
@@ -25,3 +23,6 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/Git/clayh53.github.com/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
