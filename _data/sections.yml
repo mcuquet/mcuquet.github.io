@@ -1,0 +1,10 @@
+- section: Blog
+  url: /
+- section: Educació
+  url: /Edu/
+- section: Research
+  url: /Research/
+- section: Muntanya
+  url: /Muntanya/
+- section: About
+  url: /About/
