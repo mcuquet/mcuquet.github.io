@@ -17,8 +17,8 @@ diria l'Estellés, _ací em pariren i ací estic_.
 
 Aquesta pàgina serveix de punt central de la meva presència a la xarxa.
 
-Aquesta és si fa o no fa la vuitena iteració de la meva pàgina personal, que
-ha anat evolucionant amb mi en els últims 18(!) anys. He deixat ja de pensar
+Aquesta és si fa o no fa la novena iteració de la meva pàgina personal, que
+ha anat evolucionant amb mi en els últims 25(!) anys. He deixat ja de pensar
 que n'és l'última. En un sol lloc o dispersa en diverses facetes, ha anat
 recollint materials de la llicenciatura en física, textos que he anat
 escrivint, projectes en què he participat, [articles de
