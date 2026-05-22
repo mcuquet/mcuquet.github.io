@@ -1,0 +1,21 @@
+<aside>
+{% for excursio in site.data.muntanya.excursions.excursions %}
+{% if excursio.nom == page.title %}
+{% if excursio.wikiloc %}
+<h2>Wikiloc <a href="http://ca.wikiloc.com/wikiloc/view.do?id={{excursio.wikiloc}}">{{excursio.wikiloc}}</a></h2>
+{% endif %}
+<dl>
+  {% for camp in site.data.muntanya.excursions.camps %}
+  {% if camp.sep %}
+</dl>
+
+<dl>
+  {% elsif excursio.[camp.var] %}
+  <dt>{{camp.text}}</dt>
+  <dd>{{excursio.[camp.var]}}{% if camp.extra and excursio.[camp.extra] %} ({{excursio.[camp.extra]}}){% endif %}</dd>
+  {% endif %}
+  {% endfor %}
+</dl>
+{% endif %}
+{% endfor %}
+</aside>
