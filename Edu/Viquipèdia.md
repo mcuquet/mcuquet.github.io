@@ -5,7 +5,7 @@ section: Educació
 permalink: /Edu/Viquipèdia/
 ---
 
-Exploro l'ús de la Viquipèdia a secundària, no només com a font d'informació
+He explorat l'ús de la Viquipèdia a secundària, no només com a font d'informació
 sinó com a espai de construcció compartida de coneixement que traspassa les
 parets de l'institut.
 

@@ -5,7 +5,7 @@ section: About
 permalink: /About/
 ---
 
-Sóc físic. Ensenyo matemàtiques.{% sidenote "feina" "Actualment a l'INS Antoni Cumella." %}
+Sóc físic. Ensenyo matemàtiques.{% sidenote "feina" "Actualment des del Programa Florence-SIM." %}
 
 {% marginfigure 'lungarno' 'images/pisa0902.jpg' %}
 {% marginfigure 'bcn-vlc-plm' 'images/bcn-vlc-plm2.jpg' %}
