@@ -18,6 +18,6 @@ Internacional de La Rioja.
 
 Grups de treball i projectes:
 
-- [Grup REM: Reflexió en Educació Matemàtica](https://www.uab.cat/ca/ice/equips-educacio-secundaria) a l'ICE de la UAB
+- [Grup REM: Reflexió en Educació Matemàtica](https://gruprem.github.io/) (2025–)
 - [Grup ReMA: Recerca matemàtica aplicada a l'aula](https://grup-rema.github.io/) (2019–2023)
 - [Viquipèdia a secundària](Viquipèdia/) (2018–2019)
