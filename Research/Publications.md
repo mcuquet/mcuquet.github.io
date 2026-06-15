@@ -5,7 +5,7 @@ section: Research
 permalink: /Research/Publications/
 ---
 
-Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](http://grupsderecerca.uab.cat/giq/people/john-calsamiglia), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.uibk.ac.at/th-physik/qig_bk/), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, Julio I. de Vicente, Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the [BYTE project](http://byte-project.eu/), [Anna Fensel](http://anna.fensel.com/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel." %}
+Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](https://webs.uab.cat/giq/member/john-calsamiglia/), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.professoren.tum.de/en/kraus-barbara), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, [Julio I. de Vicente](https://www.ucm.es/mathqi/julio-de-vicente), Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the [BYTE project](http://byte-project.eu/), [Anna Fensel](https://sites.google.com/site/annafensel/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel." %}
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
@@ -68,6 +68,14 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Conference papers
 
+0. [Lectura crítica para una formación permanente y autónoma en educación matemática]  
+   **Martí Cuquet**, Manel Martínez.  
+   In: XXI Jornadas para el aprendizaje y la Enseñanza de las Matemáticas, Jaén, 1-4 July, 2026.  
+   [ PDF | Bibtex ]
+0. [La anticipación del cierre de una Thinking Classroom mediante el árbol de gestión]
+   Mariona Areny, **Martí Cuquet**, Josep Joan, Marta Palomo.  
+   In: XXI Jornadas para el aprendizaje y la Enseñanza de las Matemáticas, Jaén, 1-4 July, 2026.  
+   [ PDF | Bibtex ]
 0. [L'estudi de classes al laboratori de matemàtiques com a model d'autoformació](L'estudi de classes al laboratori de matemàtiques com a model d'autoformació).  
    Mariona Areny, **Martí Cuquet**, Marta Palomo, Roger Santmiquel.  
    In: [Congrés Català d'Educació Matemàtica 2025, Lleida, 7-9 July, 2025](https://drive.google.com/file/d/1SIgdmjM5QUUpzU6JULmzaJojUD0oaHJY/view).  
@@ -95,6 +103,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Eprints
 
+- 
 - [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
