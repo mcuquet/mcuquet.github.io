@@ -13,7 +13,7 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 0. La recerca acció al servei del desenvolupament professional docent i la millora educativa: El programa RecercAULA.  
    Helena Roig-Ester, Anna Ciraso-Calí, Carla Quesada-Pallarès, Laia Palou Fons, **Martí Cuquet Palau**, Ana Sánchez-Escobar, Marta Palomo Reixach.  
-   [GRAÓ 12-18: El teu espai de referència en Educació Secundària](https://www.grao.com/revistas/la-recerca-accio-al-servei-del-desenvolupament-professional-docent-i-la-millora-educativa-el-programa-recercaula-105137).
+   _[GRAÓ 12-18: El teu espai de referència en Educació Secundària](https://www.grao.com/revistas/la-recerca-accio-al-servei-del-desenvolupament-professional-docent-i-la-millora-educativa-el-programa-recercaula-105137) (2026)._
 0. [Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals](Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals).  
    **Martí Cuquet**, Agnes Schlüter.  
    [_Noubiaix: revista de la FEEMCAT i la SCM 45_, 44-55 (2019)](https://www.raco.cat/index.php/Noubiaix/article/view/371593)
