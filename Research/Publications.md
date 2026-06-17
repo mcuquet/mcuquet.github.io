@@ -5,12 +5,15 @@ section: Research
 permalink: /Research/Publications/
 ---
 
-Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](https://webs.uab.cat/giq/member/john-calsamiglia/), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.professoren.tum.de/en/kraus-barbara), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, [Julio I. de Vicente](https://www.ucm.es/mathqi/julio-de-vicente), Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the BYTE project, [Anna Fensel](https://sites.google.com/site/annafensel/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel." %}
+Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](https://webs.uab.cat/giq/member/john-calsamiglia/), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.professoren.tum.de/en/kraus-barbara), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, [Julio I. de Vicente](https://www.ucm.es/mathqi/julio-de-vicente), Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the BYTE project, [Anna Fensel](https://sites.google.com/site/annafensel/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel, Helena Roig-Ester, Anna Ciraso-Calí, Carla Quesada-Pallarès, Laia Palou, Ana Sánchez-Escobar." %}
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
 ## Journal articles
 
+0. La recerca acció al servei del desenvolupament professional docent i la millora educativa: El programa RecercAULA.  
+   Helena Roig-Ester, Anna Ciraso-Calí, Carla Quesada-Pallarès, Laia Palou Fons, **Martí Cuquet Palau**, Ana Sánchez-Escobar, Marta Palomo Reixach.  
+   [GRAÓ 12-18: El teu espai de referència en Educació Secundària](https://www.grao.com/revistas/la-recerca-accio-al-servei-del-desenvolupament-professional-docent-i-la-millora-educativa-el-programa-recercaula-105137).
 0. [Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals](Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals).  
    **Martí Cuquet**, Agnes Schlüter.  
    [_Noubiaix: revista de la FEEMCAT i la SCM 45_, 44-55 (2019)](https://www.raco.cat/index.php/Noubiaix/article/view/371593)

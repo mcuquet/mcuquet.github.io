@@ -20,7 +20,7 @@ El marc s'articula al voltant de cinc dimensions que conjuntament descriuen què
 
 En primer lloc, hi ha la dimensió de **les matemàtiques**, que apunta directament a la qualitat del contingut que es posa en joc. Si les matemàtiques que es treballen són superficials o poc connectades, difícilment hi pot haver aprenentatge significatiu. Parlem, doncs, de proposar idees amb profunditat, de fer visibles les connexions i de generar oportunitats perquè els alumnes pensin realment com matemàtics.
 
-La segona dimensió és l'**exigència cognitiva**. No n'hi ha prou amb tenir bon contingut: cal que les tasques convidin a pensar, que siguin matemàtiques que desafiïn els alumnes. El TRU posa l'accent en el que s'anomena «esforç productiu», és a dir, en situacions en què els alumnes es veuen desafiats (se'ls plantegen tasques exigents) però disposen del suport necessari per avançar. Això implica evitar activitats excessivament pautades o purament procedimentalsi deixar espai per al raonament, la presa de decisions i l'error com a part del procés d'aprenentatge. Aquí val la pena abordar la planificació i anàlisi d'activitats a partir del model _Depth of Knowledge_ (DOK) i els seus quatre nivells: recordar, aplicar, raonar i ampliar.
+La segona dimensió és l'**exigència cognitiva**. No n'hi ha prou amb tenir bon contingut: cal que les tasques convidin a pensar, que siguin matemàtiques que desafiïn els alumnes. El TRU posa l'accent en el que s'anomena «esforç productiu», és a dir, en situacions en què els alumnes es veuen desafiats (se'ls plantegen tasques exigents) però disposen del suport necessari per avançar. Això implica evitar activitats excessivament pautades o purament procedimentals i deixar espai per al raonament, la presa de decisions i l'error com a part del procés d'aprenentatge. Aquí val la pena abordar la planificació i anàlisi d'activitats a partir del model _Depth of Knowledge_ (DOK) i els seus quatre nivells: recordar, aplicar, raonar i ampliar.
 
 Una tercera dimensió és l'**accés equitatiu al contingut**. Aquí la pregunta clau és qui té oportunitat real de participar en les matemàtiques que estan passant a l'aula. Una classe pot tenir un contingut excel·lent, però si només uns quants alumnes hi prenen part, no podem parlar d'una aula equitativa. Prender-hi part aquí fa referència a poder-se involucrar amb la idea matemàtica central de l'activitat. Cal dissenyar activitats amb múltiples punts d'entrada, que permetin diferents estratègies, que fomentin la discussió d'idees amb temps per pensar individualment i parlar en petit grup, que cuidin el llenguatge i els contextos i que facin possible que tots els alumnes hi contribueixin de manera significativa.
 
@@ -44,7 +44,7 @@ Aquestes eines prenen tot el seu sentit quan s'utilitzen de manera col·laborati
 
 ## TRU i Lesson Study
 
-En aquest sentit, una combinació especialment interessant és la del TRU amb el _Lesson Study_. El cicle de definició d'objectius o de pregunta de recerca/observació, estudi de materials, dissney i planificació d'una sessió, observació i anàlisi propi del _Lesson Study_ encaixa molt bé amb el marc TRU, que aporta un llenguatge compartit, un focus clar per a l'observació, criteris clars per decidir què observar i com interpretar el que passa. Treballar d'aquesta manera permet passar d'observacions genèriques a anàlisis més fines, basades en evidències obervades a l'aula i orientades a la millora de la pràctica.
+En aquest sentit, una combinació especialment interessant és la del TRU amb el _Lesson Study_. El cicle de definició d'objectius o de pregunta de recerca/observació, estudi de materials, disseny i planificació d'una sessió, observació i anàlisi propi del _Lesson Study_ encaixa molt bé amb el marc TRU, que aporta un llenguatge compartit, un focus clar per a l'observació, criteris clars per decidir què observar i com interpretar el que passa. Treballar d'aquesta manera permet passar d'observacions genèriques a anàlisis més fins, basats en evidències obervades a l'aula i orientats a la millora de la pràctica.
 
 ## Algunes idees finals
 
@@ -61,7 +61,7 @@ De la xerrada i del treball amb aquest marc, em quedaria amb algunes idees que c
 
 I, potser la més important:
 
-> Sempre tenim marge per aprendre i créixer com a docents.
+- Sempre tenim marge per aprendre i créixer com a docents.
 
 L'aprenentatge continuat és l'essència mateixa d'ensenyar. Aprenem més significativament quan interactuem amb altres: creem i mantinguem relacions que ens desafïin però també que ens donin suport.
 
