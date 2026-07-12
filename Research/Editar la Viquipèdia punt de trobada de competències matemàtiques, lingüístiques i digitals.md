@@ -5,7 +5,7 @@ section: Research
 permalink: Research/Publications/Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals/
 ---
 
-[Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals](Editar la Viquipèdia punt de trobada de competències matemàtiques, lingüístiques i digitals).  
+Editar la Viquipèdia: punt de trobada de competències matemàtiques, lingüístiques i digitals.  
 **Martí Cuquet**, Agnes Schlüter.  
 [_Noubiaix: revista de la FEEMCAT i la SCM 45_, 44-55](https://www.raco.cat/index.php/Noubiaix/article/view/371593)
 
