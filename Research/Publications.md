@@ -74,11 +74,11 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 0. [Lectura crítica para una formación permanente y autónoma en educación matemática](Lectura crítica para una formación permanente y autónoma en educación matemática).  
    **Martí Cuquet**, Manel Martínez.  
    In: XXII Jornadas para el aprendizaje y la Enseñanza de las Matemáticas, Jaén, 1-4 July, 2026.  
-   [ PDF | Bibtex ]
+   [ [PDF](Lectura crítica para una formación permanente y autónoma en educación matemática.pdf) | Bibtex ]
 0. [La anticipación del cierre de una Thinking Classroom mediante el árbol de gestión](La anticipación del cierre de una Thinking Classroom mediante el árbol de gestión).  
    Mariona Areny, **Martí Cuquet**, Josep Joan, Marta Palomo.  
    In: XXII Jornadas para el aprendizaje y la Enseñanza de las Matemáticas, Jaén, 1-4 July, 2026.  
-   [ PDF | Bibtex ]
+   [ [PDF](La anticipación del cierre de una Thinking Classroom mediante el árbol de gestión.pdf) | Bibtex ]
 0. [L'estudi de classes al laboratori de matemàtiques com a model d'autoformació](L'estudi de classes al laboratori de matemàtiques com a model d'autoformació).  
    Mariona Areny, **Martí Cuquet**, Marta Palomo, Roger Santmiquel.  
    In: [Congrés Català d'Educació Matemàtica 2025, Lleida, 7-9 July, 2025](https://drive.google.com/file/d/1SIgdmjM5QUUpzU6JULmzaJojUD0oaHJY/view).  
