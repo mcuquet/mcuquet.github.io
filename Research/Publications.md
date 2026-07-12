@@ -5,7 +5,7 @@ section: Research
 permalink: /Research/Publications/
 ---
 
-Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](https://webs.uab.cat/giq/member/john-calsamiglia/), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.professoren.tum.de/en/kraus-barbara), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, [Julio I. de Vicente](https://www.ucm.es/mathqi/julio-de-vicente), Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the BYTE project, [Anna Fensel](https://sites.google.com/site/annafensel/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel, Helena Roig-Ester, Anna Ciraso-Calí, Carla Quesada-Pallarès, Laia Palou, Ana Sánchez-Escobar." %}
+Here you can find a list of my scientific publications.{% sidenote "coauthors" "Coauthored with [John Calsamiglia](https://webs.uab.cat/giq/member/john-calsamiglia/), Florencia del Castillo, Tatjana Carle, [Barbara Kraus](https://www.professoren.tum.de/en/kraus-barbara), [Otfried Gühne](https://www.physik.uni-siegen.de/tqo/members/guehne/), Frank E.S. Steinhoff, Tobias Moroder, Matteo Rossi, Dagmar Bruß, Chiara Macchiavello, Katharina Schwaiger, David Sauerwein, [Julio I. de Vicente](https://www.ucm.es/mathqi/julio-de-vicente), Michael Martin, Erwin Folmer, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan and other collaborators in the BYTE project, [Anna Fensel](https://sites.google.com/site/annafensel/), Lorenzo Bigagli, Christian Junker, Zaenal Akbar, María José García San Pedro, and Agnes Schlüter, Mariona Areny, Marta Palomo, Roger Santmiquel, Helena Roig-Ester, Anna Ciraso-Calí, Carla Quesada-Pallarès, [Laia Palou](https://sites.google.com/xtec.cat/plantilla-eines-avaluacio), Ana Sánchez-Escobar." %}
 
 For citation indices, see [Google Scholar](https://scholar.google.at/citations?user=540UR0IAAAAJ).
 
@@ -106,7 +106,6 @@ For citation indices, see [Google Scholar](https://scholar.google.at/citations?u
 
 ## Eprints
 
-- 
 - [Societal impacts of big data: challenges and opportunities in Europe](Societal impacts of big data challenges and opportunities in Europe).  
   **Martí Cuquet**, Guillermo Vega-Gorgojo, Hans Lammerant, Rachel Finn, Umair ul Hassan.  
   [ [arXiv:1704.03361](https://arxiv.org/abs/1704.03361) ]
