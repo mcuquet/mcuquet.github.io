@@ -31,10 +31,7 @@ web:
 [Last.fm](http://www.last.fm/user/nilvar/),
 [LibraryThing](http://cat.librarything.com/profile/mcuquet/),
 [LinkedIn](http://www.linkedin.com/in/mcuquet/),
-[Mastodon](https://mastodont.cat/@marti),
-[Mendeley](http://www.mendeley.com/profiles/marti-cuquet/),
-[Twitter](https://twitter.com/mcuquet),
-[Wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet)
+[Twitter](https://twitter.com/mcuquet)
 i també a la [Viquipèdia](https://ca.wikipedia.org/wiki/Usuari:Habicht).
 Acull ara part de tot això _e non solo_, i també la tercera tongada de
 pensaments recollits en forma de blog. Tampoc crec que en sigui l'última.
