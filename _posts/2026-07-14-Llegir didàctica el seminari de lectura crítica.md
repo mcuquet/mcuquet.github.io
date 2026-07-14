@@ -16,7 +16,7 @@ El **seminari de lectura crítica** mira de tancar, ni que sigui parcialment, la
 
 > Un _journal club_ és un grup d'individus que es troben regularment per discutir de manera estructurada publicacions que són rellevants pels seus interessos professionals.
 
-És un format que ja havíem explorat prèviament al [Grup ReMA](https://grup-rema.github.io/) però que ara està agafant embranzida i que que elements interessants per poder abordar també un tercer aspecte que considero necessari en una bona formació: que sigui escalable, i per tant que pugui ser sostenible en el temps i tingui elements que la permetin convertir-la en autodirigida.
+És un format que ja havíem explorat prèviament al [Grup ReMA](https://grup-rema.github.io/) però que ara està agafant embranzida i que té elements interessants per poder abordar també un tercer aspecte que considero necessari en una bona formació: que sigui escalable, i per tant que pugui ser sostenible en el temps i tingui elements que la permetin convertir-la en autodirigida.
 
 Teniu disponible la comunicació presentada a les JAEM al següent enllaç:
 
